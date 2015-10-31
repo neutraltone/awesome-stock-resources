@@ -1,4 +1,4 @@
-Free-Stock-Resources
+Free Stock Resources
 ====================
 A collection of links for free stock photography, video and Illustration
 websites.
