@@ -91,7 +91,7 @@ http://publicdomainarchive.com/
 http://raumrot.com/
 * **Realistic Shots**<br>
 http://realisticshots.com/
-** **Re:splashed**<br>
+* **Re:splashed**<br>
 http://www.resplashed.com/
 * **Shutteroo**<br>
 http://shutteroo.com/
