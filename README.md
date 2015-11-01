@@ -9,8 +9,10 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 a broken link or a resource which isn't listed, please, feel free to make a pull
 request.
 
-Photography
------------
+Free
+----
+
+### Photography
 * [Bara Art](http://www.bara-art.com/)
 * [Barn Images](http://barnimages.com/)
 * [CC0 Photo](http://cc0.photo/)
@@ -68,21 +70,18 @@ Photography
 * [Unsplash](https://unsplash.com/)
 * [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/)
 
-Illustration
-------------
+### Illustration
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/)
 * [Old Book Illustrations](http://www.oldbookillustrations.com/)
 
-Videos
-------
+### Videos
 * [Coverr](http://coverr.co/)
 * [Distill](http://www.wedistill.io/)
 * [Mazwai](http://mazwai.com/)
 * [Pexels Videos](https://videos.pexels.com/)
 * [Vidsplay](http://www.vidsplay.com/)
 
-Patterns
---------
+### Patterns
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [The Pattern Library](http://thepatternlibrary.com/)
