@@ -14,8 +14,8 @@ Photography
 * [Bara Art](http://www.bara-art.com/)
 * [Barn Images](http://barnimages.com/)
 * [CC0 Photo](http://cc0.photo/)
-* [Crow the Stone](http://crowthestone.com/)
 * [Creative Vix](http://creativevix.com/stock)
+* [Crow the Stone](http://crowthestone.com/)
 * [Cupcake](http://cupcake.nilssonlee.se/)
 * [Death to the Stock Photo](http://join.deathtothestockphoto.com/)
 * [Designer Pics](http://www.designerspics.com/)
@@ -27,8 +27,8 @@ Photography
 * [Free Refe Real Life Photos](http://getrefe.tumblr.com/)
 * [Freely Photos](http://freelyphotos.com)
 * [Furious Camera](http://furiouscamera.com/)
-* [Gratisography](http://www.gratisography.com/)
 * [Good Stock Photos](https://goodstock.photos/)
+* [Gratisography](http://www.gratisography.com/)
 * [IM Creator](http://www.imcreator.com/free) (Requires Attribution)
 * [ISO Republic](http://isorepublic.com/)
 * [Jay Mantri](http://jaymantri.com/)
@@ -50,8 +50,8 @@ Photography
 * [Picography](http://picography.co/)
 * [Public Domain Archive](http://publicdomainarchive.com/)
 * [Raumrot](http://raumrot.com/)
-* [Realistic Shots](http://realisticshots.com/)
 * [Re:splashed](http://www.resplashed.com/)
+* [Realistic Shots](http://realisticshots.com/)
 * [Shutteroo](http://shutteroo.com/)
 * [Skitter Photo](http://skitterphoto.com/)
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/)
@@ -83,6 +83,7 @@ Videos
 
 Patterns
 --------
+* [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [The Pattern Library](http://thepatternlibrary.com/)
 * [UI Gradients](http://uigradients.com/)
