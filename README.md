@@ -29,7 +29,7 @@ Photography
 * [Furious Camera](http://furiouscamera.com/)
 * [Gratisography](http://www.gratisography.com/)
 * [Good Stock Photos](https://goodstock.photos/)
-* [IM Creator](http://www.imcreator.com/free)
+* [IM Creator](http://www.imcreator.com/free) (Requires Attribution)
 * [ISO Republic](http://isorepublic.com/)
 * [Jay Mantri](http://jaymantri.com/)
 * [Jé Shoots](http://jeshoots.com/)
@@ -66,6 +66,7 @@ Photography
 * [Travel Coffee Book](http://travelcoffeebook.com/)
 * [Trunklog](http://trunklog.com/)
 * [Unsplash](https://unsplash.com/)
+* [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/)
 
 Illustration
 ------------
