@@ -1,5 +1,4 @@
-Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=======================
+# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of links for awesome stock photography, video and Illustration
 websites.
 
@@ -9,10 +8,19 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 a broken link or a resource which isn't listed, please, feel free to make a pull
 request.
 
-Free
-----
+## Table of Contents
+
+* [Free](#free)
+  * [Photography](#photography)
+  * [Illustration](#illustration)
+  * [Videos](#videos)
+  * [Patterns](#patterns)
+* [Paid](#paid)
+
+## Free
 
 ### Photography
+
 * [Bara Art](http://www.bara-art.com/)
 * [Barn Images](http://barnimages.com/)
 * [CC0 Photo](http://cc0.photo/)
@@ -31,7 +39,7 @@ Free
 * [Furious Camera](http://furiouscamera.com/)
 * [Good Stock Photos](https://goodstock.photos/)
 * [Gratisography](http://www.gratisography.com/)
-* [IM Creator](http://www.imcreator.com/free) (Requires Attribution)
+* [IM Creator](http://www.imcreator.com/free) (Requires attribution)
 * [ISO Republic](http://isorepublic.com/)
 * [Jay Mantri](http://jaymantri.com/)
 * [Jé Shoots](http://jeshoots.com/)
@@ -71,10 +79,12 @@ Free
 * [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/)
 
 ### Illustration
+
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/)
 * [Old Book Illustrations](http://www.oldbookillustrations.com/)
 
 ### Videos
+
 * [Coverr](http://coverr.co/)
 * [Distill](http://www.wedistill.io/)
 * [Mazwai](http://mazwai.com/)
@@ -82,6 +92,7 @@ Free
 * [Vidsplay](http://www.vidsplay.com/)
 
 ### Patterns
+
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [The Pattern Library](http://thepatternlibrary.com/)
