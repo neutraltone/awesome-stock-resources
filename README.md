@@ -131,8 +131,16 @@ http://www.oldbookillustrations.com/
 
 Videos
 ------
+* **Coverr**<br>
+http://coverr.co/
+* **Distill**<br>
+http://www.wedistill.io/
 * **Mazwai**<br>
 http://mazwai.com/
+* **Pexels Videos**<br>
+https://videos.pexels.com/
+* **Vidsplay**<br>
+ http://www.vidsplay.com/
 
 Patterns
 --------
