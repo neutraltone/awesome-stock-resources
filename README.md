@@ -100,6 +100,7 @@ request.
 
 ## Paid
 
+* [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 
 ## License
