@@ -21,18 +21,31 @@ request.
 
 ### Photography
 
-* [Bara Art](http://www.bara-art.com/)
-* [Barn Images](http://barnimages.com/)
-* [CC0 Photo](http://cc0.photo/)
-* [Creative Vix](http://creativevix.com/stock)
-* [Crow the Stone](http://crowthestone.com/)
-* [Cupcake](http://cupcake.nilssonlee.se/)
-* [Death to the Stock Photo](http://join.deathtothestockphoto.com/)
-* [Designer Pics](http://www.designerspics.com/)
-* [Epicantus](http://epicantus.tumblr.com/)
-* [Fancy Crave](http://fancycrave.com/)
-* [Flickr Commons](https://www.flickr.com/commons)
-* [Foodies Feed](http://foodiesfeed.com)
+* [Bara Art](http://www.bara-art.com/) - high resolution photos personal and
+commercial projects.
+* [Barn Images](http://barnimages.com/) - high-resolution non-stock photography.
+* [CC0 Photo](http://cc0.photo/) - Free
+[CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/) photos for
+private, public and commercial purposes.
+* [Creative Vix](http://creativevix.com/stock) - Free
+[CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/) photos for
+private, public and commercial purposes.
+* [Crow the Stone](http://crowthestone.com/) - Free to use anywhere
+[CC0-licensed](http://creativecommons.org/publicdomain/zero/1.0/) photos.
+* [Cupcake](http://cupcake.nilssonlee.se/) - Free to use anywhere
+[CC0-licensed](http://creativecommons.org/publicdomain/zero/1.0/) photos.
+* [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - Monthly
+free stock photo mailing list.
+* [Designer Pics](http://www.designerspics.com/) - Attribution free hi-res
+photos for personal and commerical use.
+* [Epicantus](http://epicantus.tumblr.com/) - Free hi-resolution photo added
+every week.
+* [Fancy Crave](http://fancycrave.com/) - Two new
+[CC0-licensed](http://creativecommons.org/publicdomain/zero/1.0/) images added
+every day.
+* [Flickr Commons](https://www.flickr.com/commons) - Flickr's catalogue of
+the worlds public photo archives.
+* [Foodies Feed](http://foodiesfeed.com) - Free food based images for your.
 * [Free Nature Stock](http://freenaturestock.com/)
 * [Free Refe Real Life Photos](http://getrefe.tumblr.com/)
 * [Freely Photos](http://freelyphotos.com)
