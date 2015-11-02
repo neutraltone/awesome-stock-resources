@@ -100,6 +100,7 @@ request.
 
 ## Paid
 
+* [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 
 ## License
