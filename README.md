@@ -98,9 +98,6 @@ request.
 * [The Pattern Library](http://thepatternlibrary.com/)
 * [UI Gradients](http://uigradients.com/)
 
-Paid
-----
-If there are any particularly exceptional paid resource feel free to recommend
-them by creating an
-[issue](https://github.com/neutraltone/Awesome-Stock-Resources/issues/new) or a
-[pull request](https://github.com/neutraltone/Awesome-Stock-Resources/compare/)
+## Paid
+
+* [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
