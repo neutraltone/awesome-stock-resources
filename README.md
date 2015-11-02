@@ -44,7 +44,7 @@ request.
 * [Jay Mantri](http://jaymantri.com/)
 * [Jé Shoots](http://jeshoots.com/)
 * [Kaboom Pics](http://kaboompics.com/)
-* [Libre Stock](http://librestock.com/)
+* [Libre Stock](http://librestock.com/) - Search engine for free stock photo websites.
 * [Life of Pix](http://www.lifeofpix.com/)
 * [Little Visual](http://littlevisuals.co/)
 * [Magdeleine](http://magdeleine.co/browse/)
