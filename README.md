@@ -31,9 +31,9 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Fancy Crave](http://fancycrave.com/) - Two new [CC0-licensed](http://creativecommons.org/publicdomain/zero/1.0/) images added every day.
 * [Flickr Commons](https://www.flickr.com/commons) - Flickr's catalogue of the worlds public photo archives.
 * [Foodies Feed](http://foodiesfeed.com) - Food based images for your personal or commercial projects.
-*  Nature Stock](http:/naturestock.com/) - [CC0-licensed](http://creativecommons.org/publicdomain/zero/1.0/) high resolution nature stock photos.
-*  Refe Real Life Photos](http://getrefe.tumblr.com/) - high resolution photos for personal or commercial purposes.
-* ly Photos](http:/lyphotos.com) - Totally high quality [CC0-licensed](http://creativecommons.org/publicdomain/zero/1.0/) Christian stock photography.
+* [Nature Stock](http:/naturestock.com/) - [CC0-licensed](http://creativecommons.org/publicdomain/zero/1.0/) high resolution nature stock photos.
+* [Refe Real Life Photos](http://getrefe.tumblr.com/) - high resolution photos for personal or commercial purposes.
+* [ly Photos](http:/lyphotos.com) - Totally high quality [CC0-licensed](http://creativecommons.org/publicdomain/zero/1.0/) Christian stock photography.
 * [Furious Camera](http://furiouscamera.com/) - [CC0-licensed](http://creativecommons.org/publicdomain/zero/1.0/) Life Hi-Fi Photos.
 * [Good Stock Photos](https://goodstock.photos/) - One new photo added each day.
 * [Gratisography](http://www.gratisography.com/) - high-resolution pictures you can use on your personal and commercial projects.
