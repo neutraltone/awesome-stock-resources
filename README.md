@@ -18,6 +18,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Illustration](#illustration)
 * [Videos](#videos)
 * [Patterns](#patterns)
+* [Fonts][#fonts]
 * [Paid Resources](#paid-resources)
 * [How To Contribute](#how-to-contribute)
 * [How To Share](#how-to-share)
@@ -119,6 +120,10 @@ All the websites below have specifically specified that their content is [CC0-li
 * [Subtle Patterns](http://subtlepatterns.com/) - Image based background textures and patterns.
 * [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
 * [UI Gradients](http://uigradients.com/) - Nice, subtle linear gradients to use in your designs.
+
+## Fonts
+
+* [The Leagure of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 
 ## Paid Resources
 
