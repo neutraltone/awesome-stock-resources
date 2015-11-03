@@ -130,10 +130,10 @@ All the websites below have specifically specified that their content is [CC0-li
 ## Font Icons
 
 * [Font Awesome](http://fontawesome.io/)
-* [Ionicons](http://ionicons.com/)
-* [Ico Moon](https://icomoon.io/)
-* [Glyph Icons](http://glyphicons.com/)
 * [Fontello](http://fontello.com/)
+* [Glyph Icons](http://glyphicons.com/)
+* [Ico Moon](https://icomoon.io/)
+* [Ionicons](http://ionicons.com/)
 
 ## Paid Resources
 
