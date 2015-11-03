@@ -1,8 +1,8 @@
 # Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of links for awesome stock photography, video and Illustration websites.
-
 ![Introductory images](/img/splash.png)
+
+A collection of links for awesome stock photography, video and Illustration websites.
 
 I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel to make a pull request.
 
@@ -20,6 +20,8 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
   * [Videos](#videos)
   * [Patterns](#patterns)
 * [Paid Resources](#paid-resources)
+* [How To Contribute](#how-to-contribute)
+* [How To Share](#how-to-share)
 
 ## Photography
 
@@ -124,6 +126,17 @@ All the websites below have specifically specified that their content is [CC0-li
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
+
+## How To Contribute
+
+Please read [CONTRIBUTING](/CONTRIBUTING.md).
+
+## How to Share
+
++ [Share on Twitter](http://twitter.com/home?status=https://github.com/neutraltone/awesome-stock-resources%0AAwesome%20Stock%20Resources)
++ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
++ [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
++ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
 
 ## License
 
