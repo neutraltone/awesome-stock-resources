@@ -64,7 +64,7 @@ All the websites below have specifically specified that their content is [CC0-li
 * [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - ([License](http://www.mediafire.com/view/2ifplcw682487nz/Death_to_the_Stock_Photo_-_Photograph_End_User_License_%281-2014%29_%281%29.pdf)).
 * [Designer Pics](http://www.designerspics.com/) - ([License](http://www.designerspics.com/faq-and-terms/)).
 * [Foodies Feed](http://foodiesfeed.com) - Food based images. ([License](https://foodiesfeed.com/faq/)).
-* [Good Stock Photos](https://goodstock.photos/) - ([License](https://goodstock.photos/about/]).
+* [Good Stock Photos](https://goodstock.photos/) - ([License](https://goodstock.photos/about/)).
 * [ISO Republic](http://isorepublic.com/) - ([License](http://isorepublic.com/terms)).
 * [Kaboom Pics](http://kaboompics.com/) - ([License](http://kaboompics.com/terms)).
 * [Pic Jumbo](http://picjumbo.com/) - ([License](https://picjumbo.com/faq-and-terms/)).
