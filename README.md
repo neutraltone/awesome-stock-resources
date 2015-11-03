@@ -83,7 +83,7 @@ All the websites below have specifically specified that their content is [CC0-li
 * [Public Domain Archive](http://publicdomainarchive.com/) - New stock photos every single week.
 * [SpaceX Photos](https://www.flickr.com/photos/spacexphotos/) - Promotional SpaceX stock photography.
 
-### Attribution required licenses
+### Attribution Required licenses
 
 * [IM Creator](http://www.imcreator.com/free) - Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) photos. Also includes Website templates and icons.
 * [Raumrot](http://raumrot.com/) - ([CC-BY 2.0](http://creativecommons.org/licenses/by/2.0/)) licensed.
@@ -132,7 +132,7 @@ All the websites below have specifically specified that their content is [CC0-li
 * [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 
-## How To Contribute
+## How to Contribute
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
