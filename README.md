@@ -19,6 +19,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Videos](#videos)
 * [Patterns](#patterns)
 * [Fonts](#fonts)
+* [Font Icons](#font-icons)
 * [Paid Resources](#paid-resources)
 * [How to Contribute](#how-to-contribute)
 * [How to Share](#how-to-share)
@@ -125,6 +126,14 @@ All the websites below have specifically specified that their content is [CC0-li
 
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [The Leagure of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
+
+## Font Icons
+
+* [Font Awesome](http://fontawesome.io/)
+* [Ionicons](http://ionicons.com/)
+* [Ico Moon](https://icomoon.io/)
+* [Glyph Icons](http://glyphicons.com/)
+* [Fontello](http://fontello.com/)
 
 ## Paid Resources
 
