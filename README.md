@@ -60,19 +60,19 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ### Custom License / Usage
 
-* [Bara Art](http://www.bara-art.com/) - [Usage and restrictions](http://www.bara-art.com/about/).
-* [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - [License](http://www.mediafire.com/view/2ifplcw682487nz/Death_to_the_Stock_Photo_-_Photograph_End_User_License_%281-2014%29_%281%29.pdf).
-* [Designer Pics](http://www.designerspics.com/) - [Usage and restrictions](http://www.designerspics.com/faq-and-terms/).
-* [Foodies Feed](http://foodiesfeed.com) - Food based images. [Usage and restrictions](https://foodiesfeed.com/faq/).
-* [Good Stock Photos](https://goodstock.photos/) - [Usage and restrictions](https://goodstock.photos/about/].
-* [ISO Republic](http://isorepublic.com/) - [Usage and restrictions](http://isorepublic.com/terms).
-* [Kaboom Pics](http://kaboompics.com/) - [Usage and restrictions](http://kaboompics.com/terms).
-* [Pic Jumbo](http://picjumbo.com/) - [Usage and restrictions](https://picjumbo.com/faq-and-terms/).
-* [Picography](http://picography.co/) - [Usage and restrictions](http://picography.co/terms/).
-* [Shutteroo](http://shutteroo.com/) - [Usage and restrictions](http://shutteroo.com/about/).
-* [Split Shire](http://splitshire.com/) - [Usage and restrictions](http://www.splitshire.com/about/).
-* [Startup Stock Photos](http://startupstockphotos.com/) - Startup based photography. [Usage and restrictions](http://startupstockphotos.com/terms-of-use).
-* [Tookapic](https://stock.tookapic.com/?filter=free) - Free listing from Tookapic. [Usage and restrictions](https://tookapic.com/terms).
+* [Bara Art](http://www.bara-art.com/) - ([Usage and restrictions](http://www.bara-art.com/about/)).
+* [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - ([License](http://www.mediafire.com/view/2ifplcw682487nz/Death_to_the_Stock_Photo_-_Photograph_End_User_License_%281-2014%29_%281%29.pdf)).
+* [Designer Pics](http://www.designerspics.com/) - ([Usage and restrictions](http://www.designerspics.com/faq-and-terms/)).
+* [Foodies Feed](http://foodiesfeed.com) - Food based images. ([Usage and restrictions](https://foodiesfeed.com/faq/)).
+* [Good Stock Photos](https://goodstock.photos/) - ([Usage and restrictions](https://goodstock.photos/about/]).
+* [ISO Republic](http://isorepublic.com/) - ([Usage and restrictions](http://isorepublic.com/terms)).
+* [Kaboom Pics](http://kaboompics.com/) - ([Usage and restrictions](http://kaboompics.com/terms)).
+* [Pic Jumbo](http://picjumbo.com/) - ([Usage and restrictions](https://picjumbo.com/faq-and-terms/)).
+* [Picography](http://picography.co/) - ([Usage and restrictions](http://picography.co/terms/)).
+* [Shutteroo](http://shutteroo.com/) - ([Usage and restrictions](http://shutteroo.com/about/)).
+* [Split Shire](http://splitshire.com/) - ([Usage and restrictions](http://www.splitshire.com/about/)).
+* [Startup Stock Photos](http://startupstockphotos.com/) - Startup based photography. ([Usage and restrictions](http://startupstockphotos.com/terms-of-use)).
+* [Tookapic](https://stock.tookapic.com/?filter=free) - Free listing from Tookapic. ([Usage and restrictions](https://tookapic.com/terms)).
 
 ### Public Domain
 
@@ -83,10 +83,10 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ### Attribution required licenses
 
-* [IM Creator](http://www.imcreator.com/free) - Some CC0-licensed photos. Also includes Website templates and icons.
+* [IM Creator](http://www.imcreator.com/free) - Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) photos. Also includes Website templates and icons.
 * [Raumrot](http://raumrot.com/) - ([CC-BY 2.0](http://creativecommons.org/licenses/by/2.0/)) licensed.
 * [Super Famour](http://images.superfamous.com/) - ([CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)) licensed.
-* [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - [CC Attribution 2.0](http://creativecommons.org/licenses/by/2.0/) Licensed picture from Women of Color in Tech.
+* [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - ([CC Attribution 2.0](http://creativecommons.org/licenses/by/2.0/)) Licensed picture from Women of Color in Tech.
 
 ### Unspecified License
 
