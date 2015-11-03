@@ -11,7 +11,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Free]](#free)
   * [Photography](#photography)
     * [CC0-licensed](#CC0-licensed)
-    * [Custom License / Usage](#custom-license-usage)
+    * [Custom License / Usage](#custom-license--usage)
     * [Public Domain](#public-domain)
     * [Attribution required licenses](#attribution-required-licenses)
     * [Unspecified License](#unspecified-license)
