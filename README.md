@@ -20,8 +20,8 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Patterns](#patterns)
 * [Fonts](#fonts)
 * [Paid Resources](#paid-resources)
-* [How To Contribute](#how-to-contribute)
-* [How To Share](#how-to-share)
+* [How to Contribute](#how-to-contribute)
+* [How to Share](#how-to-share)
 
 ## Photography
 
