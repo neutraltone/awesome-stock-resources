@@ -18,7 +18,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Illustration](#illustration)
 * [Videos](#videos)
 * [Patterns](#patterns)
-* [Fonts][#fonts]
+* [Fonts](#fonts)
 * [Paid Resources](#paid-resources)
 * [How To Contribute](#how-to-contribute)
 * [How To Share](#how-to-share)
