@@ -60,19 +60,19 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ### Custom License / Usage
 
-* [Bara Art](http://www.bara-art.com/) - ([Usage and restrictions](http://www.bara-art.com/about/)).
+* [Bara Art](http://www.bara-art.com/) - ([License](http://www.bara-art.com/about/)).
 * [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - ([License](http://www.mediafire.com/view/2ifplcw682487nz/Death_to_the_Stock_Photo_-_Photograph_End_User_License_%281-2014%29_%281%29.pdf)).
-* [Designer Pics](http://www.designerspics.com/) - ([Usage and restrictions](http://www.designerspics.com/faq-and-terms/)).
-* [Foodies Feed](http://foodiesfeed.com) - Food based images. ([Usage and restrictions](https://foodiesfeed.com/faq/)).
-* [Good Stock Photos](https://goodstock.photos/) - ([Usage and restrictions](https://goodstock.photos/about/]).
-* [ISO Republic](http://isorepublic.com/) - ([Usage and restrictions](http://isorepublic.com/terms)).
-* [Kaboom Pics](http://kaboompics.com/) - ([Usage and restrictions](http://kaboompics.com/terms)).
-* [Pic Jumbo](http://picjumbo.com/) - ([Usage and restrictions](https://picjumbo.com/faq-and-terms/)).
-* [Picography](http://picography.co/) - ([Usage and restrictions](http://picography.co/terms/)).
-* [Shutteroo](http://shutteroo.com/) - ([Usage and restrictions](http://shutteroo.com/about/)).
-* [Split Shire](http://splitshire.com/) - ([Usage and restrictions](http://www.splitshire.com/about/)).
-* [Startup Stock Photos](http://startupstockphotos.com/) - Startup based photography. ([Usage and restrictions](http://startupstockphotos.com/terms-of-use)).
-* [Tookapic](https://stock.tookapic.com/?filter=free) - Free listing from Tookapic. ([Usage and restrictions](https://tookapic.com/terms)).
+* [Designer Pics](http://www.designerspics.com/) - ([License](http://www.designerspics.com/faq-and-terms/)).
+* [Foodies Feed](http://foodiesfeed.com) - Food based images. ([License](https://foodiesfeed.com/faq/)).
+* [Good Stock Photos](https://goodstock.photos/) - ([License](https://goodstock.photos/about/]).
+* [ISO Republic](http://isorepublic.com/) - ([License](http://isorepublic.com/terms)).
+* [Kaboom Pics](http://kaboompics.com/) - ([License](http://kaboompics.com/terms)).
+* [Pic Jumbo](http://picjumbo.com/) - ([License](https://picjumbo.com/faq-and-terms/)).
+* [Picography](http://picography.co/) - ([License](http://picography.co/terms/)).
+* [Shutteroo](http://shutteroo.com/) - ([License](http://shutteroo.com/about/)).
+* [Split Shire](http://splitshire.com/) - ([License](http://www.splitshire.com/about/)).
+* [Startup Stock Photos](http://startupstockphotos.com/) - Startup based photography. ([License](http://startupstockphotos.com/terms-of-use)).
+* [Tookapic](https://stock.tookapic.com/?filter=free) - Free listing from Tookapic. ([License](https://tookapic.com/terms)).
 
 ### Public Domain
 
