@@ -37,7 +37,7 @@ All the websites below have specifically specified that their content is [CC0-li
 * [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
 * [Nature Stock](http:/naturestock.com/)
 * [ly Photos](http:/lyphotos.com) - Described as christian stock photography.
-* [Epicantus](http://epicantus.tumblr.com/) - hi-resolution photos added every week.
+* [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
 * [Furious Camera](http://furiouscamera.com/)
 * [Gratisography](http://www.gratisography.com/)
 * [Jay Mantri](http://jaymantri.com/)
@@ -123,6 +123,7 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ## Fonts
 
+* [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [The Leagure of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 
 ## Paid Resources
