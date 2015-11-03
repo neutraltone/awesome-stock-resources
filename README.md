@@ -101,8 +101,8 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ## Illustration
 
-* [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/)
-* [Old Book Illustrations](http://www.oldbookillustrations.com/)
+* [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - The British Library’s collections on Flickr Commons offer access to millions of public domain images.
+* [Old Book Illustrations](http://www.oldbookillustrations.com/) - A massive collection of illustrations from old books.
 
 ## Videos
 
@@ -114,10 +114,10 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ## Patterns
 
-* [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/)
-* [Subtle Patterns](http://subtlepatterns.com/)
-* [The Pattern Library](http://thepatternlibrary.com/)
-* [UI Gradients](http://uigradients.com/)
+* [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/) - CSS3 based repeatable patterns.
+* [Subtle Patterns](http://subtlepatterns.com/) - Image based background textures and patterns.
+* [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
+* [UI Gradients](http://uigradients.com/) - Nice, subtle linear gradients to use in your designs.
 
 ## Paid Resources
 
