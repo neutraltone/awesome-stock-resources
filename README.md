@@ -49,6 +49,7 @@ All the resources below have specifically specified that their content is [CC0-l
 * [MMT](http://mmt.li/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](http://negativespace.co/) - Stock photos added every week.
+* [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
 * [Pexels](http://www.pexels.com/)
 * [Photo Collections](http://photocollections.io/)
 * [Photo Crops](http://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
