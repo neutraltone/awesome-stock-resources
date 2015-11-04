@@ -28,7 +28,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 ### CC0-license
 
-All the websites below have specifically specified that their content is [CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
+All the resources below have specifically specified that their content is [CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
 
 * [Barn Images](http://barnimages.com/)
 * [CC0 Photo](http://cc0.photo/)
@@ -63,6 +63,8 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ### Custom License / Usage
 
+These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the *(license)* link next to the resource.
+
 * [Bara Art](http://www.bara-art.com/) - ([License](http://www.bara-art.com/about/)).
 * [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - ([License](http://www.mediafire.com/view/2ifplcw682487nz/Death_to_the_Stock_Photo_-_Photograph_End_User_License_%281-2014%29_%281%29.pdf)).
 * [Designer Pics](http://www.designerspics.com/) - ([License](http://www.designerspics.com/faq-and-terms/)).
@@ -79,12 +81,16 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ### Public Domain
 
+A collection of links to public domain photography resources.
+
 * [Flickr Commons](https://www.flickr.com/commons) - Flickr's catalogue of the worlds public photo archives.
 * [New Old Stock](http://nos.twnsnd.co/) - Vintage photos from the public archive. of known copyright restrictions.
 * [Public Domain Archive](http://publicdomainarchive.com/) - New stock photos every single week.
 * [SpaceX Photos](https://www.flickr.com/photos/spacexphotos/) - Promotional SpaceX stock photography.
 
 ### Attribution Required licenses
+
+The photographs on the following resources require Attribution unless otherwise stated on the website itself. These use a mixture of license, all of which have been linked to next to them.
 
 * [IM Creator](http://www.imcreator.com/free) - Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) photos. Also includes Website templates and icons.
 * [Raumrot](http://raumrot.com/) - ([CC-BY 2.0](http://creativecommons.org/licenses/by/2.0/)) licensed.
@@ -93,6 +99,8 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ### Unspecified License
 
+These resources haven't specified any formal terms of use or licenses.
+
 * [Refe Real Life Photos](http://getrefe.tumblr.com/)
 * [Nobl Web](http://www.noblweb.com/) - do as you please, high-resolution photos and textures.
 * [Re:splashed](http://www.resplashed.com/)
@@ -100,10 +108,14 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ## Illustration
 
+A collection of illustration resources which contain a mixture of historical archive, contemporary and public domain assets.
+
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - The British Library’s collections on Flickr Commons offer access to millions of public domain images.
 * [Old Book Illustrations](http://www.oldbookillustrations.com/) - A massive collection of illustrations from old books.
 
 ## Videos
+
+A selection of websites offering high quality video stock.
 
 * [Coverr](http://coverr.co/)
 * [Distill](http://www.wedistill.io/)
@@ -113,6 +125,8 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ## Patterns
 
+A mixture of CSS and image based pattern resources.
+
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/) - CSS3 based repeatable patterns.
 * [Subtle Patterns](http://subtlepatterns.com/) - Image based background textures and patterns.
 * [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
@@ -120,10 +134,14 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ## Fonts
 
+A mixture of free and open source font resources.
+
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [The Leagure of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 
 ## Font Icons
+
+A collection for font icon resources which can be used in your interface and website designs.
 
 * [Font Awesome](http://fontawesome.io/)
 * [Fontello](http://fontello.com/)
@@ -133,10 +151,14 @@ All the websites below have specifically specified that their content is [CC0-li
 
 ## Aggregated Content
 
+A liberal mixture of content aggregated from other free resources and made available at one central point.
+
 * [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
 
 ## Paid Resources
+
+And last, but not least, a selection of the best paid stock resources.
 
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
