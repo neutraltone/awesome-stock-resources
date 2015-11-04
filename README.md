@@ -14,12 +14,12 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
   * [Public Domain](#public-domain)
   * [Attribution required licenses](#attribution-required-licenses)
   * [Unspecified License](#unspecified-license)
-  * [Aggregated Content](#aggregated-content)
 * [Illustration](#illustration)
 * [Videos](#videos)
 * [Patterns](#patterns)
 * [Fonts](#fonts)
 * [Font Icons](#font-icons)
+* [Aggregated Content](#aggregated-content)
 * [Paid Resources](#paid-resources)
 * [How to Contribute](#how-to-contribute)
 * [How to Share](#how-to-share)
@@ -98,11 +98,6 @@ All the websites below have specifically specified that their content is [CC0-li
 * [Re:splashed](http://www.resplashed.com/)
 * [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
 
-### Aggregated Content
-
-* [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
-* [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
-
 ## Illustration
 
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - The British Library’s collections on Flickr Commons offer access to millions of public domain images.
@@ -135,6 +130,11 @@ All the websites below have specifically specified that their content is [CC0-li
 * [Glyph Icons](http://glyphicons.com/)
 * [Ico Moon](https://icomoon.io/)
 * [Ionicons](http://ionicons.com/)
+
+## Aggregated Content
+
+* [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
+* [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
 
 ## Paid Resources
 
