@@ -156,7 +156,7 @@ A collection for font icon resources which can be used in your interface and web
 
 A selection of websites offering color schemes.
 
-* [Colour Lovers]() - A creative community where people from around the world create and share colors, palettes and patterns.
+* [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
 
