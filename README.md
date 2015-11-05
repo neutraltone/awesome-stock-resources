@@ -19,6 +19,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Patterns](#patterns)
 * [Fonts](#fonts)
 * [Font Icons](#font-icons)
+* [Colors](#colors)
 * [Aggregated Content](#aggregated-content)
 * [Paid Resources](#paid-resources)
 * [How to Contribute](#how-to-contribute)
@@ -150,6 +151,14 @@ A collection for font icon resources which can be used in your interface and web
 * [Glyph Icons](http://glyphicons.com/)
 * [Ico Moon](https://icomoon.io/)
 * [Ionicons](http://ionicons.com/)
+
+## Colors
+
+A selection of websites offering color schemes.
+
+* [Colour Lovers]() - A creative community where people from around the world create and share colors, palettes and patterns.
+* [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
+* [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
 
 ## Aggregated Content
 
