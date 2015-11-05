@@ -102,6 +102,7 @@ The photographs on the following resources require Attribution unless otherwise 
 
 These resources haven't specified any formal terms of use or licenses.
 
+* [http://en.freejpg.com.ar/](Freejpg) - Free image bank for commercial and editorial use.
 * [Refe Real Life Photos](http://getrefe.tumblr.com/)
 * [Nobl Web](http://www.noblweb.com/) - do as you please, high-resolution photos and textures.
 * [Re:splashed](http://www.resplashed.com/)
