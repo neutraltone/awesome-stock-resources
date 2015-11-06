@@ -37,7 +37,7 @@ All the resources below have specifically specified that their content is [CC0-l
 * [Crow the Stone](http://crowthestone.com/)
 * [Cupcake](http://cupcake.nilssonlee.se/)
 * [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
-* [Nature Stock](http:/naturestock.com/)
+* [Free Nature Stock](http://freenaturestock.com/)
 * [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
 * [Furious Camera](http://furiouscamera.com/)
 * [Gratisography](http://www.gratisography.com/)
