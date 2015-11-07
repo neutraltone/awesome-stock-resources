@@ -141,7 +141,7 @@ A mixture of free and open source font resources.
 
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](http://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
-* [The Leagure of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
+* [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 
 ## Font Icons
 
