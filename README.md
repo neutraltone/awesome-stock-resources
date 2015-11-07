@@ -148,7 +148,7 @@ A collection for font icon resources which can be used in your interface and web
 
 * [Font Awesome](http://fontawesome.io/)
 * [Fontello](http://fontello.com/)
-* [Glyph Icons](http://glyphicons.com/)
+* [GLYPHICONS](http://glyphicons.com/)
 * [Ico Moon](https://icomoon.io/)
 * [Ionicons](http://ionicons.com/)
 
