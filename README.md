@@ -174,6 +174,7 @@ And last, but not least, a selection of the best paid stock resources.
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
+* [Stocksy](http://www.stocksy.com/) - "Cliché-free" Photos
 
 ## How to Contribute
 
