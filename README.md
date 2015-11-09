@@ -184,7 +184,7 @@ And last, but not least, a selection of the best paid stock resources.
 
 ## How to Contribute
 
-Please read [CONTRIBUTING](/contributing.md).
+Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## How to Share
 
