@@ -59,6 +59,7 @@ All the resources below have specifically specified that their content is [CC0-l
 * [Skitter Photo](http://skitterphoto.com/)
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 * [Stock Image Point](http://www.stock-image-point.com/)
+* [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly
 * [Stokpic](http://stokpic.com/)
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
@@ -160,6 +161,7 @@ A collection for font icon resources which can be used in your interface and web
 
 A selection of websites offering color schemes.
 
+* [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
