@@ -21,6 +21,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Font Icons](#font-icons)
 * [Colors](#colors)
 * [Aggregated Content](#aggregated-content)
+* [Sounds & Music](#sounds--music)
 * [Paid Resources](#paid-resources)
 * [How to Contribute](#how-to-contribute)
 * [How to Share](#how-to-share)
@@ -172,6 +173,11 @@ A liberal mixture of content aggregated from other free resources and made avail
 
 * [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
+
+## Sounds & Music
+
+* [Free Loops](http://free-loops.com/) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
+* [Freesound](http://www.freesound.org/) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 
 ## Paid Resources
 
