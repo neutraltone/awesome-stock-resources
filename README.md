@@ -45,7 +45,7 @@ All the resources below have specifically specified that their content is [CC0-l
 * [Jay Mantri](http://jaymantri.com/)
 * [Jé Shoots](http://jeshoots.com/)
 * [Life of Pix](http://www.lifeofpix.com/)
-* [Little Visual](http://littlevisuals.co/)
+* [Little Visuals](http://littlevisuals.co/)
 * [Magdeleine](http://magdeleine.co/browse/)
 * [MMT](http://mmt.li/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
@@ -96,7 +96,7 @@ The photographs on the following resources require Attribution unless otherwise 
 
 * [IM Creator](http://www.imcreator.com/free) - Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) photos. Also includes Website templates and icons.
 * [Raumrot](http://raumrot.com/) - ([CC-BY 2.0](http://creativecommons.org/licenses/by/2.0/)) licensed.
-* [Super Famour](http://images.superfamous.com/) - ([CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)) licensed.
+* [Superfamous](http://images.superfamous.com/) - ([CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)) licensed.
 * [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - ([CC Attribution 2.0](http://creativecommons.org/licenses/by/2.0/)) Licensed picture from Women of Color in Tech.
 
 ### Unspecified License
@@ -104,9 +104,10 @@ The photographs on the following resources require Attribution unless otherwise 
 These resources haven't specified any formal terms of use or licenses.
 
 * [Freejpg](http://en.freejpg.com.ar/) - Free image bank for commercial and editorial use.
-* [Refe Real Life Photos](http://getrefe.tumblr.com/)
 * [Nobl Web](http://www.noblweb.com/) - do as you please, high-resolution photos and textures.
+* [Peekspace](http://peek.space/) - Curated free-to-use space photography.
 * [Re:splashed](http://www.resplashed.com/)
+* [Refe Real Life Photos](http://getrefe.tumblr.com/)
 * [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
 
 ## Illustration
