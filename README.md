@@ -140,6 +140,7 @@ A mixture of CSS and image based pattern resources.
 A mixture of free and open source font resources.
 
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
+* [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
 * [The Leagure of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 
 ## Font Icons
