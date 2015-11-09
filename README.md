@@ -59,6 +59,7 @@ All the resources below have specifically specified that their content is [CC0-l
 * [Skitter Photo](http://skitterphoto.com/)
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 * [Stock Image Point](http://www.stock-image-point.com/)
+* [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly
 * [Stokpic](http://stokpic.com/)
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
