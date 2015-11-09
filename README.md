@@ -40,6 +40,7 @@ All the resources below have specifically specified that their content is [CC0-l
 * [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
 * [Free Nature Stock](http://freenaturestock.com/)
 * [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
+* [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color
 * [Furious Camera](http://furiouscamera.com/)
 * [Gratisography](http://www.gratisography.com/)
 * [Jay Mantri](http://jaymantri.com/)
