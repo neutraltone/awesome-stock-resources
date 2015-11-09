@@ -32,20 +32,21 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 All the resources below have specifically specified that their content is [CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
 
 * [Barn Images](http://barnimages.com/)
+* [Boss Fight!](http://bossfight.co) - 10–20 new images added daily.
 * [CC0 Photo](http://cc0.photo/)
 * [Creative Vix](http://creativevix.com/stock)
 * [Crow the Stone](http://crowthestone.com/)
 * [Cupcake](http://cupcake.nilssonlee.se/)
 * [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
-* [Nature Stock](http:/naturestock.com/)
-* [ly Photos](http:/lyphotos.com) - Described as christian stock photography.
+* [Free Nature Stock](http://freenaturestock.com/)
 * [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
+* [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color
 * [Furious Camera](http://furiouscamera.com/)
 * [Gratisography](http://www.gratisography.com/)
 * [Jay Mantri](http://jaymantri.com/)
 * [Jé Shoots](http://jeshoots.com/)
 * [Life of Pix](http://www.lifeofpix.com/)
-* [Little Visual](http://littlevisuals.co/)
+* [Little Visuals](http://littlevisuals.co/)
 * [Magdeleine](http://magdeleine.co/browse/)
 * [MMT](http://mmt.li/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
@@ -96,7 +97,7 @@ The photographs on the following resources require Attribution unless otherwise 
 
 * [IM Creator](http://www.imcreator.com/free) - Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) photos. Also includes Website templates and icons.
 * [Raumrot](http://raumrot.com/) - ([CC-BY 2.0](http://creativecommons.org/licenses/by/2.0/)) licensed.
-* [Super Famour](http://images.superfamous.com/) - ([CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)) licensed.
+* [Superfamous](http://images.superfamous.com/) - ([CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)) licensed.
 * [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - ([CC Attribution 2.0](http://creativecommons.org/licenses/by/2.0/)) Licensed picture from Women of Color in Tech.
 
 ### Unspecified License
@@ -104,9 +105,10 @@ The photographs on the following resources require Attribution unless otherwise 
 These resources haven't specified any formal terms of use or licenses.
 
 * [Freejpg](http://en.freejpg.com.ar/) - Free image bank for commercial and editorial use.
-* [Refe Real Life Photos](http://getrefe.tumblr.com/)
 * [Nobl Web](http://www.noblweb.com/) - do as you please, high-resolution photos and textures.
+* [Peekspace](http://peek.space/) - Curated free-to-use space photography.
 * [Re:splashed](http://www.resplashed.com/)
+* [Refe Real Life Photos](http://getrefe.tumblr.com/)
 * [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
 
 ## Illustration
@@ -140,8 +142,9 @@ A mixture of CSS and image based pattern resources.
 A mixture of free and open source font resources.
 
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
+* [Font Squirrel](http://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
-* [The Leagure of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
+* [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 
 ## Font Icons
 
@@ -149,7 +152,7 @@ A collection for font icon resources which can be used in your interface and web
 
 * [Font Awesome](http://fontawesome.io/)
 * [Fontello](http://fontello.com/)
-* [Glyph Icons](http://glyphicons.com/)
+* [GLYPHICONS](http://glyphicons.com/)
 * [Ico Moon](https://icomoon.io/)
 * [Ionicons](http://ionicons.com/)
 
@@ -175,6 +178,7 @@ And last, but not least, a selection of the best paid stock resources.
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
+* [Stocksy](http://www.stocksy.com/) - "Cliché-free" Photos
 
 ## How to Contribute
 
