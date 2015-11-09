@@ -142,7 +142,8 @@ A mixture of CSS and image based pattern resources.
 A mixture of free and open source font resources.
 
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
-* [The Leagure of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
+* [Font Squirrel](http://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
+* [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 
 ## Font Icons
 
