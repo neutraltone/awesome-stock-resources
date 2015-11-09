@@ -70,19 +70,19 @@ All the resources below have specifically specified that their content is [CC0-l
 
 These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the *(license)* link next to the resource.
 
-* [Bara Art](http://www.bara-art.com/) - ([License](http://www.bara-art.com/about/)).
-* [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - ([License](http://www.mediafire.com/view/2ifplcw682487nz/Death_to_the_Stock_Photo_-_Photograph_End_User_License_%281-2014%29_%281%29.pdf)).
-* [Designer Pics](http://www.designerspics.com/) - ([License](http://www.designerspics.com/faq-and-terms/)).
-* [Foodies Feed](http://foodiesfeed.com) - Food based images. ([License](https://foodiesfeed.com/faq/)).
-* [Good Stock Photos](https://goodstock.photos/) - ([License](https://goodstock.photos/about/)).
-* [ISO Republic](http://isorepublic.com/) - ([License](http://isorepublic.com/terms)).
-* [Kaboom Pics](http://kaboompics.com/) - ([License](http://kaboompics.com/terms)).
-* [Pic Jumbo](http://picjumbo.com/) - ([License](https://picjumbo.com/faq-and-terms/)).
-* [Picography](http://picography.co/) - ([License](http://picography.co/terms/)).
-* [Shutteroo](http://shutteroo.com/) - ([License](http://shutteroo.com/about/)).
-* [Split Shire](http://splitshire.com/) - ([License](http://www.splitshire.com/about/)).
-* [Startup Stock Photos](http://startupstockphotos.com/) - Startup based photography. ([License](http://startupstockphotos.com/terms-of-use)).
-* [Tookapic](https://stock.tookapic.com/?filter=free) - Free listing from Tookapic. ([License](https://tookapic.com/terms)).
+* [Bara Art](http://www.bara-art.com/) - [:copyright:](http://www.bara-art.com/about/).
+* [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - [:copyright:](http://www.mediafire.com/view/2ifplcw682487nz/Death_to_the_Stock_Photo_-_Photograph_End_User_License_%281-2014%29_%281%29.pdf).
+* [Designer Pics](http://www.designerspics.com/) - [:copyright:](http://www.designerspics.com/faq-and-terms/).
+* [Foodies Feed](http://foodiesfeed.com) - Food based images. [:copyright:](https://foodiesfeed.com/faq/).
+* [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/).
+* [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms).
+* [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms).
+* [Pic Jumbo](http://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/).
+* [Picography](http://picography.co/) - [:copyright:](http://picography.co/terms/).
+* [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/).
+* [Split Shire](http://splitshire.com/) - [:copyright:](http://www.splitshire.com/about/).
+* [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
+* [Tookapic](https://stock.tookapic.com/?filter=free) - [:copyright:](https://tookapic.com/terms) Free listing from Tookapic.
 
 ### Public Domain
 
