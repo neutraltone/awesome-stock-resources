@@ -166,6 +166,7 @@ A selection of websites offering color schemes.
 
 * [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
+* [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
 
