@@ -18,7 +18,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Videos](#videos)
 * [Patterns](#patterns)
 * [Fonts](#fonts)
-* [Font Icons](#font-icons)
+* [Icons](#icons)
 * [Colors](#colors)
 * [Aggregated Content](#aggregated-content)
 * [Sounds & Music](#sounds--music)
@@ -149,15 +149,16 @@ A mixture of free and open source font resources.
 * [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 
-## Font Icons
+## Icons
 
-A collection for font icon resources which can be used in your interface and website designs.
+A collection for SVG and font icon resources which can be used in your interface and website designs.
 
 * [Font Awesome](http://fontawesome.io/) - MIT licensed icon font.
 * [Fontello](http://fontello.com/)
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - An icon font from Zurb, the people behind the Foundation framework.
 * [GLYPHICONS](http://glyphicons.com/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
 * [IcoMoon](https://icomoon.io/)
+* [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Ionicons](http://ionicons.com/)
 
 ## Colors
