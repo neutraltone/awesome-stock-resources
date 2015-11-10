@@ -4,7 +4,7 @@
 
 > A curated list of awesome  stock photography, video and illustration websites.
 
-I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel to make a pull request.
+I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Videos](#videos)
 * [Patterns](#patterns)
 * [Fonts](#fonts)
-* [Font Icons](#font-icons)
+* [Icons](#icons)
 * [Colors](#colors)
 * [Aggregated Content](#aggregated-content)
 * [Sounds & Music](#sounds--music)
@@ -149,15 +149,16 @@ A mixture of free and open source font resources.
 * [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 
-## Font Icons
+## Icons
 
-A collection for font icon resources which can be used in your interface and website designs.
+A collection for SVG and font icon resources which can be used in your interface and website designs.
 
-* [Font Awesome](http://fontawesome.io/)
+* [Font Awesome](http://fontawesome.io/) - MIT licensed icon font.
 * [Fontello](http://fontello.com/)
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - An icon font from Zurb, the people behind the Foundation framework.
-* [GLYPHICONS](http://glyphicons.com/)
+* [GLYPHICONS](http://glyphicons.com/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
 * [IcoMoon](https://icomoon.io/)
+* [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Ionicons](http://ionicons.com/)
 
 ## Colors
@@ -166,6 +167,7 @@ A selection of websites offering color schemes.
 
 * [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
+* [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
 
