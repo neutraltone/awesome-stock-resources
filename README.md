@@ -155,6 +155,7 @@ A collection for font icon resources which can be used in your interface and web
 
 * [Font Awesome](http://fontawesome.io/)
 * [Fontello](http://fontello.com/)
+* [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - An icon font from Zurb, the people behind the Foundation framework.
 * [GLYPHICONS](http://glyphicons.com/)
 * [IcoMoon](https://icomoon.io/)
 * [Ionicons](http://ionicons.com/)
