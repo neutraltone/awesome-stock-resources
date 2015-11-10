@@ -143,6 +143,7 @@ A mixture of CSS and image based pattern resources.
 
 A mixture of free and open source font resources.
 
+* [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](http://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
