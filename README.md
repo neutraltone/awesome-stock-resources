@@ -38,10 +38,10 @@ All the resources below have specifically specified that their content is [CC0-l
 * [Creative Vix](http://creativevix.com/stock)
 * [Crow the Stone](http://crowthestone.com/)
 * [Cupcake](http://cupcake.nilssonlee.se/)
-* [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
-* [Free Nature Stock](http://freenaturestock.com/)
 * [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
+* [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
 * [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color
+* [Free Nature Stock](http://freenaturestock.com/)
 * [Furious Camera](http://furiouscamera.com/)
 * [Gratisography](http://www.gratisography.com/)
 * [Jay Mantri](http://jaymantri.com/)
@@ -52,18 +52,18 @@ All the resources below have specifically specified that their content is [CC0-l
 * [MMT](http://mmt.li/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](http://negativespace.co/) - Stock photos added every week.
-* [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
 * [Pexels](http://www.pexels.com/)
 * [Photo Collections](http://photocollections.io/)
 * [Photo Crops](http://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
+* [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
 * [Skitter Photo](http://skitterphoto.com/)
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 * [Stock Image Point](http://www.stock-image-point.com/)
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly
 * [Stokpic](http://stokpic.com/)
-* [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
+* [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [Unsplash](https://unsplash.com/)
 
 ### Custom License / Usage
@@ -143,6 +143,7 @@ A mixture of CSS and image based pattern resources.
 
 A mixture of free and open source font resources.
 
+* [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](http://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
@@ -154,6 +155,7 @@ A collection for font icon resources which can be used in your interface and web
 
 * [Font Awesome](http://fontawesome.io/)
 * [Fontello](http://fontello.com/)
+* [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - An icon font from Zurb, the people behind the Foundation framework.
 * [GLYPHICONS](http://glyphicons.com/)
 * [IcoMoon](https://icomoon.io/)
 * [Ionicons](http://ionicons.com/)
