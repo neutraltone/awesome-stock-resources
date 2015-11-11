@@ -160,7 +160,7 @@ A collection for SVG and font icon resources which can be used in your interface
 * [GLYPHICONS](http://glyphicons.com/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
 * [IcoMoon](https://icomoon.io/)
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
-* [Ionicons](http://ionicons.com/)
+* [Ionicons](http://ionicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) The premium icon font for Ionic Framework. 100% free and open source. MIT Licensed.
 
 ## Colors
 
@@ -192,7 +192,7 @@ And last, but not least, a selection of the best paid stock resources.
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
-* [Stocksy](http://www.stocksy.com/) - "Cliché-free" Photos
+* [Stocksy](http://www.stocksy.com/) - "Cliché-free" Photos.
 
 ## How to Contribute
 
