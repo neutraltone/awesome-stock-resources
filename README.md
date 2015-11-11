@@ -154,11 +154,11 @@ A mixture of free and open source font resources.
 
 A collection for SVG and font icon resources which can be used in your interface and website designs.
 
-* [Font Awesome](http://fontawesome.io/) - MIT licensed icon font.
-* [Fontello](http://fontello.com/)
+* [Font Awesome](http://fontawesome.io/) - [:copyright:](https://opensource.org/licenses/MIT) MIT licensed icon font.
+* [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - An icon font from Zurb, the people behind the Foundation framework.
 * [GLYPHICONS](http://glyphicons.com/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
-* [IcoMoon](https://icomoon.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right. 
+* [IcoMoon](https://icomoon.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Ionicons](http://ionicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) The premium icon font for Ionic Framework. 100% free and open source. MIT Licensed.
 
