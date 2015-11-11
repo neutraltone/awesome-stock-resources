@@ -183,6 +183,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
 * [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
+* [Bfxr](http://www.bfxr.net/) - [:copyright:](http://www.bfxr.net/) Bfxr is an elaboration of the glorious Sfxr, the program of choice for many people looking to make sound effects for computer games.
 
 ## Paid Resources
 
