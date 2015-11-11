@@ -77,7 +77,7 @@ These following photography resources are those who have declared their own usag
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/).
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms).
 * [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms).
-* [morgueFile](https://www.morguefile.com/archive) - [:copyright](https://www.morguefile.com/archive) Free photo archive by creatives, for creatives.
+* [morgueFile](https://www.morguefile.com/archive) - [:copyright:](https://www.morguefile.com/archive) Free photo archive by creatives, for creatives.
 * [Pic Jumbo](http://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/).
 * [Picography](http://picography.co/) - [:copyright:](http://picography.co/terms/).
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/).
@@ -154,13 +154,13 @@ A mixture of free and open source font resources.
 
 A collection for SVG and font icon resources which can be used in your interface and website designs.
 
-* [Font Awesome](http://fontawesome.io/) - MIT licensed icon font.
-* [Fontello](http://fontello.com/)
+* [Font Awesome](http://fontawesome.io/) - [:copyright:](https://opensource.org/licenses/MIT) MIT licensed icon font.
+* [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - An icon font from Zurb, the people behind the Foundation framework.
 * [GLYPHICONS](http://glyphicons.com/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
-* [IcoMoon](https://icomoon.io/)
+* [IcoMoon](https://icomoon.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
-* [Ionicons](http://ionicons.com/)
+* [Ionicons](http://ionicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) The premium icon font for Ionic Framework. 100% free and open source. MIT Licensed.
 
 ## Colors
 
@@ -192,7 +192,7 @@ And last, but not least, a selection of the best paid stock resources.
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
-* [Stocksy](http://www.stocksy.com/) - "Cliché-free" Photos
+* [Stocksy](http://www.stocksy.com/) - "Cliché-free" Photos.
 
 ## How to Contribute
 
