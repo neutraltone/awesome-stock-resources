@@ -42,6 +42,7 @@ All the resources below have specifically specified that their content is [CC0-l
 * [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
 * [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color
 * [Free Nature Stock](http://freenaturestock.com/)
+* [Free-Images.cc](http://www.free-images.cc/) - Free images with WordPress Media Library Plugin
 * [Furious Camera](http://furiouscamera.com/)
 * [Gratisography](http://www.gratisography.com/)
 * [Jay Mantri](http://jaymantri.com/)
