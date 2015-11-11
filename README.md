@@ -77,7 +77,7 @@ These following photography resources are those who have declared their own usag
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/).
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms).
 * [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms).
-* [morgueFile](https://www.morguefile.com/archive) - [:copyright](https://www.morguefile.com/archive) Free photo archive by creatives, for creatives.
+* [morgueFile](https://www.morguefile.com/archive) - [:copyright:](https://www.morguefile.com/archive) Free photo archive by creatives, for creatives.
 * [Pic Jumbo](http://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/).
 * [Picography](http://picography.co/) - [:copyright:](http://picography.co/terms/).
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/).
