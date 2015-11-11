@@ -158,7 +158,7 @@ A collection for SVG and font icon resources which can be used in your interface
 * [Fontello](http://fontello.com/)
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - An icon font from Zurb, the people behind the Foundation framework.
 * [GLYPHICONS](http://glyphicons.com/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
-* [IcoMoon](https://icomoon.io/)
+* [IcoMoon](https://icomoon.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right. 
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Ionicons](http://ionicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) The premium icon font for Ionic Framework. 100% free and open source. MIT Licensed.
 
