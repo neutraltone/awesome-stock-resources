@@ -19,6 +19,8 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Patterns](#patterns)
 * [Fonts](#fonts)
 * [Icons](#icons)
+  * [Icon Fonts](#icon-fonts)
+  * [Icon Packages](#icons-packages)
 * [Colors](#colors)
 * [Aggregated Content](#aggregated-content)
 * [Sounds & Music](#sounds--music)
