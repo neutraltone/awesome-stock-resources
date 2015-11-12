@@ -60,6 +60,7 @@ All the resources below have specifically specified that their content is [CC0-l
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
 * [Skitter Photo](http://skitterphoto.com/)
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
+* [SpaceX Photos](https://www.flickr.com/photos/spacexphotos/) - Promotional SpaceX stock photography.
 * [Stock Image Point](http://www.stock-image-point.com/)
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly
 * [Stokpic](http://stokpic.com/)
@@ -93,7 +94,6 @@ A collection of links to public domain photography resources.
 * [Flickr Commons](https://www.flickr.com/commons) - Flickr's catalogue of the worlds public photo archives.
 * [New Old Stock](http://nos.twnsnd.co/) - Vintage photos from the public archive. of known copyright restrictions.
 * [Public Domain Archive](http://publicdomainarchive.com/) - New stock photos every single week.
-* [SpaceX Photos](https://www.flickr.com/photos/spacexphotos/) - Promotional SpaceX stock photography.
 
 ### Attribution Required licenses
 
