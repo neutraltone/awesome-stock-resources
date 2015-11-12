@@ -9,7 +9,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 ## Table of Contents
 
 * [Photography](#photography)
-  * [CC0-licensed](#CC0-licensed)
+  * [CC0-license](#cc0-license)
   * [Custom License / Usage](#custom-license--usage)
   * [Public Domain](#public-domain)
   * [Attribution required licenses](#attribution-required-licenses)
@@ -42,6 +42,7 @@ All the resources below have specifically specified that their content is [CC0-l
 * [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
 * [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color
 * [Free Nature Stock](http://freenaturestock.com/)
+* [Free-Images.cc](http://www.free-images.cc/) - Free images with WordPress Media Library Plugin
 * [Furious Camera](http://furiouscamera.com/)
 * [Gratisography](http://www.gratisography.com/)
 * [Jay Mantri](http://jaymantri.com/)
@@ -59,6 +60,7 @@ All the resources below have specifically specified that their content is [CC0-l
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
 * [Skitter Photo](http://skitterphoto.com/)
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
+* [SpaceX Photos](https://www.flickr.com/photos/spacexphotos/) - Promotional SpaceX stock photography.
 * [Stock Image Point](http://www.stock-image-point.com/)
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly
 * [Stokpic](http://stokpic.com/)
@@ -77,6 +79,7 @@ These following photography resources are those who have declared their own usag
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/).
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms).
 * [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms).
+* [morgueFile](https://www.morguefile.com/archive) - [:copyright:](https://www.morguefile.com/archive) Free photo archive by creatives, for creatives.
 * [Pic Jumbo](http://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/).
 * [Picography](http://picography.co/) - [:copyright:](http://picography.co/terms/).
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/).
@@ -91,13 +94,13 @@ A collection of links to public domain photography resources.
 * [Flickr Commons](https://www.flickr.com/commons) - Flickr's catalogue of the worlds public photo archives.
 * [New Old Stock](http://nos.twnsnd.co/) - Vintage photos from the public archive. of known copyright restrictions.
 * [Public Domain Archive](http://publicdomainarchive.com/) - New stock photos every single week.
-* [SpaceX Photos](https://www.flickr.com/photos/spacexphotos/) - Promotional SpaceX stock photography.
 
 ### Attribution Required licenses
 
 The photographs on the following resources require Attribution unless otherwise stated on the website itself. These use a mixture of license, all of which have been linked to next to them.
 
 * [IM Creator](http://www.imcreator.com/free) - Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) photos. Also includes Website templates and icons.
+* [NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/spaceimages/) - [:copyright:](http://www.jpl.nasa.gov/imagepolicy/) Graphics and photos of space and spaceflight.
 * [Raumrot](http://raumrot.com/) - ([CC-BY 2.0](http://creativecommons.org/licenses/by/2.0/)) licensed.
 * [Superfamous](http://images.superfamous.com/) - ([CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)) licensed.
 * [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - ([CC Attribution 2.0](http://creativecommons.org/licenses/by/2.0/)) Licensed picture from Women of Color in Tech.
@@ -144,6 +147,7 @@ A mixture of CSS and image based pattern resources.
 A mixture of free and open source font resources.
 
 * [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good
+* [Debian Fonts](http://fonts.debian.net) - [:copyright:](https://www.debian.org/social_contract#guidelines) TTF fonts from the Debian repositories.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](http://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
@@ -153,13 +157,13 @@ A mixture of free and open source font resources.
 
 A collection for SVG and font icon resources which can be used in your interface and website designs.
 
-* [Font Awesome](http://fontawesome.io/) - MIT licensed icon font.
-* [Fontello](http://fontello.com/)
+* [Font Awesome](http://fontawesome.io/) - [:copyright:](https://opensource.org/licenses/MIT) MIT licensed icon font.
+* [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - An icon font from Zurb, the people behind the Foundation framework.
 * [GLYPHICONS](http://glyphicons.com/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
-* [IcoMoon](https://icomoon.io/)
+* [IcoMoon](https://icomoon.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
-* [Ionicons](http://ionicons.com/)
+* [Ionicons](http://ionicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) The premium icon font for Ionic Framework. 100% free and open source. MIT Licensed.
 
 ## Colors
 
@@ -192,7 +196,7 @@ And last, but not least, a selection of the best paid stock resources.
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
-* [Stocksy](http://www.stocksy.com/) - "Cliché-free" Photos
+* [Stocksy](http://www.stocksy.com/) - "Cliché-free" Photos.
 
 ## How to Contribute
 
