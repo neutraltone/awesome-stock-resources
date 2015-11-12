@@ -77,6 +77,7 @@ These following photography resources are those who have declared their own usag
 * [Bara Art](http://www.bara-art.com/) - [:copyright:](http://www.bara-art.com/about/).
 * [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - [:copyright:](http://www.mediafire.com/view/2ifplcw682487nz/Death_to_the_Stock_Photo_-_Photograph_End_User_License_%281-2014%29_%281%29.pdf).
 * [Designer Pics](http://www.designerspics.com/) - [:copyright:](http://www.designerspics.com/faq-and-terms/).
+* [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use).
 * [Foodies Feed](http://foodiesfeed.com) - Food based images. [:copyright:](https://foodiesfeed.com/faq/).
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/).
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms).
@@ -162,6 +163,7 @@ A mixture of free and open source font resources.
 A collection for icon font resources, most of which also include SVGs, which can be used in your interface and website designs.
 
 * [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
+* [Flaticon](http://www.flaticon.com/) - [:copyright:](http://cdn.flaticon.com/license/license.pdf) - Almost 100,000 icons in SVG, PNG, EPS, PSD and Webfont. Most icons are available under attribution.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](http://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](http://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
