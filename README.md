@@ -19,6 +19,8 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Patterns](#patterns)
 * [Fonts](#fonts)
 * [Icons](#icons)
+  * [Icon Fonts](#icon-fonts)
+  * [Icon Packages](#icons-packages)
 * [Colors](#colors)
 * [Aggregated Content](#aggregated-content)
 * [Sounds & Music](#sounds--music)
@@ -155,15 +157,34 @@ A mixture of free and open source font resources.
 
 ## Icons
 
-A collection for SVG and font icon resources which can be used in your interface and website designs.
+### Icon Fonts
 
-* [Font Awesome](http://fontawesome.io/) - [:copyright:](https://opensource.org/licenses/MIT) MIT licensed icon font.
+A collection for icon font resources, most of which also include SVGs, which can be used in your interface and website designs.
+
+* [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
+* [Font Awesome](http://fontawesome.io/) - [:copyright:](http://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
-* [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - An icon font from Zurb, the people behind the Foundation framework.
+* [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](http://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
 * [GLYPHICONS](http://glyphicons.com/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
 * [IcoMoon](https://icomoon.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
+* [Ionicons](http://ionicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) The premium icon font for Ionic Framework. 100% free and open source.
+* [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) Really clean icon set inlcuding all major topics.
+* [Material Design Icons](https://www.google.com/design/icons/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Google's Material Icons.
+* [Octicons](https://octicons.github.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) GitHub's Icons.
+* [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
+* [Social Stackicons](http://stackicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
+* [Topcoat Icons](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icon by [Topcoat](http://topcoat.io/).
+* [Typicons](http://typicons.com/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
+* [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
+
+### Icons Packages
+
+A collection for SVG icon resources which can be used in your interface and website designs.
+
+* [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
+* [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
-* [Ionicons](http://ionicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) The premium icon font for Ionic Framework. 100% free and open source. MIT Licensed.
+* [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## Colors
 
