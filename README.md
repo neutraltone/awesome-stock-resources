@@ -15,6 +15,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
   * [Attribution required licenses](#attribution-required-licenses)
   * [Unspecified License](#unspecified-license)
 * [Illustration](#illustration)
+* [Vector Graphics](#vector-graphics)
 * [Videos](#videos)
 * [Patterns](#patterns)
 * [Fonts](#fonts)
@@ -77,7 +78,6 @@ These following photography resources are those who have declared their own usag
 * [Bara Art](http://www.bara-art.com/) - [:copyright:](http://www.bara-art.com/about/).
 * [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - [:copyright:](http://www.mediafire.com/view/2ifplcw682487nz/Death_to_the_Stock_Photo_-_Photograph_End_User_License_%281-2014%29_%281%29.pdf).
 * [Designer Pics](http://www.designerspics.com/) - [:copyright:](http://www.designerspics.com/faq-and-terms/).
-* [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use).
 * [Foodies Feed](http://foodiesfeed.com) - Food based images. [:copyright:](https://foodiesfeed.com/faq/).
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/).
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms).
@@ -125,6 +125,10 @@ A collection of illustration resources which contain a mixture of historical arc
 
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - The British Library’s collections on Flickr Commons offer access to millions of public domain images.
 * [Old Book Illustrations](http://www.oldbookillustrations.com/) - A massive collection of illustrations from old books.
+
+## Vector Graphics
+
+* [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use).
 
 ## Videos
 
