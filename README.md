@@ -15,6 +15,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
   * [Attribution required licenses](#attribution-required-licenses)
   * [Unspecified License](#unspecified-license)
 * [Illustration](#illustration)
+* [Vector Graphics](#vector-graphics)
 * [Videos](#videos)
 * [Patterns](#patterns)
 * [Fonts](#fonts)
@@ -125,6 +126,10 @@ A collection of illustration resources which contain a mixture of historical arc
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - The British Library’s collections on Flickr Commons offer access to millions of public domain images.
 * [Old Book Illustrations](http://www.oldbookillustrations.com/) - A massive collection of illustrations from old books.
 
+## Vector Graphics
+
+* [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use).
+
 ## Videos
 
 A selection of websites offering high quality video stock.
@@ -162,6 +167,7 @@ A mixture of free and open source font resources.
 A collection for icon font resources, most of which also include SVGs, which can be used in your interface and website designs.
 
 * [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
+* [Flaticon](http://www.flaticon.com/) - [:copyright:](http://cdn.flaticon.com/license/license.pdf) - Almost 100,000 icons in SVG, PNG, EPS, PSD and Webfont. Most icons are available under attribution.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](http://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](http://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
