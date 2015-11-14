@@ -184,10 +184,10 @@ A liberal mixture of content aggregated from other free resources and made avail
 
 ## Sounds & Music
 
+* [Bfxr](http://www.bfxr.net/) - [:copyright:](http://www.bfxr.net/) Make your own game sounds.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
 * [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
-* [Bfxr](http://www.bfxr.net/) - [:copyright:](http://www.bfxr.net/) Make your own game sounds.
 
 ## Paid Resources
 
@@ -195,9 +195,9 @@ And last, but not least, a selection of the best paid stock resources.
 
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
+* [Inky Deals](https://www.inkydeals.com/) - Premium resources at insane discounts.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 * [Stocksy](http://www.stocksy.com/) - "Cliché-free" Photos.
-* [Inky Deals](https://www.inkydeals.com/) - Premium resources at insane discounts.
 
 ## How to Contribute
 
