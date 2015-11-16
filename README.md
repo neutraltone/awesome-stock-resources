@@ -130,7 +130,7 @@ A collection of illustration resources which contain a mixture of historical arc
 
 ## Vector Graphics
 
-* [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use).
+* [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
 
 ## Videos
 
