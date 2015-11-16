@@ -33,7 +33,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 ### CC0-license
 
-All the resources below have specifically specified that their content is [CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
+All the resources below have specifically specified that their content is [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
 
 * [Alana](http://alana.io/) - Free “use how you want” stock photos.
 * [Barn Images](http://barnimages.com/)
