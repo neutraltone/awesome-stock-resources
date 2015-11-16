@@ -203,6 +203,7 @@ A selection of websites offering color schemes.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
+* [Material Palette](http://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
 ## Aggregated Content
 
