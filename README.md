@@ -33,45 +33,45 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 ### CC0-license
 
-All the resources below have specifically specified that their content is [CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
+All the resources below have specifically specified that their content is [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
 
 * [Alana](http://alana.io/) - Free “use how you want” stock photos.
-* [Barn Images](http://barnimages.com/)
+* [Barn Images](http://barnimages.com/) - Barn Images offers you a collection of free high-resolution non-stock photography.
 * [Boss Fight!](http://bossfight.co) - 10–20 new images added daily.
-* [CC0 Photo](http://cc0.photo/)
-* [Creative Vix](http://creativevix.com/stock)
-* [Crow the Stone](http://crowthestone.com/)
-* [Cupcake](http://cupcake.nilssonlee.se/)
+* [CC0 Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
+* [Creative Vix](http://creativevix.com/stock) - A wide range of photos for you to use.
+* [Crow the Stone](http://crowthestone.com/) - Free photos to use any way you want.
+* [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
 * [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
 * [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
 * [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color
-* [Free Nature Stock](http://freenaturestock.com/)
-* [Free-Images.cc](http://www.free-images.cc/) - Free images with WordPress Media Library Plugin
-* [Furious Camera](http://furiouscamera.com/)
-* [Gratisography](http://www.gratisography.com/)
-* [ISO Republic](http://isorepublic.com/)
-* [Jay Mantri](http://jaymantri.com/)
-* [Jé Shoots](http://jeshoots.com/)
-* [Life of Pix](http://www.lifeofpix.com/)
-* [Little Visuals](http://littlevisuals.co/)
-* [Magdeleine](http://magdeleine.co/browse/)
+* [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
+* [Free-Images.cc](http://www.free-images.cc/) - Create something awesome with free CC0 images.
+* [Furious Camera](http://furiouscamera.com/) - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
+* [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
+* [ISO Republic](http://isorepublic.com/) - ISO Republic provides exclusive free stock photos for creatives.
+* [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
+* [Jé Shoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
+* [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
+* [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
+* [Magdeleine](http://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
 * [MMT](http://mmt.li/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](http://negativespace.co/) - Stock photos added every week.
-* [Pexels](http://www.pexels.com/)
-* [Photo Collections](http://photocollections.io/)
+* [Pexels](http://www.pexels.com/) - Daily 10 new high-quality photos.
+* [Photo Collections](http://photocollections.io/) - Free stock photography of architecture, nature and people.
 * [Photo Crops](http://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
 * [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
-* [Skitter Photo](http://skitterphoto.com/)
+* [Skitter Photo](http://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 * [SpaceX Photos](https://www.flickr.com/photos/spacexphotos/) - Promotional SpaceX stock photography.
-* [Stock Image Point](http://www.stock-image-point.com/)
+* [Stock Image Point](http://www.stock-image-point.com/) - Free stock photos. 20 pictures added every month.
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly
-* [Stokpic](http://stokpic.com/)
+* [Stokpic](http://stokpic.com/) - Free Stock Photos For Commercial Use.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
-* [Unsplash](https://unsplash.com/)
+* [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
 
 ### Custom License / Usage
 
@@ -96,19 +96,19 @@ These following photography resources are those who have declared their own usag
 
 A collection of links to public domain photography resources.
 
-* [Flickr Commons](https://www.flickr.com/commons) - Flickr's catalogue of the worlds public photo archives.
-* [New Old Stock](http://nos.twnsnd.co/) - Vintage photos from the public archive. of known copyright restrictions.
-* [Public Domain Archive](http://publicdomainarchive.com/) - New stock photos every single week.
+* [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr's catalogue of the worlds public photo archives.
+* [New Old Stock](http://nos.twnsnd.co/) - [:copyright:](http://nos.twnsnd.co/rights-and-usage) Vintage photos from the public archive. of known copyright restrictions.
+* [Public Domain Archive](http://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) New stock photos every single week.
 
 ### Attribution Required licenses
 
 The photographs on the following resources require Attribution unless otherwise stated on the website itself. These use a mixture of license, all of which have been linked to next to them.
 
-* [IM Creator](http://www.imcreator.com/free) - Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) photos. Also includes Website templates and icons.
+* [IM Creator](http://www.imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
 * [NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/spaceimages/) - [:copyright:](http://www.jpl.nasa.gov/imagepolicy/) Graphics and photos of space and spaceflight.
-* [Raumrot](http://raumrot.com/) - ([CC-BY 2.0](http://creativecommons.org/licenses/by/2.0/)) licensed.
-* [Superfamous](http://images.superfamous.com/) - ([CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)) licensed.
-* [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - ([CC Attribution 2.0](http://creativecommons.org/licenses/by/2.0/)) Licensed picture from Women of Color in Tech.
+* [Raumrot](http://raumrot.com/) - ([:copyright:](http://creativecommons.org/licenses/by/2.0/)) Handpicked stock photos for your commercial and personal works.
+* [Superfamous](http://images.superfamous.com/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) Superfamous CC BY 3.0 licensed images by [Folkert Gorter](https://twitter.com/folkertgorter).
+* [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - [:copyright:](http://creativecommons.org/licenses/by/2.0/) Licensed picture from Women of Color in Tech.
 
 ### Unspecified License
 
@@ -125,8 +125,8 @@ These resources haven't specified any formal terms of use or licenses.
 
 A collection of illustration resources which contain a mixture of historical archive, contemporary and public domain assets.
 
-* [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - The British Library’s collections on Flickr Commons offer access to millions of public domain images.
-* [Old Book Illustrations](http://www.oldbookillustrations.com/) - A massive collection of illustrations from old books.
+* [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - [:copyright:](http://www.bl.uk/aboutus/terms/copyright/index.html) The British Library’s collections on Flickr Commons offer access to millions of public domain images.
+* [Old Book Illustrations](http://www.oldbookillustrations.com/) - [:copyright:](http://www.oldbookillustrations.com/terms-of-use/) A massive collection of illustrations from old books.
 
 ## Vector Graphics
 
@@ -138,7 +138,8 @@ A selection of websites offering high quality video stock.
 
 * [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
 * [Distill](http://www.wedistill.io/) - Curated HD Video Free For Your Personal and Commercial Use. 10 free HD videos every 10 days.
-* [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. :copyright: Check each video for licensing terms.
+* [Life of Vids](http://www.lifeofvids.com/) - [:copyright:](http://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
+* [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 * [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
 * [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 
