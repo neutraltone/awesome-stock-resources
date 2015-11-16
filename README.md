@@ -138,7 +138,7 @@ A selection of websites offering high quality video stock.
 
 * [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
 * [Distill](http://www.wedistill.io/) - Curated HD Video Free For Your Personal and Commercial Use. 10 free HD videos every 10 days.
-* [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. :copyright: Check each video for licensing terms.
+* [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 * [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
 * [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 
