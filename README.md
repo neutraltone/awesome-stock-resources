@@ -96,9 +96,9 @@ These following photography resources are those who have declared their own usag
 
 A collection of links to public domain photography resources.
 
-* [Flickr Commons](https://www.flickr.com/commons) - Flickr's catalogue of the worlds public photo archives.
-* [New Old Stock](http://nos.twnsnd.co/) - Vintage photos from the public archive. of known copyright restrictions.
-* [Public Domain Archive](http://publicdomainarchive.com/) - New stock photos every single week.
+* [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr's catalogue of the worlds public photo archives.
+* [New Old Stock](http://nos.twnsnd.co/) - [:copyright:](http://nos.twnsnd.co/rights-and-usage) Vintage photos from the public archive. of known copyright restrictions.
+* [Public Domain Archive](http://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) New stock photos every single week.
 
 ### Attribution Required licenses
 
