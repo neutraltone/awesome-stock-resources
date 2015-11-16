@@ -35,6 +35,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 All the resources below have specifically specified that their content is [CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
 
+* [Alana](http://alana.io/) - Free “use how you want” stock photos.
 * [Barn Images](http://barnimages.com/)
 * [Boss Fight!](http://bossfight.co) - 10–20 new images added daily.
 * [CC0 Photo](http://cc0.photo/)
@@ -116,8 +117,8 @@ These resources haven't specified any formal terms of use or licenses.
 * [Freejpg](http://en.freejpg.com.ar/) - Free image bank for commercial and editorial use.
 * [Nobl Web](http://www.noblweb.com/) - do as you please, high-resolution photos and textures.
 * [Peekspace](http://peek.space/) - Curated free-to-use space photography.
-* [Re:splashed](http://www.resplashed.com/)
-* [Refe Real Life Photos](http://getrefe.tumblr.com/)
+* [Re:splashed](http://www.resplashed.com/) - 670 (and counting) free HD images for your web and design projects.
+* [Refe Real Life Photos](http://getrefe.tumblr.com/) - Free real life photos from [REFE](http://getrefe.com/).
 * [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
 
 ## Illustration
@@ -129,17 +130,17 @@ A collection of illustration resources which contain a mixture of historical arc
 
 ## Vector Graphics
 
-* [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use).
+* [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
 
 ## Videos
 
 A selection of websites offering high quality video stock.
 
-* [Coverr](http://coverr.co/)
-* [Distill](http://www.wedistill.io/)
-* [Mazwai](http://mazwai.com/)
-* [Pexels Videos](https://videos.pexels.com/)
-* [Vidsplay](http://www.vidsplay.com/)
+* [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
+* [Distill](http://www.wedistill.io/) - Curated HD Video Free For Your Personal and Commercial Use. 10 free HD videos every 10 days.
+* [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. :copyright: Check each video for licensing terms.
+* [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
+* [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 
 ## Patterns
 
