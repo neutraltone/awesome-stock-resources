@@ -15,6 +15,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
   * [Attribution required licenses](#attribution-required-licenses)
   * [Unspecified License](#unspecified-license)
 * [Illustration](#illustration)
+* [Vector Graphics](#vector-graphics)
 * [Videos](#videos)
 * [Patterns](#patterns)
 * [Fonts](#fonts)
@@ -34,6 +35,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 All the resources below have specifically specified that their content is [CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
 
+* [Alana](http://alana.io/) - Free “use how you want” stock photos.
 * [Barn Images](http://barnimages.com/)
 * [Boss Fight!](http://bossfight.co) - 10–20 new images added daily.
 * [CC0 Photo](http://cc0.photo/)
@@ -47,6 +49,7 @@ All the resources below have specifically specified that their content is [CC0-l
 * [Free-Images.cc](http://www.free-images.cc/) - Free images with WordPress Media Library Plugin
 * [Furious Camera](http://furiouscamera.com/)
 * [Gratisography](http://www.gratisography.com/)
+* [ISO Republic](http://isorepublic.com/)
 * [Jay Mantri](http://jaymantri.com/)
 * [Jé Shoots](http://jeshoots.com/)
 * [Life of Pix](http://www.lifeofpix.com/)
@@ -114,8 +117,8 @@ These resources haven't specified any formal terms of use or licenses.
 * [Freejpg](http://en.freejpg.com.ar/) - Free image bank for commercial and editorial use.
 * [Nobl Web](http://www.noblweb.com/) - do as you please, high-resolution photos and textures.
 * [Peekspace](http://peek.space/) - Curated free-to-use space photography.
-* [Re:splashed](http://www.resplashed.com/)
-* [Refe Real Life Photos](http://getrefe.tumblr.com/)
+* [Re:splashed](http://www.resplashed.com/) - 670 (and counting) free HD images for your web and design projects.
+* [Refe Real Life Photos](http://getrefe.tumblr.com/) - Free real life photos from [REFE](http://getrefe.com/).
 * [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
 
 ## Illustration
@@ -125,15 +128,19 @@ A collection of illustration resources which contain a mixture of historical arc
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - The British Library’s collections on Flickr Commons offer access to millions of public domain images.
 * [Old Book Illustrations](http://www.oldbookillustrations.com/) - A massive collection of illustrations from old books.
 
+## Vector Graphics
+
+* [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
+
 ## Videos
 
 A selection of websites offering high quality video stock.
 
-* [Coverr](http://coverr.co/)
-* [Distill](http://www.wedistill.io/)
-* [Mazwai](http://mazwai.com/)
-* [Pexels Videos](https://videos.pexels.com/)
-* [Vidsplay](http://www.vidsplay.com/)
+* [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
+* [Distill](http://www.wedistill.io/) - Curated HD Video Free For Your Personal and Commercial Use. 10 free HD videos every 10 days.
+* [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. :copyright: Check each video for licensing terms.
+* [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
+* [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 
 ## Patterns
 
@@ -162,6 +169,7 @@ A mixture of free and open source font resources.
 A collection for icon font resources, most of which also include SVGs, which can be used in your interface and website designs.
 
 * [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
+* [Flaticon](http://www.flaticon.com/) - [:copyright:](http://cdn.flaticon.com/license/license.pdf) - Almost 100,000 icons in SVG, PNG, EPS, PSD and Webfont. Most icons are available under attribution.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](http://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](http://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
