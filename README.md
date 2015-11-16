@@ -125,8 +125,8 @@ These resources haven't specified any formal terms of use or licenses.
 
 A collection of illustration resources which contain a mixture of historical archive, contemporary and public domain assets.
 
-* [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - The British Library’s collections on Flickr Commons offer access to millions of public domain images.
-* [Old Book Illustrations](http://www.oldbookillustrations.com/) - A massive collection of illustrations from old books.
+* [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - [:copyright:](http://www.bl.uk/aboutus/terms/copyright/index.html) The British Library’s collections on Flickr Commons offer access to millions of public domain images.
+* [Old Book Illustrations](http://www.oldbookillustrations.com/) - [:copyright:](http://www.oldbookillustrations.com/terms-of-use/) A massive collection of illustrations from old books.
 
 ## Vector Graphics
 
