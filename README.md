@@ -35,6 +35,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 All the resources below have specifically specified that their content is [CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
 
+* [Alana](http://alana.io/) - Free “use how you want” stock photos.
 * [Barn Images](http://barnimages.com/)
 * [Boss Fight!](http://bossfight.co) - 10–20 new images added daily.
 * [CC0 Photo](http://cc0.photo/)
