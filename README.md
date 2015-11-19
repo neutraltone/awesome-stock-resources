@@ -129,6 +129,8 @@ A collection of illustration resources which contain a mixture of historical arc
 
 ## Vector Graphics
 
+A collection of resources which contain stock graphical elements which don't fit in the other sections.
+
 * [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
 
 ## Videos
@@ -204,6 +206,7 @@ A selection of websites offering color schemes.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
+* [Material Palette](http://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
 ## Aggregated Content
 
@@ -213,6 +216,8 @@ A liberal mixture of content aggregated from other free resources and made avail
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
 
 ## Sounds & Music
+
+Free resources for stock sound and music to be used on creative projects
 
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
 * [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
