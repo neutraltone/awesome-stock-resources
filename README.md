@@ -129,6 +129,8 @@ A collection of illustration resources which contain a mixture of historical arc
 
 ## Vector Graphics
 
+A collection of resources which contain stock graphical elements which don't fit in the other sections.
+
 * [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
 
 ## Videos
