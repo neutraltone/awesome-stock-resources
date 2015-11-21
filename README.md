@@ -24,6 +24,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
   * [Icon Packages](#icons-packages)
 * [Colors](#colors)
 * [Aggregated Content](#aggregated-content)
+* [HTML Templates](#html-templates)
 * [Sounds & Music](#sounds--music)
 * [Paid Resources](#paid-resources)
 * [How to Contribute](#how-to-contribute)
@@ -44,15 +45,16 @@ All the resources below have specifically specified that their content is [:copy
 * [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
 * [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
 * [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
-* [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color
+* [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
 * [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
 * [Free-Images.cc](http://www.free-images.cc/) - Create something awesome with free CC0 images.
 * [Furious Camera](http://furiouscamera.com/) - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
 * [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 * [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
-* [Jé Shoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
+* [Jéshoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
 * [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 * [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
+* [Lock & Stock Photos](http://lockandstockphotos.com/) - Free stock photos for you.
 * [Magdeleine](http://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
 * [MMT](http://mmt.li/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
@@ -65,8 +67,9 @@ All the resources below have specifically specified that their content is [:copy
 * [Skitter Photo](http://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 * [SpaceX Photos](https://www.flickr.com/photos/spacexphotos/) - Promotional SpaceX stock photography.
+* [Splashbase](http://www.splashbase.co/) - Search & discover free, hi res photos & videos.
 * [Stock Image Point](http://www.stock-image-point.com/) - Free stock photos. 20 pictures added every month.
-* [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly
+* [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 * [Stokpic](http://stokpic.com/) - Free Stock Photos For Commercial Use.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
@@ -103,6 +106,7 @@ A collection of links to public domain photography resources.
 
 The photographs on the following resources require Attribution unless otherwise stated on the website itself. These use a mixture of license, all of which have been linked to next to them.
 
+* [BucketListly](http://photos.bucketlistly.com/) - A free creative common collection of travel photos anyone can use.
 * [IM Creator](http://www.imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
 * [NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/spaceimages/) - [:copyright:](http://www.jpl.nasa.gov/imagepolicy/) Graphics and photos of space and spaceflight.
 * [Raumrot](http://raumrot.com/) - ([:copyright:](http://creativecommons.org/licenses/by/2.0/)) Handpicked stock photos for your commercial and personal works.
@@ -157,12 +161,14 @@ A mixture of CSS and image based pattern resources.
 
 A mixture of free and open source font resources.
 
-* [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good
+* [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - A showcase of the best typefaces from the Google web fonts directory.
+* [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good.
 * [Debian Fonts](http://fonts.debian.net) - [:copyright:](https://www.debian.org/social_contract#guidelines) TTF fonts from the Debian repositories.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](http://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
+* [Type Genius](http://www.typegenius.com/) - Fantastic type pairing tool.
 
 ## Icons
 
@@ -183,7 +189,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Octicons](https://octicons.github.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) GitHub's Icons.
 * [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 * [Social Stackicons](http://stackicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
-* [Topcoat Icons](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icon by [Topcoat](http://topcoat.io/).
+* [Topcoat Icons](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
 * [Typicons](http://typicons.com/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
 * [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
 
@@ -194,17 +200,24 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
+* [Material Design Icons](http://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## Colors
 
 A selection of websites offering color schemes.
 
+* [0to255](http://www.0to255.com/) - A simple tool that helps web designers find variations of any color.
+* [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
+* [Brand Colors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
+* [Coleure](https://www.coleure.com/palettes/35847/edit) - Simple app for grabbing & tweaking colors you see on screen.
 * [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
+* [Colorful Gradients](http://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
+* [Material Design Colors](http://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](http://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
 ## Aggregated Content
@@ -213,14 +226,23 @@ A liberal mixture of content aggregated from other free resources and made avail
 
 * [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
+* [Stock Up](http://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
+
+## HTML Templates
+
+Various different websites offering free HTML templates and themes.
+
+* [Bootswatch](http://bootswatch.com/) - [:copyright:](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE) Free themes for Bootstrap.
+* [HTML5 Up](http://html5up.net/) - [:copyright:](http://html5up.net/license) HTML5 UP makes spiffy HTML5 site templates.
+* [Templated](http://templated.co/) - [:copyright:](http://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
 
 ## Sounds & Music
 
 Free resources for stock sound and music to be used on creative projects
 
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
-* [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](http://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](http://wfmu.org/), the most renowned freeform radio station in America.
+* [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [Internet Archive’s Netlabels Collection](http://www.archive.org/details/netlabels) - [:copyright:](http://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](http://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 * [Opsound](http://www.sectionz.com/cc.asp) - [:copyright:](http://creativecommons.org/) Free music from a community of musicians.
@@ -241,10 +263,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## How to Share
 
-+ [Share on Twitter](http://twitter.com/home?status=https://github.com/neutraltone/awesome-stock-resources%0AAwesome%20Stock%20Resources)
-+ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
-+ [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
-+ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
+* [Share on Twitter](http://twitter.com/home?status=https://github.com/neutraltone/awesome-stock-resources%0AAwesome%20Stock%20Resources)
+* [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
+* [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
+* [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
 
 ## License
 
