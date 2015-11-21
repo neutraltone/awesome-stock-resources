@@ -24,6 +24,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
   * [Icon Packages](#icons-packages)
 * [Colors](#colors)
 * [Aggregated Content](#aggregated-content)
+* [HTML Templates](#html-templates)
 * [Sounds & Music](#sounds--music)
 * [Paid Resources](#paid-resources)
 * [How to Contribute](#how-to-contribute)
@@ -213,6 +214,14 @@ A liberal mixture of content aggregated from other free resources and made avail
 
 * [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
+
+## HTML Templates
+
+Various different websites offering free HTML templates and themes.
+
+* [Bootswatch](http://bootswatch.com/) - [:copyright:](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE) Free themes for Bootstrap.
+* [HTML5 Up](http://html5up.net/) - [:copyright:](http://html5up.net/license) HTML5 UP makes spiffy HTML5 site templates.
+* [Templated](http://templated.co/) - [:copyright:](http://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
 
 ## Sounds & Music
 
