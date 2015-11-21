@@ -221,7 +221,7 @@ Free resources for stock sound and music to be used on creative projects
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
 * [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](http://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](http://wfmu.org/), the most renowned freeform radio station in America.
-* [Internet Archive’s Netlabels Collection](http://www.archive.org/details/netlabels) - Netlabels collection hosts complete, freely downloadable/streamable, often [Creative Commons](http://creativecommons.org/)-licensed catalogs of 'virtual record labels'.
+* [Internet Archive’s Netlabels Collection](http://www.archive.org/details/netlabels) - [:copyright:](http://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](http://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 * [Opsound](http://www.sectionz.com/cc.asp) - [:copyright:](http://creativecommons.org/) Free music from a community of musicians.
 * [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
