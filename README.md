@@ -51,9 +51,10 @@ All the resources below have specifically specified that their content is [:copy
 * [Furious Camera](http://furiouscamera.com/) - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
 * [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 * [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
-* [Jé Shoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
+* [Jéshoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
 * [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 * [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
+* [Lock & Stock Photos](http://lockandstockphotos.com/) - Free stock photos for you.
 * [Magdeleine](http://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
 * [MMT](http://mmt.li/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
@@ -66,6 +67,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Skitter Photo](http://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 * [SpaceX Photos](https://www.flickr.com/photos/spacexphotos/) - Promotional SpaceX stock photography.
+* [Splashbase](http://www.splashbase.co/) - Search & discover free, hi res photos & videos.
 * [Stock Image Point](http://www.stock-image-point.com/) - Free stock photos. 20 pictures added every month.
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 * [Stokpic](http://stokpic.com/) - Free Stock Photos For Commercial Use.
@@ -104,6 +106,7 @@ A collection of links to public domain photography resources.
 
 The photographs on the following resources require Attribution unless otherwise stated on the website itself. These use a mixture of license, all of which have been linked to next to them.
 
+* [BucketListly](http://photos.bucketlistly.com/) - A free creative common collection of travel photos anyone can use.
 * [IM Creator](http://www.imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
 * [NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/spaceimages/) - [:copyright:](http://www.jpl.nasa.gov/imagepolicy/) Graphics and photos of space and spaceflight.
 * [Raumrot](http://raumrot.com/) - ([:copyright:](http://creativecommons.org/licenses/by/2.0/)) Handpicked stock photos for your commercial and personal works.
@@ -220,6 +223,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 
 * [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
+* [Stock Up](http://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
 
 ## HTML Templates
 
