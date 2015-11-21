@@ -161,13 +161,13 @@ A mixture of CSS and image based pattern resources.
 
 A mixture of free and open source font resources.
 
-* [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good
+* [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - A showcase of the best typefaces from the Google web fonts directory.
+* [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good.
 * [Debian Fonts](http://fonts.debian.net) - [:copyright:](https://www.debian.org/social_contract#guidelines) TTF fonts from the Debian repositories.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](http://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
-* [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - A showcase of the best typefaces from the Google web fonts directory.
 * [Type Genius](http://www.typegenius.com/) - Fantastic type pairing tool.
 
 ## Icons
@@ -189,7 +189,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Octicons](https://octicons.github.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) GitHub's Icons.
 * [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 * [Social Stackicons](http://stackicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
-* [Topcoat Icons](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icon by [Topcoat](http://topcoat.io/).
+* [Topcoat Icons](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
 * [Typicons](http://typicons.com/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
 * [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
 
@@ -200,6 +200,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
+* [Material Design Icons](http://www.materialui.co/icons) - A collections of free, material ui style icons.
 * [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## Colors
@@ -262,10 +263,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## How to Share
 
-+ [Share on Twitter](http://twitter.com/home?status=https://github.com/neutraltone/awesome-stock-resources%0AAwesome%20Stock%20Resources)
-+ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
-+ [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
-+ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
+* [Share on Twitter](http://twitter.com/home?status=https://github.com/neutraltone/awesome-stock-resources%0AAwesome%20Stock%20Resources)
+* [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
+* [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
+* [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
 
 ## License
 
