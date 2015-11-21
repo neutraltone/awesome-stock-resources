@@ -201,11 +201,17 @@ A collection for SVG icon resources which can be used in your interface and webs
 
 A selection of websites offering color schemes.
 
+* [0to255](http://www.0to255.com/) - A simple tool that helps web designers find variations of any color.
+* [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
+* [Brand Colors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
+* [Coleure](https://www.coleure.com/palettes/35847/edit) - Simple app for grabbing & tweaking colors you see on screen.
 * [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
+* [Colorful Gradients](http://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
+* [Material Design Colors](http://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](http://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
 ## Aggregated Content
