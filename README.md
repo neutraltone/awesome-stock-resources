@@ -221,6 +221,7 @@ Free resources for stock sound and music to be used on creative projects
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
 * [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [Internet Archive’s Netlabels Collection](http://www.archive.org/details/netlabels) - Netlabels collection hosts complete, freely downloadable/streamable, often [Creative Commons](http://creativecommons.org/)-licensed catalogs of 'virtual record labels'.
+* [Opsound](http://www.sectionz.com/cc.asp) - Free, [Creative Commons](http://creativecommons.org/)-licensed music from a community of muscians.
 * [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
 
 ## Paid Resources
