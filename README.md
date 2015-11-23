@@ -62,6 +62,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Pexels](http://www.pexels.com/) - Daily 10 new high-quality photos.
 * [Photo Collections](http://photocollections.io/) - Free stock photography of architecture, nature and people.
 * [Photo Crops](http://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
+* [Pickle Jar](http://picklejar.in/) - High-resolution images of everyday india. One new image every day.
 * [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
 * [Skitter Photo](http://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
@@ -176,6 +177,7 @@ A mixture of free and open source font resources.
 
 A collection for icon font resources, most of which also include SVGs, which can be used in your interface and website designs.
 
+* [Appa Sariicon](http://code.sariina.com/appa-sariicon/) [:copyright:](http://scripts.sil.org/OFL) 147 8-bit retro style webfont icons for web and mobile
 * [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
 * [Flaticon](http://www.flaticon.com/) - [:copyright:](http://cdn.flaticon.com/license/license.pdf) - Almost 100,000 icons in SVG, PNG, EPS, PSD and Webfont. Most icons are available under attribution.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](http://choosealicense.com/licenses/mit/) MIT licensed icon font.
@@ -200,6 +202,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
+* [Map Icons](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format. 
 * [Material Design Icons](http://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
@@ -254,6 +257,7 @@ And last, but not least, a selection of the best paid stock resources.
 
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
+* [Inky Deals](https://www.inkydeals.com/) - Premium resources at insane discounts.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 * [Stocksy](http://www.stocksy.com/) - "Cliché-free" Photos.
 
