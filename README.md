@@ -62,6 +62,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Pexels](http://www.pexels.com/) - Daily 10 new high-quality photos.
 * [Photo Collections](http://photocollections.io/) - Free stock photography of architecture, nature and people.
 * [Photo Crops](http://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
+* [Pickle Jar](http://picklejar.in/) - High-resolution images of everyday india. One new image every day.
 * [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
 * [Skitter Photo](http://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
