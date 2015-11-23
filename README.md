@@ -202,7 +202,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
-* [Map Icons](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format. 
+* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format. 
 * [Material Design Icons](http://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
