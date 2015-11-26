@@ -109,6 +109,7 @@ A collection of links to public domain photography resources.
 
 The photographs on the following resources require Attribution unless otherwise stated on the website itself. These use a mixture of license, all of which have been linked to next to them.
 
+* [Albumarium](http://albumarium.com/) - [:copyright:](http://albumarium.com/) The "best" place to find & share beautiful images.
 * [BucketListly](http://photos.bucketlistly.com/) - A free creative common collection of travel photos anyone can use.
 * [IM Creator](http://www.imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
 * [NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/spaceimages/) - [:copyright:](http://www.jpl.nasa.gov/imagepolicy/) Graphics and photos of space and spaceflight.
