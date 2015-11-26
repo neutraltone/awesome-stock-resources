@@ -276,11 +276,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
 * [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
 
-## Donate
+## Donate :heart:
 
 Lastly, if you appreciate this list and find it useful, please feel free to send me some magic monies to the following address: 1JreNWWxZokqxaPnBJPs8ctbUx6HniGP8Z
-
-:heart:
 
 ## License
 
