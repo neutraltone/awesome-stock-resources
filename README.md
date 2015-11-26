@@ -29,6 +29,8 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Paid Resources](#paid-resources)
 * [How to Contribute](#how-to-contribute)
 * [How to Share](#how-to-share)
+* [Donate](#donate-heart)
+* [License](#license)
 
 ## Photography
 
@@ -107,6 +109,7 @@ A collection of links to public domain photography resources.
 
 The photographs on the following resources require Attribution unless otherwise stated on the website itself. These use a mixture of license, all of which have been linked to next to them.
 
+* [Albumarium](http://albumarium.com/) - [:copyright:](http://albumarium.com/terms) The "best" place to find & share beautiful images.
 * [BucketListly](http://photos.bucketlistly.com/) - A free creative common collection of travel photos anyone can use.
 * [IM Creator](http://www.imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
 * [NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/spaceimages/) - [:copyright:](http://www.jpl.nasa.gov/imagepolicy/) Graphics and photos of space and spaceflight.
@@ -188,6 +191,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [IcoMoon](https://icomoon.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
 * [Ionicons](http://ionicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) The premium icon font for Ionic Framework. 100% free and open source.
 * [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) Really clean icon set inlcuding all major topics.
+* [Linea](http://www.linea.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) A free outline iconset featuring 730+ Icons.
 * [Material Design Icons](https://www.google.com/design/icons/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Google's Material Icons.
 * [Octicons](https://octicons.github.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) GitHub's Icons.
 * [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
@@ -203,7 +207,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
-* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format. 
+* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](http://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
@@ -272,6 +276,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
 * [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
 * [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
+
+## Donate :heart:
+
+Lastly, if you appreciate this list and find it useful, please feel free to donate me some bitcoin to the following address:
+
+1JreNWWxZokqxaPnBJPs8ctbUx6HniGP8Z
 
 ## License
 
