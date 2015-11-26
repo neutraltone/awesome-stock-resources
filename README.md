@@ -279,6 +279,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ## Donate :heart:
 
 Lastly, if you appreciate this list and find it useful, please feel free to send me some magic monies to the following bitcoin wallet address:
+
 1JreNWWxZokqxaPnBJPs8ctbUx6HniGP8Z
 
 ## License
