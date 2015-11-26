@@ -30,6 +30,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [How to Contribute](#how-to-contribute)
 * [How to Share](#how-to-share)
 * [Donate](#donate)
+* [License](#license)
 
 ## Photography
 
@@ -275,7 +276,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## Donate
 
-Lastly but not least. If you appreciate this list please feel free to send me some magic monies to the following addres: 1JreNWWxZokqxaPnBJPs8ctbUx6HniGP8Z
+Lastly, if you appreciate this list and find it useful, please feel free to send me some magic monies to the following address: 1JreNWWxZokqxaPnBJPs8ctbUx6HniGP8Z
+
+:heart:
 
 ## License
 
