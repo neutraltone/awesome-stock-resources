@@ -29,6 +29,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Paid Resources](#paid-resources)
 * [How to Contribute](#how-to-contribute)
 * [How to Share](#how-to-share)
+* [Donate](#donate)
 
 ## Photography
 
@@ -202,7 +203,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
-* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format. 
+* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](http://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
@@ -271,6 +272,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
 * [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
 * [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
+
+## Donate
+
+Lastly but not least. If you appreciate this list please feel free to send me some magic monies to the following addres: 1JreNWWxZokqxaPnBJPs8ctbUx6HniGP8Z
 
 ## License
 
