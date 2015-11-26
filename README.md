@@ -29,7 +29,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Paid Resources](#paid-resources)
 * [How to Contribute](#how-to-contribute)
 * [How to Share](#how-to-share)
-* [Donate](#donate)
+* [Donate](#donate-heart)
 * [License](#license)
 
 ## Photography
