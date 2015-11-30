@@ -279,7 +279,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## Donate :heart:
 
-Lastly, if you appreciate this list and find it useful, please feel free to donate me some bitcoin to the following address:
+And finally, if you appreciate this list and find it useful, please feel free to show your appreciation by donating some bitcoin to the following address:
 
 1JreNWWxZokqxaPnBJPs8ctbUx6HniGP8Z
 
