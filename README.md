@@ -21,7 +21,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Fonts](#fonts)
 * [Icons](#icons)
   * [Icon Fonts](#icon-fonts)
-  * [Icon Packages](#icons-packages)
+  * [Icons Packages and Collections](#icons-packages-and-collections)
 * [Colors](#colors)
 * [Aggregated Content](#aggregated-content)
 * [HTML Templates](#html-templates)
@@ -200,7 +200,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Typicons](http://typicons.com/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
 * [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
 
-### Icons Packages
+### Icons Packages and Collections
 
 A collection for SVG icon resources which can be used in your interface and website designs.
 
@@ -210,6 +210,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](http://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+* [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 
 ## Colors
 
@@ -279,7 +280,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## Donate :heart:
 
-Lastly, if you appreciate this list and find it useful, please feel free to donate me some bitcoin to the following address:
+And finally, if you appreciate this list and find it useful, please feel free to show your appreciation by donating some bitcoin to the following address:
 
 1JreNWWxZokqxaPnBJPs8ctbUx6HniGP8Z
 
