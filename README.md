@@ -21,7 +21,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Fonts](#fonts)
 * [Icons](#icons)
   * [Icon Fonts](#icon-fonts)
-  * [Icon Packages](#icons-packages)
+  * [Icons Packages and Collections](#icons-packages-and-collections)
 * [Colors](#colors)
 * [Aggregated Content](#aggregated-content)
 * [HTML Templates](#html-templates)
@@ -200,7 +200,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Typicons](http://typicons.com/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
 * [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
 
-### Icons Packages
+### Icons Packages and Collections
 
 A collection for SVG icon resources which can be used in your interface and website designs.
 
