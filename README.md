@@ -103,6 +103,7 @@ A collection of links to public domain photography resources.
 
 * [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr's catalogue of the worlds public photo archives.
 * [New Old Stock](http://nos.twnsnd.co/) - [:copyright:](http://nos.twnsnd.co/rights-and-usage) Vintage photos from the public archive. of known copyright restrictions.
+* [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/) - [:copyright](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
 * [Public Domain Archive](http://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) New stock photos every single week.
 
 ### Attribution Required licenses
@@ -249,6 +250,7 @@ Various different websites offering free HTML templates and themes.
 
 Free resources for stock sound and music to be used on creative projects
 
+* [Bensound](http://www.bensound.com) - [:copyright:](http://www.bensound.com/licensing) Royalty free music by Bensound.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
 * [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](http://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](http://wfmu.org/), the most renowned freeform radio station in America.
 * [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
