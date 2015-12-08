@@ -79,7 +79,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
 
-### CC0-search
+### CC0-search Engines
 
 * [LibreStock](http://librestock.com)
 
