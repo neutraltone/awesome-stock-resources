@@ -168,6 +168,7 @@ A mixture of free and open source font resources.
 
 * [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - A showcase of the best typefaces from the Google web fonts directory.
 * [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good.
+* [Dafont](http://www.dafont.com/) - Collection of 29k+ fonts.
 * [Debian Fonts](http://fonts.debian.net) - [:copyright:](https://www.debian.org/social_contract#guidelines) TTF fonts from the Debian repositories.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](http://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
