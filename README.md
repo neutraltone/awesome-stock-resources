@@ -219,6 +219,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 A selection of websites offering color schemes.
 
 * [0to255](http://www.0to255.com/) - A simple tool that helps web designers find variations of any color.
+* [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
 * [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 * [Brand Colors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
 * [Coleure](https://www.coleure.com/palettes/35847/edit) - Simple app for grabbing & tweaking colors you see on screen.
