@@ -259,6 +259,7 @@ Free resources for stock sound and music to be used on creative projects
 * [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [Internet Archive’s Netlabels Collection](http://www.archive.org/details/netlabels) - [:copyright:](http://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](http://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
+* [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
 * [Opsound](http://www.sectionz.com/cc.asp) - [:copyright:](http://creativecommons.org/) Free music from a community of musicians.
 * [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
 
