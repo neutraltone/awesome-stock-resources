@@ -90,6 +90,7 @@ These following photography resources are those who have declared their own usag
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms) ISO Republic provides exclusive free stock photos for creatives.
 * [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms) Great place to get breathtaking Free Pictures for business or personal projects.
 * [morgueFile](https://www.morguefile.com/archive) - [:copyright:](https://www.morguefile.com/archive) Free photo archive by creatives, for creatives.
+* [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
 * [Pic Jumbo](http://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
 * [Picography](http://picography.co/) - [:copyright:](http://picography.co/terms/) Free hi-resolution photos. Use them however you like.
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
@@ -124,10 +125,12 @@ The photographs on the following resources require Attribution unless otherwise 
 These resources haven't specified any formal terms of use or licenses.
 
 * [Freejpg](http://en.freejpg.com.ar/) - Free image bank for commercial and editorial use.
+* [Function](http://wefunction.com/category/free-photos/) - High-resolution photos by Liam McKay.
 * [Nobl Web](http://www.noblweb.com/) - do as you please, high-resolution photos and textures.
 * [Peekspace](http://peek.space/) - Curated free-to-use space photography.
 * [Re:splashed](http://www.resplashed.com/) - 670 (and counting) free HD images for your web and design projects.
 * [Refe Real Life Photos](http://getrefe.tumblr.com/) - Free real life photos from [REFE](http://getrefe.com/).
+* [titania foto](http://www.titania-foto.com) - The free image database
 * [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
 
 ## Illustration
