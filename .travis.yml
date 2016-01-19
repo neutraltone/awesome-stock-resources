@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list creativecommons.org,plus.google.com,creativecommons,facebook,sil,choosealicense,scripts.sil.org,linkedin,twitter,fotolia
+  - awesome_bot README.md --white-list creativecommons.org,plus.google.com,creativecommons,facebook,sil,choosealicense,scripts.sil.org,linkedin,twitter,fotolia,getrefe.tumblr.com
