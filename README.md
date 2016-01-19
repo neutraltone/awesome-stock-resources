@@ -1,4 +1,4 @@
-# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources)
 
 ![Introductory images](/img/splash.jpg)
 
@@ -61,7 +61,7 @@ All the resources below have specifically specified that their content is [:copy
 * [MMT](http://mmt.li/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](http://negativespace.co/) - Stock photos added every week.
-* [Pexels](http://www.pexels.com/) - 20 new high-quality photos daily.
+* [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
 * [Photo Collections](http://photocollections.io/) - Free stock photography of architecture, nature and people.
 * [Photo Crops](http://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
 * [Pickle Jar](http://picklejar.in/) - High-resolution images of everyday india. One new image every day.
@@ -85,16 +85,16 @@ These following photography resources are those who have declared their own usag
 * [Bara Art](http://www.bara-art.com/) - [:copyright:](http://www.bara-art.com/about/) The world always needs high quality photography! Here they are for you, so make something awesome out of them.
 * [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - [:copyright:](http://www.mediafire.com/view/2ifplcw682487nz/Death_to_the_Stock_Photo_-_Photograph_End_User_License_%281-2014%29_%281%29.pdf) Free monthly photos for all your creative needs.
 * [Designer Pics](http://www.designerspics.com/) - [:copyright:](http://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
-* [Foodies Feed](http://foodiesfeed.com) - Free food based images. [:copyright:](https://foodiesfeed.com/faq/).
+* [Foodies Feed](https://foodiesfeed.com/) - Free food based images. [:copyright:](https://foodiesfeed.com/faq/).
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) One free to use photo added everyday.
-* [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms) ISO Republic provides exclusive free stock photos for creatives.
+* [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms/) ISO Republic provides exclusive free stock photos for creatives.
 * [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms) Great place to get breathtaking Free Pictures for business or personal projects.
-* [morgueFile](https://www.morguefile.com/archive) - [:copyright:](https://www.morguefile.com/archive) Free photo archive by creatives, for creatives.
+* [morgueFile](https://www.morguefile.com/archive) - [:copyright:](https://www.morguefile.com/terms) Free photo archive by creatives, for creatives.
 * [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
-* [Pic Jumbo](http://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
+* [Pic Jumbo](https://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
 * [Picography](http://picography.co/) - [:copyright:](http://picography.co/terms/) Free hi-resolution photos. Use them however you like.
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
-* [Split Shire](http://splitshire.com/) - [:copyright:](http://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
+* [Split Shire](http://www.splitshire.com/) - [:copyright:](http://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 * [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
 * [Tookapic](https://stock.tookapic.com/?filter=free) - [:copyright:](https://tookapic.com/terms) Free listing from Tookapic.
 
@@ -129,7 +129,7 @@ These resources haven't specified any formal terms of use or licenses.
 * [Nobl Web](http://www.noblweb.com/) - do as you please, high-resolution photos and textures.
 * [Peekspace](http://peek.space/) - Curated free-to-use space photography.
 * [Re:splashed](http://www.resplashed.com/) - 670 (and counting) free HD images for your web and design projects.
-* [Refe Real Life Photos](http://getrefe.tumblr.com/) - Free real life photos from [REFE](http://getrefe.com/).
+* [Refe Real Life Photos](http://getrefe.tumblr.com) - Free real life photos from [REFE](http://getrefe.com/).
 * [titania foto](http://www.titania-foto.com) - The free image database
 * [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
 
@@ -198,7 +198,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Ionicons](http://ionicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) The premium icon font for Ionic Framework. 100% free and open source.
 * [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) Really clean icon set inlcuding all major topics.
 * [Linea](http://www.linea.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) A free outline iconset featuring 730+ Icons.
-* [Material Design Icons](https://www.google.com/design/icons/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Google's Material Icons.
+* [Material Design Icons](https://design.google.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Google's Material Icons.
 * [Octicons](https://octicons.github.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) GitHub's Icons.
 * [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 * [Social Stackicons](http://stackicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
@@ -227,7 +227,7 @@ A selection of websites offering color schemes.
 * [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
 * [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 * [Brand Colors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
-* [Coleure](https://www.coleure.com/palettes/35847/edit) - Simple app for grabbing & tweaking colors you see on screen.
+* [Coleure](https://www.coleure.com/) - Simple app for grabbing & tweaking colors you see on screen.
 * [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
 * [Colorful Gradients](http://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
@@ -259,9 +259,9 @@ Free resources for stock sound and music to be used on creative projects
 
 * [Bensound](http://www.bensound.com) - [:copyright:](http://www.bensound.com/licensing) Royalty free music by Bensound.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
-* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](http://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](http://wfmu.org/), the most renowned freeform radio station in America.
+* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](http://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](http://www.wfmu.org/), the most renowned freeform radio station in America.
 * [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
-* [Internet Archive’s Netlabels Collection](http://www.archive.org/details/netlabels) - [:copyright:](http://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
+* [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](http://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](http://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 * [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
 * [Opsound](http://www.sectionz.com/cc.asp) - [:copyright:](http://creativecommons.org/) Free music from a community of musicians.
@@ -272,10 +272,10 @@ Free resources for stock sound and music to be used on creative projects
 And last, but not least, a selection of the best paid stock resources.
 
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
-* [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
+* [Fotolia](https://www.fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Inky Deals](https://www.inkydeals.com/) - Premium resources at insane discounts.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
-* [Stocksy](http://www.stocksy.com/) - "Cliché-free" Photos.
+* [Stocksy](https://www.stocksy.com/) - "Cliché-free" Photos.
 
 ## How to Contribute
 
@@ -283,10 +283,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## How to Share
 
-* [Share on Twitter](http://twitter.com/home?status=https://github.com/neutraltone/awesome-stock-resources%0AAwesome%20Stock%20Resources)
-* [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
+* [Share on Twitter](https://twitter.com/home?status=https%3A%2F%2Fgithub.com%2Fneutraltone%2Fawesome-stock-resources%0AAwesome+Stock+Resources)
+* [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
 * [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
-* [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
+* [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
 
 ## Donate :heart:
 
@@ -298,4 +298,4 @@ And finally, if you appreciate this list and find it useful, please feel free to
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Tony Phipps](http://twitter.com/neutraltone) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Tony Phipps](https://twitter.com/neutraltone) has waived all copyright and related or neighboring rights to this work.
