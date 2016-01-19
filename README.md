@@ -275,7 +275,7 @@ And last, but not least, a selection of the best paid stock resources.
 * [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Inky Deals](https://www.inkydeals.com/) - Premium resources at insane discounts.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
-* [Stocksy](http://www.stocksy.com/) - "Cliché-free" Photos.
+* [Stocksy](https://www.stocksy.com/) - "Cliché-free" Photos.
 
 ## How to Contribute
 
@@ -283,7 +283,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## How to Share
 
-* [Share on Twitter](https://twitter.com/home?status=https://github.com/neutraltone/awesome-stock-resources%0AAwesome%20Stock%20Resources)
+* [Share on Twitter](https://twitter.com/home?status=https%3A%2F%2Fgithub.com%2Fneutraltone%2Fawesome-stock-resources%0AAwesome+Stock+Resources)
 * [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
 * [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
 * [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
