@@ -283,10 +283,10 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## How to Share
 
-* [Share on Twitter](http://twitter.com/home?status=https://github.com/neutraltone/awesome-stock-resources%0AAwesome%20Stock%20Resources)
-* [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
+* [Share on Twitter](https://twitter.com/home?status=https://github.com/neutraltone/awesome-stock-resources%0AAwesome%20Stock%20Resources)
+* [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
 * [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
-* [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
+* [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
 
 ## Donate :heart:
 
