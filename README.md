@@ -89,7 +89,7 @@ These following photography resources are those who have declared their own usag
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) One free to use photo added everyday.
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms) ISO Republic provides exclusive free stock photos for creatives.
 * [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms) Great place to get breathtaking Free Pictures for business or personal projects.
-* [morgueFile](https://www.morguefile.com/archive) - [:copyright:](https://www.morguefile.com/archive) Free photo archive by creatives, for creatives.
+* [morgueFile](https://www.morguefile.com/archive) - [:copyright:](https://www.morguefile.com/terms) Free photo archive by creatives, for creatives.
 * [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
 * [Pic Jumbo](https://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
 * [Picography](http://picography.co/) - [:copyright:](http://picography.co/terms/) Free hi-resolution photos. Use them however you like.
@@ -272,7 +272,7 @@ Free resources for stock sound and music to be used on creative projects
 And last, but not least, a selection of the best paid stock resources.
 
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
-* [Fotolia](https://fotolia.com/) - Photos, Illustrations, Vectors, Videos.
+* [Fotolia](https://www.fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Inky Deals](https://www.inkydeals.com/) - Premium resources at insane discounts.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 * [Stocksy](https://www.stocksy.com/) - "Cliché-free" Photos.
