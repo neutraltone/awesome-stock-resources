@@ -61,7 +61,7 @@ All the resources below have specifically specified that their content is [:copy
 * [MMT](http://mmt.li/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](http://negativespace.co/) - Stock photos added every week.
-* [Pexels](http://www.pexels.com/) - Daily 10 new high-quality photos.
+* [Pexels](http://www.pexels.com/) - 20 new high-quality photos daily.
 * [Photo Collections](http://photocollections.io/) - Free stock photography of architecture, nature and people.
 * [Photo Crops](http://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
 * [Pickle Jar](http://picklejar.in/) - High-resolution images of everyday india. One new image every day.
