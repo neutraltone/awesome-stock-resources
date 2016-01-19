@@ -87,7 +87,7 @@ These following photography resources are those who have declared their own usag
 * [Designer Pics](http://www.designerspics.com/) - [:copyright:](http://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
 * [Foodies Feed](https://foodiesfeed.com/) - Free food based images. [:copyright:](https://foodiesfeed.com/faq/).
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) One free to use photo added everyday.
-* [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms) ISO Republic provides exclusive free stock photos for creatives.
+* [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms/) ISO Republic provides exclusive free stock photos for creatives.
 * [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms) Great place to get breathtaking Free Pictures for business or personal projects.
 * [morgueFile](https://www.morguefile.com/archive) - [:copyright:](https://www.morguefile.com/terms) Free photo archive by creatives, for creatives.
 * [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
