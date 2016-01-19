@@ -198,7 +198,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Ionicons](http://ionicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) The premium icon font for Ionic Framework. 100% free and open source.
 * [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) Really clean icon set inlcuding all major topics.
 * [Linea](http://www.linea.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) A free outline iconset featuring 730+ Icons.
-* [Material Design Icons](https://design.google.com/icons) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Google's Material Icons.
+* [Material Design Icons](https://design.google.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Google's Material Icons.
 * [Octicons](https://octicons.github.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) GitHub's Icons.
 * [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 * [Social Stackicons](http://stackicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
