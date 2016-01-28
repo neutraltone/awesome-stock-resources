@@ -14,7 +14,6 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
   * [Public Domain](#public-domain)
   * [Attribution required licenses](#attribution-required-licenses)
   * [Unspecified License](#unspecified-license)
-  * [Collections](#photography-collections)
 * [Illustration](#illustration)
 * [Vector Graphics](#vector-graphics)
 * [Videos](#videos)
@@ -134,10 +133,6 @@ These resources haven't specified any formal terms of use or licenses.
 * [titania foto](http://www.titania-foto.com) - The free image database
 * [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
 
-### Photography Collections
-
-* [The Stocks](http://thestocks.im/) - the best royalty free stock photos in one place.
-
 ## Illustration
 
 A collection of illustration resources which contain a mixture of historical archive, contemporary and public domain assets.
@@ -249,6 +244,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 * [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
 * [Stock Up](http://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
+* [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
 
 ## HTML Templates
 
