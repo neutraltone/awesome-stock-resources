@@ -144,6 +144,7 @@ A collection of illustration resources which contain a mixture of historical arc
 
 A collection of resources which contain stock graphical elements which don't fit in the other sections.
 
+* [Facebook Design Resource](https://facebook.github.io/design/) - [:copyright:](https://facebook.github.io/design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
 * [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
 
 ## Videos
