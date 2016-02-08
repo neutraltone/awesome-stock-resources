@@ -144,7 +144,9 @@ A collection of illustration resources which contain a mixture of historical arc
 
 A collection of resources which contain stock graphical elements which don't fit in the other sections.
 
+* [Facebook Design Resource](https://facebook.github.io/design/) - [:copyright:](https://facebook.github.io/design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
 * [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
+* [Pixaroma](http://pixaroma.com/) - [:copyright:](http://pixaroma.com/terms-and-conditions/) original logos, icons, characters, illustrations and mobile game designs.
 
 ## Videos
 
@@ -215,7 +217,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
-* [Material Design Icons](http://www.materialui.co/icons) - A collections of free, material design style icons.
+* [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 
@@ -234,7 +236,7 @@ A selection of websites offering color schemes.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
-* [Material Design Colors](http://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
+* [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](http://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
 ## Aggregated Content
@@ -244,6 +246,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 * [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
 * [Stock Up](http://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
+* [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
 
 ## HTML Templates
 
