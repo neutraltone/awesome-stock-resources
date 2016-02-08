@@ -146,6 +146,7 @@ A collection of resources which contain stock graphical elements which don't fit
 
 * [Facebook Design Resource](https://facebook.github.io/design/) - [:copyright:](https://facebook.github.io/design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
 * [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
+* [Pixaroma](http://pixaroma.com/) - [:copyright:](http://pixaroma.com/terms-and-conditions/) original logos, icons, characters, illustrations and mobile game designs.
 
 ## Videos
 
