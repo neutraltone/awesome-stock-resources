@@ -291,13 +291,13 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
 * [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
 
-<!--
+
 ## Donate :heart:
 
 And finally, if you appreciate this list and find it useful, please feel free to show your appreciation by donating some bitcoin to the following address:
 
-1JreNWWxZokqxaPnBJPs8ctbUx6HniGP8Z
--->
+[![Support](https://supporter.60devs.com/api/b/af5ucax531nis63r3qyqdd15n)](https://supporter.60devs.com/give/af5ucax531nis63r3qyqdd15n)
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
