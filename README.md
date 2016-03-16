@@ -58,7 +58,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
 * [Lock & Stock Photos](http://lockandstockphotos.com/) - Free stock photos for you.
 * [Magdeleine](http://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
-* [MMT](http://mmt.li/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
+* [MMT](http://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](http://negativespace.co/) - Stock photos added every week.
 * [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
