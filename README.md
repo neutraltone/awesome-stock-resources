@@ -295,7 +295,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## Donate :heart:
 
-And finally, if you appreciate this list and find it useful, please feel free to show your appreciation by donating some bitcoin to the following address:
+And finally, if you appreciate this list and find it useful, please feel free to show your appreciation by donating:
 
 [![Support](https://supporter.60devs.com/api/b/af5ucax531nis63r3qyqdd15n)](https://supporter.60devs.com/give/af5ucax531nis63r3qyqdd15n)
 
