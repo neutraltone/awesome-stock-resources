@@ -96,7 +96,7 @@ These following photography resources are those who have declared their own usag
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
 * [Split Shire](http://www.splitshire.com/) - [:copyright:](http://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 * [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
-* [Tookapic](https://stock.tookapic.com/?filter=free) - [:copyright:](https://tookapic.com/terms) Free listing from Tookapic.
+* [Tookapic](https://stock.tookapic.com/photos?filter=free) - [:copyright:](https://tookapic.com/terms) Free listing from Tookapic.
 
 ### Public Domain
 
@@ -236,7 +236,7 @@ A selection of websites offering color schemes.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
-* [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
+* [Material Design Colors](http://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](http://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
 ## Aggregated Content
@@ -244,6 +244,7 @@ A selection of websites offering color schemes.
 A liberal mixture of content aggregated from other free resources and made available at one central point.
 
 * [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
+* [Avopix](https://avopix.com) - More than 15 000 absolutely free stock photos and vectors.
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
 * [Stock Up](http://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
 * [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
@@ -262,7 +263,7 @@ Free resources for stock sound and music to be used on creative projects
 
 * [Bensound](http://www.bensound.com) - [:copyright:](http://www.bensound.com/licensing) Royalty free music by Bensound.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
-* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](http://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](http://www.wfmu.org/), the most renowned freeform radio station in America.
+* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](http://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
 * [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](http://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](http://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
@@ -291,11 +292,12 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 * [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
 * [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/neutraltone/awesome-stock-resources&title=Awesome%20Stock%20Resources&summary=&source=)
 
+
 ## Donate :heart:
 
-And finally, if you appreciate this list and find it useful, please feel free to show your appreciation by donating some bitcoin to the following address:
+And finally, if you appreciate this list and find it useful, please feel free to show your appreciation by donating:
 
-1JreNWWxZokqxaPnBJPs8ctbUx6HniGP8Z
+[![Support](https://supporter.60devs.com/api/b/af5ucax531nis63r3qyqdd15n)](https://supporter.60devs.com/give/af5ucax531nis63r3qyqdd15n)
 
 ## License
 
