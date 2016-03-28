@@ -180,6 +180,7 @@ A mixture of free and open source font resources.
 * [Font Squirrel](http://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
 * [Impallari](http://www.impallari.com/) - Libre typeface projects by [Pablo Impallari](https://github.com/impallari).
+* [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment. 
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 * [Type Genius](http://www.typegenius.com/) - Fantastic type pairing tool.
 
