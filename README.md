@@ -1,4 +1,4 @@
-# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources)
+# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
 ![Introductory images](/img/splash.jpg)
 
@@ -297,9 +297,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## Donate :heart:
 
-And finally, if you appreciate this list and find it useful, please feel free to show your appreciation by donating:
+And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintance by donating:
 
-[![Support](https://supporter.60devs.com/api/b/af5ucax531nis63r3qyqdd15n)](https://supporterhq.com/give/af5ucax531nis63r3qyqdd15n)
+[![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
 ## License
 
