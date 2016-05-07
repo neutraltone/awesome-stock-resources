@@ -58,7 +58,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
 * [Lock & Stock Photos](http://lockandstockphotos.com/) - Free stock photos for you.
 * [Magdeleine](http://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
-* [MMT](http://mmt.li/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
+* [MMT](http://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](http://negativespace.co/) - Stock photos added every week.
 * [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
@@ -102,7 +102,7 @@ These following photography resources are those who have declared their own usag
 
 A collection of links to public domain photography resources.
 
-* [Good Free Photos](http://www.goodfreephotos.com) - [:copyright:](http://www.goodfreephotos.com/pages/creative-commons-license-terms) A large free stock photo site with thousands of public domain photos including landscapes, objects, animals, plants, textures, and many other free photos. All photos taken by [the website owner](http://www.goodfreephotos.com/pages/about-me).
+* [Good Free Photos](https://www.goodfreephotos.com) - [:copyright:](https://www.goodfreephotos.com/pages/creative-commons-license-terms) A large free stock photo site with thousands of public domain photos including landscapes, objects, animals, plants, textures, and many other free photos. All photos taken by [the website owner](http://www.goodfreephotos.com/pages/about-me).
 * [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr's catalogue of the worlds public photo archives.
 * [New Old Stock](http://nos.twnsnd.co/) - [:copyright:](http://nos.twnsnd.co/rights-and-usage) Vintage photos from the public archive. of known copyright restrictions.
 * [NYPL Digital Collections] (http://digitalcollections.nypl.org/) - [:copyright:] (http://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](http://www.nypl.org/research/collections/digital-collections/public-domain)
@@ -178,7 +178,7 @@ A mixture of free and open source font resources.
 * [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good.
 * [Debian Fonts](http://fonts.debian.net) - [:copyright:](https://www.debian.org/social_contract#guidelines) TTF fonts from the Debian repositories.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
-* [Font Squirrel](http://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
+* [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
 * [Impallari](http://www.impallari.com/) - Libre typeface projects by [Pablo Impallari](https://github.com/impallari).
 * [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment. 
@@ -194,7 +194,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Appa Sariicon](http://code.sariina.com/appa-sariicon/) [:copyright:](http://scripts.sil.org/OFL) 147 8-bit retro style webfont icons for web and mobile
 * [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
 * [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
-* [Flaticon](http://www.flaticon.com/) - [:copyright:](http://cdn.flaticon.com/license/license.pdf) - Almost 100,000 icons in SVG, PNG, EPS, PSD and Webfont. Most icons are available under attribution.
+* [Flaticon](http://www.flaticon.com/) - [:copyright:](http://www.flaticon.com/license/license.pdf) - Almost 100,000 icons in SVG, PNG, EPS, PSD and Webfont. Most icons are available under attribution.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](http://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](http://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
@@ -301,7 +301,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 And finally, if you appreciate this list and find it useful, please feel free to show your appreciation by donating:
 
-[![Support](https://supporter.60devs.com/api/b/af5ucax531nis63r3qyqdd15n)](https://supporter.60devs.com/give/af5ucax531nis63r3qyqdd15n)
+[![Support](https://supporter.60devs.com/api/b/af5ucax531nis63r3qyqdd15n)](https://supporterhq.com/give/af5ucax531nis63r3qyqdd15n)
 
 ## License
 
