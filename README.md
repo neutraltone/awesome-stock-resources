@@ -194,6 +194,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 
 * [Appa Sariicon](http://code.sariina.com/appa-sariicon/) [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) 147 8-bit retro style webfont icons for web and mobile
 * [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
+* [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](http://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.   
 * [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](http://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
