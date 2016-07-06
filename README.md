@@ -38,9 +38,8 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 All the resources below have specifically specified that their content is [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
 
-* [Alana](http://alana.io/) - Free “use how you want” stock photos.
 * [Barn Images](http://barnimages.com/) - Barn Images offers you a collection of free high-resolution non-stock photography.
-* [Boss Fight!](http://bossfight.co) - 10–20 new images added daily.
+* [Boss Fight!](https://bossfight.co) - 10–20 new images added daily.
 * [CC0 Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
 * [Creative Vix](http://creativevix.com/stock) - A wide range of photos for you to use.
 * [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
@@ -73,6 +72,7 @@ All the resources below have specifically specified that their content is [:copy
 * [SpaceX Photos](https://www.flickr.com/photos/spacex/) - Promotional SpaceX stock photography.
 * [Splashbase](http://www.splashbase.co/) - Search & discover free, hi res photos & videos.
 * [Stock Image Point](http://www.stock-image-point.com/) - Free stock photos. 20 pictures added every month.
+* [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](http://ab-dz.com/).
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 * [Stokpic](http://stokpic.com/) - Free Stock Photos For Commercial Use.
 * [Streetwill](http://streetwill.co/) - Free hi-res vintage photos to use any way you want.
@@ -91,7 +91,7 @@ These following photography resources are those who have declared their own usag
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) One free to use photo added everyday.
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms/) ISO Republic provides exclusive free stock photos for creatives.
 * [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms) Great place to get breathtaking Free Pictures for business or personal projects.
-* [morgueFile](http://morguefile.com/archive) - [:copyright:](http://morguefile.com/terms) Free photo archive by creatives, for creatives.
+* [morgueFile](http://morguefile.com/) - [:copyright:](http://morguefile.com/terms) Free photo archive by creatives, for creatives.
 * [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
 * [Pic Jumbo](https://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
 * [Picography](http://picography.co/) - [:copyright:](http://picography.co/terms/) Free hi-resolution photos. Use them however you like.
@@ -240,7 +240,6 @@ A selection of websites offering color schemes.
 * [Colorful Gradients](http://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
-* [Flat UI Color Picker](http://www.flatuicolorpicker.com/) - A copy and paste resource for colors commonly found in 'flat' designs.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
 * [LOLColors](http://www.lolcolors.com/) - A nice curated color palette inspiration resource.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
