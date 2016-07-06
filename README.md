@@ -95,7 +95,7 @@ These following photography resources are those who have declared their own usag
 * [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
 * [Pic Jumbo](https://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
 * [Picography](http://picography.co/) - [:copyright:](http://picography.co/terms/) Free hi-resolution photos. Use them however you like.
-* [Rawpixel](https://www.rawpixel.com/) - [:copyright:](https://www.rawpixel.com/free-image-license) Redefining stock imagery with authentically styled and unique stock photos. Subscribe at http://www.rawpixel.com  and access our free premium images!
+* [Rawpixel](https://www.rawpixel.com/) - [:copyright:](https://www.rawpixel.com/free-image-license) Redefining stock imagery with authentically styled and unique stock photos (Subscribe required).
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
 * [Split Shire](http://www.splitshire.com/) - [:copyright:](http://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 * [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
@@ -108,7 +108,7 @@ A collection of links to public domain photography resources.
 * [Good Free Photos](https://www.goodfreephotos.com) - [:copyright:](https://www.goodfreephotos.com/pages/creative-commons-license-terms) A large free stock photo site with thousands of public domain photos including landscapes, objects, animals, plants, textures, and many other free photos. All photos taken by [the website owner](https://www.goodfreephotos.com/pages/about-me).
 * [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr's catalogue of the worlds public photo archives.
 * [New Old Stock](http://nos.twnsnd.co/) - [:copyright:](http://nos.twnsnd.co/rights-and-usage) Vintage photos from the public archive. of known copyright restrictions.
-* [NYPL Digital Collections] (http://digitalcollections.nypl.org/) - [:copyright:] (http://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](http://www.nypl.org/research/collections/digital-collections/public-domain)
+* [NYPL Digital Collections] (http://digitalcollections.nypl.org/) - [:copyright:] (https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
 * [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/) - [:copyright](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
 * [Public Domain Archive](http://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) New stock photos every single week.
 
