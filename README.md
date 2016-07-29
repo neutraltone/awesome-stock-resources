@@ -100,6 +100,7 @@ These following photography resources are those who have declared their own usag
 * [Split Shire](http://www.splitshire.com/) - [:copyright:](http://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 * [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
 * [Tookapic](https://stock.tookapic.com/photos?filter=free) - [:copyright:](https://tookapic.com/terms) Free listing from Tookapic.
+* [UPICM](http://www.upicm.com/) - [:copyright:](http://www.upicm.com/terms-of-use/) Free pics no tricks.
 
 ### Public Domain
 
