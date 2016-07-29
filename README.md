@@ -85,6 +85,7 @@ All the resources below have specifically specified that their content is [:copy
 These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the *(license)* link next to the resource.
 
 * [Bara Art](http://www.bara-art.com/) - [:copyright:](http://www.bara-art.com/about/) The world always needs high quality photography! Here they are for you, so make something awesome out of them.
+* [Compfight.com](http://www.compfight.com) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
 * [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - [:copyright:](http://www.mediafire.com/download/2ifplcw682487nz/) Free monthly photos for all your creative needs.
 * [Designer Pics](http://www.designerspics.com) - [:copyright:](http://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
 * [Foodies Feed](https://foodiesfeed.com/) - Free food based images. [:copyright:](https://foodiesfeed.com/faq/).
