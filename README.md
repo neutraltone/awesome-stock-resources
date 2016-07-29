@@ -218,7 +218,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 ### Icons Packages and Collections
 
 A collection for SVG icon resources which can be used in your interface and website designs.
-* * [DryIcons] (http://dryioncs.com) - [:copyright:](http://dryicons.com/terms/) Custom Icons and vector designs
+* [DryIcons] (http://dryioncs.com) - [:copyright:](http://dryicons.com/terms/) Custom Icons and vector designs
 * [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
