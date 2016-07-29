@@ -162,6 +162,7 @@ A selection of websites offering high quality video stock.
 * [Life of Vids](http://www.lifeofvids.com/) - [:copyright:](http://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
 * [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 * [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
+* [Videezy](https://www.videezy.com) - [:copyright:](https://www.videezy.com/terms) Free stock videos, 4k footage, and free HD video clips.
 * [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 
 ## Patterns
