@@ -68,7 +68,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
 * [Skitter Photo](http://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
-* [Skuawk](http://skuawk.com/) - SKUAWK PUBLIC DOMAIN PHOTOS, Free, beautiful and artistically loud.
+* [Skuawk](http://skuawk.com/) - Skuawk public domain photos, free, beautiful and artistically loud.
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 * [SpaceX Photos](https://www.flickr.com/photos/spacex/) - Promotional SpaceX stock photography.
 * [Splashbase](http://www.splashbase.co/) - Search & discover free, hi res photos & videos.
