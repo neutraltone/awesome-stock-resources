@@ -49,6 +49,7 @@ All the resources below have specifically specified that their content is [:copy
 * [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
 * [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
 * [Free-Images.cc](http://www.free-images.cc/) - Create something awesome with free CC0 images.
+* [Freely Photos](http://freelyphotos.com/) - Totally free high quality Christian stock photography. 
 * [Furious Camera](http://furiouscamera.com/) - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
 * [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 * [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
