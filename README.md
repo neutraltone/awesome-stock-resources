@@ -68,6 +68,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Photo Collections](http://photocollections.io/) - Free stock photography of architecture, nature and people.
 * [Photo Crops](http://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
 * [Pickle Jar](http://picklejar.in/) - High-resolution images of everyday india. One new image every day.
+* [Pickupimage](http://pickupimage.com/) - Free download high quality premium free stock images, public domain photos.
 * [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
 * [Realgraphy](https://realgraphy.org/) - Authentic Non-Stock Photos for Free. Forever.
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
