@@ -159,6 +159,7 @@ A collection of resources which contain stock graphical elements which don't fit
 
 * [Facebook Design Resource](http://facebook.design/) - [:copyright:](http://facebook.design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
 * [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
+* [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
 * [Logo Dust](http://logodust.com/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
 * [Pixaroma](http://pixaroma.com/) - [:copyright:](http://pixaroma.com/terms-and-conditions/) original logos, icons, characters, illustrations and mobile game designs.
 
