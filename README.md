@@ -164,6 +164,7 @@ A collection of resources which contain stock graphical elements which don't fit
 * [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
 * [Logo Dust](http://logodust.com/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
 * [Pixaroma](http://pixaroma.com/) - [:copyright:](http://pixaroma.com/terms-and-conditions/) original logos, icons, characters, illustrations and mobile game designs.
+* [Sketch Repo](https://sketchrepo.com/) - [:copyright](https://sketchrepo.com/about/) Sketch Repo is a great place to discover Sketch App resources for your next design project.
 * [Vecteezy](https://vecteezy.com) - [:copyright:](http://vecteezy.com/terms/) Discover & download free vector art from a community of Illustrators.
 
 ## Videos
