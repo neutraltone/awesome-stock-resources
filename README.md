@@ -278,6 +278,7 @@ Various different websites offering free HTML templates and themes.
 * [Bootswatch](http://bootswatch.com/) - [:copyright:](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE) Free themes for Bootstrap.
 * [HTML5 Up](https://html5up.net/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
 * [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
+* [Themezy](https://themezy.com) - [:copyright:](https://themezy.com/terms) Free Wordpress Themes and Website Templates.
 
 ## Sounds & Music
 
