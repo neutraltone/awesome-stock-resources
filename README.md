@@ -66,7 +66,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Negative Space](http://negativespace.co/) - Stock photos added every week.
 * [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
 * [Photo Collections](http://photocollections.io/) - Free stock photography of architecture, nature and people.
-* [Photo Crops](http://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
+* [Photo Crops](https://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
 * [Pickle Jar](http://picklejar.in/) - High-resolution images of everyday india. One new image every day.
 * [Pickupimage](http://pickupimage.com/) - Free download high quality premium free stock images, public domain photos.
 * [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
@@ -202,7 +202,7 @@ A mixture of free and open source font resources.
 * [Impallari](http://www.impallari.com/) - Libre typeface projects by [Pablo Impallari](https://github.com/impallari).
 * [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment. 
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
-* [Type Genius](http://www.typegenius.com/) - Fantastic type pairing tool.
+* [Canva Font Combinations (Type Genius)](https://www.canva.com/font-combinations/) - Fantastic type pairing tool.
 
 ## Icons
 
