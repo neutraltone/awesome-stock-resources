@@ -92,7 +92,7 @@ All the resources below have specifically specified that their content is [:copy
 These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the *(license)* link next to the resource.
 
 * [Bara Art](http://www.bara-art.com/) - [:copyright:](http://www.bara-art.com/about/) The world always needs high quality photography! Here they are for you, so make something awesome out of them.
-* [Compfight.com](http://www.compfight.com) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
+* [Compfight.com](http://compfight.com/) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
 * [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - [:copyright:](http://www.mediafire.com/download/2ifplcw682487nz/) Free monthly photos for all your creative needs.
 * [Designer Pics](http://www.designerspics.com) - [:copyright:](http://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
 * [Foodies Feed](https://foodiesfeed.com/) - Free food based images. [:copyright:](https://foodiesfeed.com/faq/).
@@ -100,7 +100,7 @@ These following photography resources are those who have declared their own usag
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) One free to use photo added everyday.
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms/) ISO Republic provides exclusive free stock photos for creatives.
 * [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms) Great place to get breathtaking Free Pictures for business or personal projects.
-* [morgueFile](http://morguefile.com/) - [:copyright:](http://morguefile.com/terms) Free photo archive by creatives, for creatives.
+* [morgueFile](https://morguefile.com/) - [:copyright:](http://morguefile.com/terms) Free photo archive by creatives, for creatives.
 * [Photober](http://www.photober.com/) - [:copyright:](http://www.photober.com/terms/) Free of charge photo downloading site for personal or commercial use.
 * [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
 * [Pic Jumbo](https://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
@@ -130,10 +130,10 @@ The photographs on the following resources require Attribution unless otherwise 
 * [BucketListly](http://photos.bucketlistly.com/) - A free creative common collection of travel photos anyone can use.
 * [IM Creator](http://www.imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
 * [NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/spaceimages/) - [:copyright:](http://www.jpl.nasa.gov/imagepolicy/) Graphics and photos of space and spaceflight.
-* [PhotoEverywhere](http://photoeverywhere.co.uk/) - [:copyright:](http://creativecommons.org/licenses/by/2.5/) Globe-trot our collection of high resolution Travel Stock Images More than 3600 photos that are Free to use and ready for instant download.
-* [Raumrot](http://raumrot.com/) - ([:copyright:](http://creativecommons.org/licenses/by/2.0/)) Handpicked stock photos for your commercial and personal works.
-* [Superfamous](http://images.superfamous.com/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) Superfamous CC BY 3.0 licensed images by [Folkert Gorter](https://twitter.com/folkertgorter).
-* [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - [:copyright:](http://creativecommons.org/licenses/by/2.0/) Licensed picture from Women of Color in Tech.
+* [PhotoEverywhere](http://photoeverywhere.co.uk/) - [:copyright:](https://creativecommons.org/licenses/by/2.5/) Globe-trot our collection of high resolution Travel Stock Images More than 3600 photos that are Free to use and ready for instant download.
+* [Raumrot](http://raumrot.com/) - ([:copyright:](https://creativecommons.org/licenses/by/2.0/)) Handpicked stock photos for your commercial and personal works.
+* [Superfamous](http://images.superfamous.com/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) Superfamous CC BY 3.0 licensed images by [Folkert Gorter](https://twitter.com/folkertgorter).
+* [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - [:copyright:](https://creativecommons.org/licenses/by/2.0/) Licensed picture from Women of Color in Tech.
 
 ### Unspecified License
 
@@ -162,10 +162,10 @@ A collection of resources which contain stock graphical elements which don't fit
 * [Facebook Design Resource](http://facebook.design/) - [:copyright:](http://facebook.design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
 * [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
 * [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
-* [Logo Dust](http://logodust.com/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
+* [Logo Dust](http://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
 * [Pixaroma](http://pixaroma.com/) - [:copyright:](http://pixaroma.com/terms-and-conditions/) original logos, icons, characters, illustrations and mobile game designs.
 * [Sketch Repo](https://sketchrepo.com/) - [:copyright](https://sketchrepo.com/about/) Sketch Repo is a great place to discover Sketch App resources for your next design project.
-* [Vecteezy](https://vecteezy.com) - [:copyright:](http://vecteezy.com/terms/) Discover & download free vector art from a community of Illustrators.
+* [Vecteezy](https://www.vecteezy.com/) - [:copyright:](https://www.vecteezy.com/terms/) Discover & download free vector art from a community of Illustrators.
 
 ## Videos
 
@@ -173,7 +173,7 @@ A selection of websites offering high quality video stock.
 
 * [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
 * [Distill](http://www.wedistill.io/) - Curated HD Video Free For Your Personal and Commercial Use. 10 free HD videos every 10 days.
-* [Life of Vids](http://www.lifeofvids.com/) - [:copyright:](http://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
+* [Life of Vids](http://www.lifeofvids.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
 * [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 * [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
 * [Pond5](https://www.pond5.com/free) - Download thousands of historic media files (videos, audio, images and 3d models) for your creative projects.
@@ -198,7 +198,7 @@ A mixture of free and open source font resources.
 * [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
-* [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
+* [Google Fonts](https://fonts.google.com/) - Interactive directory of free hosted application programming interfaces for web fonts.
 * [Impallari](http://www.impallari.com/) - Libre typeface projects by [Pablo Impallari](https://github.com/impallari).
 * [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment. 
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
@@ -224,7 +224,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Linea](http://www.linea.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) A free outline iconset featuring 730+ Icons.
 * [Material Design Icons](https://design.google.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Google's Material Icons.
 * [Octicons](https://octicons.github.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) GitHub's Icons.
-* [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
+* [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 * [Social Stackicons](http://stackicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
 * [Topcoat Icons](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
 * [Typicons](http://typicons.com/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
@@ -250,7 +250,7 @@ A selection of websites offering color schemes.
 * [0to255](http://www.0to255.com/) - A simple tool that helps web designers find variations of any color.
 * [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
 * [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
-* [Brand Colors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
+* [Brand Colors](https://brandcolors.net/) - Official color codes for the world's biggest brands.
 * [Coleure](https://www.coleure.com/) - Simple app for grabbing & tweaking colors you see on screen.
 * [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
 * [Colorful Gradients](http://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
@@ -259,7 +259,7 @@ A selection of websites offering color schemes.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
 * [LOLColors](http://www.lolcolors.com/) - A nice curated color palette inspiration resource.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
-* [Material Palette](http://www.materialpalette.com/) - Generate & export your Material Design color palette.
+* [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
 ## Aggregated Content
 
@@ -278,7 +278,7 @@ Various different websites offering free HTML templates and themes.
 * [Bootswatch](http://bootswatch.com/) - [:copyright:](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE) Free themes for Bootstrap.
 * [HTML5 Up](https://html5up.net/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
 * [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
-* [Themezy](https://themezy.com) - [:copyright:](https://themezy.com/terms) Free WordPress themes and website templates.
+* [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.
 
 ## Sounds & Music
 
