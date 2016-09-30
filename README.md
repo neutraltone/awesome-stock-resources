@@ -159,6 +159,7 @@ A collection of illustration resources which contain a mixture of historical arc
 
 A collection of resources which contain stock graphical elements which don't fit in the other sections.
 
+* [AMCharts - Free SVG Maps](https://www.amcharts.com/svg-maps/) - [:copyright:](https://creativecommons.org/licenses/by-nc/4.0/) A directory of free non-commercial, attribution licensed SVG maps in two level of details: High and low.
 * [Facebook Design Resource](http://facebook.design/) - [:copyright:](http://facebook.design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
 * [Freepik](http://www.freepik.com/) - [:copyright:](http://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
 * [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
