@@ -11,6 +11,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 * [Photography](#photography)
   * [CC0-license](#cc0-license)
+  * [CC0-Search-Engines](#cc0-search)
   * [Custom License / Usage](#custom-license--usage)
   * [Public Domain](#public-domain)
   * [Attribution required licenses](#attribution-required-licenses)
@@ -87,6 +88,10 @@ All the resources below have specifically specified that their content is [:copy
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
+
+### CC0-search Engines
+
+* [LibreStock](http://librestock.com)
 
 ### Custom License / Usage
 
