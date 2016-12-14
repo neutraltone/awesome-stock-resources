@@ -108,7 +108,7 @@ These following photography resources are those who have declared their own usag
 * [Picography](http://picography.co/) - [:copyright:](http://picography.co/terms/) Free hi-resolution photos. Use them however you like.
 * [Rawpixel](https://www.rawpixel.com/) - [:copyright:](https://www.rawpixel.com/free-image-license) Redefining stock imagery with authentically styled and unique stock photos (Subscribe required).
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
-* [Split Shire](http://www.splitshire.com/) - [:copyright:](http://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
+* [Split Shire](https://www.splitshire.com/) - [:copyright:](https://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 * [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
 * [Tookapic](https://stock.tookapic.com/photos?filter=free) - [:copyright:](https://tookapic.com/terms) Free listing from Tookapic.
 
