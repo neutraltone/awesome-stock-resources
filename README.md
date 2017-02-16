@@ -305,6 +305,7 @@ And last, but not least, a selection of the best paid stock resources.
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Fotolia](https://www.fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Inky Deals](https://www.inkydeals.com/) - Premium resources at insane discounts.
+* [Videoblocks](https://www.videoblocks.com) - Videos
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 * [Stocksy](https://www.stocksy.com/) - "Cliché-free" Photos.
 
