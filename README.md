@@ -188,6 +188,7 @@ completely free.
 A mixture of CSS and image based pattern resources.
 
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/) - CSS3 based repeatable patterns.
+* [Low Poly Images](https://reviewsquirrel.com/best-low-poly-generators/) - Collection of low poly image generators.
 * [Subtle Patterns](http://subtlepatterns.com/) - Image based background textures and patterns.
 * [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
 * [UI Gradients](https://uigradients.com/) - Nice, subtle linear gradients to use in your designs.
