@@ -188,6 +188,7 @@ completely free.
 A mixture of CSS and image based pattern resources.
 
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/) - CSS3 based repeatable patterns.
+* [Low Poly Images](https://reviewsquirrel.com/best-low-poly-generators/) - Collection of low poly image generators.
 * [Subtle Patterns](http://subtlepatterns.com/) - Image based background textures and patterns.
 * [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
 * [UI Gradients](http://uigradients.com/) - Nice, subtle linear gradients to use in your designs.
@@ -270,7 +271,6 @@ A liberal mixture of content aggregated from other free resources and made avail
 * [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
 * [Avopix](https://avopix.com) - More than 15 000 absolutely free stock photos and vectors.
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
-* [Low Poly Images](https://reviewsquirrel.com/best-low-poly-generators/) - Collection of low poly image generators.
 * [Stock Up](https://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
 * [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
 
