@@ -43,6 +43,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Boss Fight!](https://bossfight.co) - 10–20 new images added daily.
 * [CC0 Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
 * [Creative Vix](http://creativevix.com/stock) - A wide range of photos for you to use.
+* [Creative Commons Search](http://search.creativecommons.org/) - A meta search across several libaries to find adaptable / editable images
 * [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
 * [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
 * [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
@@ -299,13 +300,14 @@ Free resources for stock sound and music to be used on creative projects
 
 ## Paid Resources
 
-And last, but not least, a selection of the best paid stock resources.
+And last, but not least, a selection of the best paid resources.
 
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Fotolia](https://us.fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Inky Deals](https://www.inkydeals.com/) - Premium resources at insane discounts.
 * [Shutterstock](https://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 * [Stocksy](https://www.stocksy.com/) - "Cliché-free" Photos.
+
 
 ## How to Contribute
 
