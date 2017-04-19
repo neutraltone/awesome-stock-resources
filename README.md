@@ -308,7 +308,6 @@ And last, but not least, a selection of the best paid resources.
 * [Inky Deals](https://www.inkydeals.com/) - Premium resources at insane discounts.
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 * [Stocksy](https://www.stocksy.com/) - "Cliché-free" Photos.
-* [The Big Book of Font Combinations](http://bonfx.com/the-big-book-of-font-combinations) - Classic typeface pairing ideas, set in full page layouts for indepth font comparisions
 
 
 ## How to Contribute
