@@ -306,7 +306,6 @@ And last, but not least, a selection of the best paid resources.
 * [Adobe Stock](https://stock.adobe.com/) - Photos, Illustrations, Vectors.
 * [Fotolia](https://www.fotolia.com/) - Photos, Illustrations, Vectors, Videos.
 * [Inky Deals](https://www.inkydeals.com/) - Premium resources at insane discounts.
-* [Mighty Deals](http://www.mightydeals.com/) - Deals specifically for designers and developers, free and paid
 * [Shutterstock](http://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 * [Stocksy](https://www.stocksy.com/) - "Cliché-free" Photos.
 * [The Big Book of Font Combinations](http://bonfx.com/the-big-book-of-font-combinations) - Classic typeface pairing ideas, set in full page layouts for indepth font comparisions
