@@ -56,11 +56,11 @@ All the resources below have specifically specified that their content is [:copy
 * [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 * [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
 * [Jéshoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
-* [LibreShot] (http://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
+* [LibreShot] (https://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
 * [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 * [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
 * [Lock & Stock Photos](http://lockandstockphotos.com/) - Free stock photos for you.
-* [Magdeleine](http://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
+* [Magdeleine](https://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
 * [Minimography](http://minimography.com/) - Royalty-Free Minimalist Photos.
 * [MMT](http://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
@@ -68,14 +68,14 @@ All the resources below have specifically specified that their content is [:copy
 * [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
 * [Photo Collections](https://photocollections.io/) - Free stock photography of architecture, nature and people.
 * [Photo Crops](https://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
-* [Pickle Jar](http://picklejar.in/) - High-resolution images of everyday india. One new image every day.
+* [Pickle Jar](http://www.picklejar.in/) - High-resolution images of everyday india. One new image every day.
 * [Pickupimage](http://pickupimage.com/) - Free download high quality premium free stock images, public domain photos.
 * [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
 * [Realgraphy](https://realgraphy.org/) - Authentic Non-Stock Photos for Free. Forever.
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
 * [Skitter Photo](https://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
 * [Skuawk](http://skuawk.com/) - Skuawk public domain photos, free, beautiful and artistically loud.
-* [Snappy Goat](http://snappygoat.com/) - Over 12 million public domain & CC0 licensed images.
+* [Snappy Goat](https://snappygoat.com/) - Over 12 million public domain & CC0 licensed images.
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 * [SpaceX Photos](https://www.flickr.com/photos/spacex/) - Promotional SpaceX stock photography.
 * [Splashbase](http://www.splashbase.co/) - Search & discover free, hi res photos & videos.
@@ -100,7 +100,7 @@ These following photography resources are those who have declared their own usag
 * [Freerange](https://freerangestock.com/) - [:copyright:](https://freerangestock.com/licensing.php) Quality stock photos for commercial and non-commercial use. For free.
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) One free to use photo added everyday.
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms/) ISO Republic provides exclusive free stock photos for creatives.
-* [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/terms) Great place to get breathtaking Free Pictures for business or personal projects.
+* [Kaboom Pics](http://kaboompics.com/) - [:copyright:](http://kaboompics.com/page/license-and-faq) Great place to get breathtaking Free Pictures for business or personal projects.
 * [morgueFile](https://morguefile.com/) - [:copyright:](https://morguefile.com/terms) Free photo archive by creatives, for creatives.
 * [Photober](http://www.photober.com/) - [:copyright:](http://www.photober.com/terms/) Free of charge photo downloading site for personal or commercial use.
 * [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
@@ -188,8 +188,8 @@ completely free.
 A mixture of CSS and image based pattern resources.
 
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/) - CSS3 based repeatable patterns.
-* [Low Poly Images](https://reviewsquirrel.com/best-low-poly-generators/) - Collection of low poly image generators.
-* [Subtle Patterns](http://subtlepatterns.com/) - Image based background textures and patterns.
+* [Low Poly Images](https://digital.com/blog/best-low-poly-generators/) - Collection of low poly image generators.
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Image based background textures and patterns.
 * [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
 * [UI Gradients](https://uigradients.com/) - Nice, subtle linear gradients to use in your designs.
 
@@ -217,7 +217,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
 * [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.   
 * [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
-* [Font Awesome](http://fontawesome.io/) - [:copyright:](http://choosealicense.com/licenses/mit/) MIT licensed icon font.
+* [Font Awesome](http://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](http://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
 * [GLYPHICONS](http://glyphicons.com/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
@@ -238,9 +238,9 @@ A collection for icon font resources, most of which also include SVGs, which can
 
 A collection for SVG icon resources which can be used in your interface and website designs.
 
-* [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
+* [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
-* [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
+* [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
@@ -260,7 +260,7 @@ A selection of websites offering color schemes.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
-* [LOLColors](http://www.lolcolors.com/) - A nice curated color palette inspiration resource.
+* [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) - A nice curated color palette inspiration resource.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
@@ -279,7 +279,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 Various different websites offering free HTML templates and themes.
 
 * [Bootswatch](http://bootswatch.com/) - [:copyright:](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE) Free themes for Bootstrap.
-* [HTML5 Up](https://html5up.net/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
+* [HTML5 Up](https://html5up.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
 * [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
 * [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.
 
@@ -290,7 +290,7 @@ Free resources for stock sound and music to be used on creative projects
 * [Bensound](http://www.bensound.com) - [:copyright:](http://www.bensound.com/licensing) Royalty free music by Bensound.
 * [ccMixter] (http://ccmixter.org/) - [:copyright:] (http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
-* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](http://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
+* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
 * [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](http://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](http://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
