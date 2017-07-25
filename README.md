@@ -39,6 +39,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 All the resources below have specifically specified that their content is [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
 
 * [ABSFreePic](http://absfreepic.com/) - A high-resolution and absolutely free photos stock site.
+* [Altphotos](https://altphotos.com) - Handpicked free high-resolution photos added daily.
 * [Barn Images](https://barnimages.com/) - Barn Images offers you a collection of free high-resolution non-stock photography.
 * [Boss Fight!](https://bossfight.co) - 10–20 new images added daily.
 * [CC0 Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
