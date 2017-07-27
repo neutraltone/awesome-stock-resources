@@ -43,7 +43,6 @@ All the resources below have specifically specified that their content is [:copy
 * [Barn Images](https://barnimages.com/) - Barn Images offers you a collection of free high-resolution non-stock photography.
 * [Boss Fight!](https://bossfight.co) - 10–20 new images added daily.
 * [CC0 Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
-* [Creative Vix](http://creativevix.com/stock) - A wide range of photos for you to use.
 * [Creative Commons Search](http://search.creativecommons.org/) - A meta search across several libaries to find adaptable / editable images
 * [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
 * [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
