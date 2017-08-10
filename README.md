@@ -149,6 +149,7 @@ These resources haven't specified any formal terms of use or licenses.
 * [Refe Real Life Photos](http://getrefe.tumblr.com) - Free real life photos from [REFE](http://getrefe.com/).
 * [titania foto](http://www.titania-foto.com) - The free image database
 * [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
+* [Mockup World](https://www.mockupworld.co) - A mixture of free and premium mockup in-situation templates.
 
 ## Illustration
 
