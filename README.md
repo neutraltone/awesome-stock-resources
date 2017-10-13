@@ -52,7 +52,7 @@ All the resources below have specifically specified that their content is [:copy
 * [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
 * [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
 * [Free-Images.cc](http://www.free-images.cc/) - Create something awesome with free CC0 images.
-* [Freely Photos](http://freelyphotos.com/) - Totally free high quality Christian stock photography. 
+* [Freely Photos](https://freelyphotos.com/) - Totally free high quality Christian stock photography. 
 * [Furious Camera](http://furiouscamera.com/) - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
 * [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 * [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
@@ -63,7 +63,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Lock & Stock Photos](http://lockandstockphotos.com/) - Free stock photos for you.
 * [Magdeleine](https://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
 * [Minimography](http://minimography.com/) - Royalty-Free Minimalist Photos.
-* [MMT](http://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
+* [MMT](https://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](https://negativespace.co/) - Stock photos added every week.
 * [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
@@ -97,7 +97,7 @@ These following photography resources are those who have declared their own usag
 * [Compfight.com](http://compfight.com/) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
 * [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - [:copyright:](http://www.mediafire.com/download/2ifplcw682487nz/) Free monthly photos for all your creative needs.
 * [Designer Pics](http://www.designerspics.com) - [:copyright:](http://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
-* [Foodies Feed](https://foodiesfeed.com/) - Free food based images. [:copyright:](https://foodiesfeed.com/faq/).
+* [Foodies Feed](https://www.foodiesfeed.com/) - Free food based images. [:copyright:](https://www.foodiesfeed.com/faq/).
 * [Freerange](https://freerangestock.com/) - [:copyright:](https://freerangestock.com/licensing.php) Quality stock photos for commercial and non-commercial use. For free.
 * [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) One free to use photo added everyday.
 * [ISO Republic](http://isorepublic.com/) - [:copyright:](http://isorepublic.com/terms/) ISO Republic provides exclusive free stock photos for creatives.
@@ -221,7 +221,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
-* [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](http://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
+* [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](https://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
 * [GLYPHICONS](http://glyphicons.com/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
 * [IcoMoon](https://icomoon.io/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
 * [Ionicons](http://ionicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) The premium icon font for Ionic Framework. 100% free and open source.
@@ -245,7 +245,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
-* [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+* [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 
 ## Colors
@@ -280,7 +280,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 
 Various different websites offering free HTML templates and themes.
 
-* [Bootswatch](http://bootswatch.com/) - [:copyright:](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE) Free themes for Bootstrap.
+* [Bootswatch](https://bootswatch.com/) - [:copyright:](https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE) Free themes for Bootstrap.
 * [HTML5 Up](https://html5up.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
 * [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
 * [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.
@@ -293,7 +293,7 @@ Free resources for stock sound and music to be used on creative projects
 * [ccMixter] (http://ccmixter.org/) - [:copyright:] (http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
 * [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
-* [Freesound](http://www.freesound.org) - [:copyright:](http://www.freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
+* [Freesound](http://freesound.org/) - [:copyright:](http://freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](http://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](http://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 * [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
