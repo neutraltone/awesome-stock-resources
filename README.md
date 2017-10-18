@@ -59,7 +59,6 @@ All the resources below have specifically specified that their content is [:copy
 * [LibreShot] (https://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
 * [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 * [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
-* [Lock & Stock Photos](http://lockandstockphotos.com/) - Free stock photos for you.
 * [Magdeleine](https://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
 * [Minimography](http://minimography.com/) - Royalty-Free Minimalist Photos.
 * [MMT](https://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
