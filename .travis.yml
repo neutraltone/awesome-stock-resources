@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-ssl --white-list twitter.com www.facebook.com plus.google.com www.linkedin.com img.shields.io www.paypal.me creativecommons.org scripts.sil.org choosealicense.com
+  - awesome_bot README.md --allow-ssl --white-list twitter.com facebook.com google.com linkedin.com shields.io paypal.me creativecommons.org sil.org choosealicense.com
