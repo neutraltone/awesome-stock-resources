@@ -56,7 +56,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Gratisography](https://gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 * [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
 * [Jéshoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
-* [LibreShot] (https://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
+* [LibreShot](https://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
 * [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 * [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
 * [Magdeleine](https://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
