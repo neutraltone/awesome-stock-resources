@@ -262,6 +262,12 @@ A selection of websites offering color schemes.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
+## Textures
+
+Websites offering images suitable for texturing objects for 3D graphics.
+
+* [TextureHaven](https://texturehaven.com) - High quality set of textures with CC0 license.
+
 ## Aggregated Content
 
 A liberal mixture of content aggregated from other free resources and made available at one central point.
