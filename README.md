@@ -217,7 +217,6 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT licensed icon font.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
 * [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](https://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
-* [GLYPHICONS](http://glyphicons.com/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
 * [IcoMoon](https://icomoon.io/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
 * [Ionicons](http://ionicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) The premium icon font for Ionic Framework. 100% free and open source.
 * [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) Really clean icon set inlcuding all major topics.
