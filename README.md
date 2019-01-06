@@ -41,7 +41,6 @@ All the resources below have specifically specified that their content is [:copy
 * [ABSFreePic](http://absfreepic.com/) - A high-resolution and absolutely free photos stock site.
 * [Altphotos](https://altphotos.com) - Handpicked free high-resolution photos added daily.
 * [Barn Images](https://barnimages.com/) - Barn Images offers you a collection of free high-resolution non-stock photography.
-* [Boss Fight!](https://bossfight.co) - 10–20 new images added daily.
 * [CC0 Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
 * [Creative Commons Search](http://search.creativecommons.org/) - A meta search across several libaries to find adaptable / editable images
 * [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
@@ -50,7 +49,6 @@ All the resources below have specifically specified that their content is [:copy
 * [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
 * [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
 * [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
-* [Free-Images.cc](http://www.free-images.cc/) - Create something awesome with free CC0 images.
 * [Freely Photos](https://freelyphotos.com/) - Totally free high quality Christian stock photography. 
 * [Furious Camera](http://furiouscamera.com/) - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
 * [Gratisography](https://gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
@@ -108,7 +106,6 @@ These following photography resources are those who have declared their own usag
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
 * [Split Shire](https://www.splitshire.com/) - [:copyright:](https://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 * [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
-* [Tookapic](https://stock.tookapic.com/photos?filter=free) - [:copyright:](https://tookapic.com/terms) Free listing from Tookapic.
 
 ### Public Domain
 
@@ -292,7 +289,6 @@ Free resources for stock sound and music to be used on creative projects
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 * [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
-* [Our Music Box](http://ourmusicbox.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) free royalty free music by Jay Man.
 * [Sound Image](http://soundimage.org/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
 * [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
 
