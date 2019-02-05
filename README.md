@@ -62,7 +62,6 @@ All the resources below have specifically specified that their content is [:copy
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](https://negativespace.co/) - Stock photos added every week.
 * [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
-* [Photo Collections](https://photocollections.io/) - Free stock photography of architecture, nature and people.
 * [Photo Crops](https://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
 * [Pickle Jar](http://www.picklejar.in/) - High-resolution images of everyday india. One new image every day.
 * [Pickupimage](http://pickupimage.com/) - Free download high quality premium free stock images, public domain photos.
