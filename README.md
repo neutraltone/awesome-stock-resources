@@ -79,6 +79,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 * [Stokpic](http://stokpic.com/) - Free Stock Photos For Commercial Use.
 * [Streetwill](http://streetwill.co/) - Free hi-res vintage photos to use any way you want.
+* [TextureHaven](https://texturehaven.com) - High quality set of textures with CC0 license.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
@@ -257,12 +258,6 @@ A selection of websites offering color schemes.
 * [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) - A nice curated color palette inspiration resource.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
-
-## Textures
-
-Websites offering images suitable for texturing objects for 3D graphics.
-
-* [TextureHaven](https://texturehaven.com) - High quality set of textures with CC0 license.
 
 ## Aggregated Content
 
