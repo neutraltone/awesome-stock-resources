@@ -18,6 +18,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Vector Graphics](#vector-graphics)
 * [Videos](#videos)
 * [Patterns](#patterns)
+* [Textures](#textures)
 * [Fonts](#fonts)
 * [Icons](#icons)
   * [Icon Fonts](#icon-fonts)
