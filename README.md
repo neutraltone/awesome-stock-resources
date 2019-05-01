@@ -79,7 +79,6 @@ All the resources below have specifically specified that their content is [:copy
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 * [Stokpic](http://stokpic.com/) - Free Stock Photos For Commercial Use.
 * [Streetwill](http://streetwill.co/) - Free hi-res vintage photos to use any way you want.
-* [TextureHaven](https://texturehaven.com) - High quality set of textures with CC0 license.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
@@ -187,6 +186,12 @@ A mixture of CSS and image based pattern resources.
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Image based background textures and patterns.
 * [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
 * [UI Gradients](https://uigradients.com/) - Nice, subtle linear gradients to use in your designs.
+
+## Textures
+
+Websites offering images suitable for texturing objects for 3D graphics.
+
+* [TextureHaven](https://texturehaven.com) - [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/) High quality set of textures with CC0 license.
 
 ## Fonts
 
