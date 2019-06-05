@@ -274,6 +274,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 * [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
 * [Stock Up](https://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
 * [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
+* [Imageric](https://imageric.com/) - Thousands of free stock photos from 12 sources under CC0 licence.
 
 ## HTML Templates
 
