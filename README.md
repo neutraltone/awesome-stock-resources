@@ -122,7 +122,6 @@ A collection of illustration resources which contain a mixture of historical arc
 A selection of websites offering high quality video stock.
 
 * [Coverr](http://coverr.co/)
-* [Distill](http://www.wedistill.io/)
 * [Mazwai](http://mazwai.com/)
 * [Pexels Videos](https://videos.pexels.com/)
 * [Vidsplay](http://www.vidsplay.com/)
