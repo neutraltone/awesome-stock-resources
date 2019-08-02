@@ -149,7 +149,7 @@ These resources haven't specified any formal terms of use or licenses.
 
 A collection of illustration resources which contain a mixture of historical archive, contemporary and public domain assets.
 
-* [Biodiversity Heritage Library](https://www.flickr.com/people/biodivlibrary/) - Nearly 150,000 exquisite, historical illustrations of life on Earth. A mix of Public Domain [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) and Attribution (CC BY 2.0) [:copyright:](https://creativecommons.org/licenses/by/2.0/) licenses.
+* [Biodiversity Heritage Library](https://www.flickr.com/people/biodivlibrary/) [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) [:copyright:](https://creativecommons.org/licenses/by/2.0/) A mix of Public Domain and Attribution (CC BY 2.0) licenses. Nearly 150,000 exquisite, historical illustrations of life on Earth. 
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - [:copyright:](http://www.bl.uk/aboutus/terms/copyright/index.html) The British Library’s collections on Flickr Commons offer access to millions of public domain images.
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) - [:copyright:](https://www.oldbookillustrations.com/terms-of-use/) A massive collection of illustrations from old books.
 
