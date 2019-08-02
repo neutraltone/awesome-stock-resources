@@ -198,7 +198,7 @@ Websites offering images suitable for texturing objects for 3D graphics.
 
 A mixture of free and open source font resources.
 
-* [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - A showcase of the best typefaces from the Google web fonts directory.
+* [Beautiful Web Type](https://beautifulwebtype.com) - A showcase of the best typefaces from the Google web fonts directory.
 * [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
