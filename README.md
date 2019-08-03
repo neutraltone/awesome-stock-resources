@@ -161,6 +161,7 @@ A collection of resources which contain stock graphical elements which don't fit
 * [Facebook Design Resource](http://facebook.design/) - [:copyright:](http://facebook.design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
 * [Freepik](https://www.freepik.com/) - [:copyright:](https://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
 * [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
+* [Hero Patterns](http://www.heropatterns.com/) - A collection of free CC Attribution 4.0 repeatable SVG background patterns.
 * [Logo Dust](http://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
 * [Sketch Repo](https://sketchrepo.com/) - [:copyright:](https://sketchrepo.com/about/) Sketch Repo is a great place to discover Sketch App resources for your next design project.
 * [Vecteezy](https://www.vecteezy.com/) - [:copyright:](https://www.vecteezy.com/terms) Discover & download free vector art from a community of Illustrators.
