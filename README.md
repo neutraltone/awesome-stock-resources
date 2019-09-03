@@ -107,6 +107,7 @@ These following photography resources are those who have declared their own usag
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
 * [Split Shire](https://www.splitshire.com/) - [:copyright:](https://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 * [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
+* [iconscout.com](https://iconscout.com/photos) - [:copyright:](https://iconscout.com/licenses) Discover Commercial and Editorial stock photos from 100+ photographers
 
 ### Public Domain
 
@@ -153,6 +154,7 @@ A collection of illustration resources which contain a mixture of historical arc
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - [:copyright:](http://www.bl.uk/aboutus/terms/copyright/index.html) The British Library’s collections on Flickr Commons offer access to millions of public domain images.
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) - [:copyright:](https://www.oldbookillustrations.com/terms-of-use/) A massive collection of illustrations from old books.
 * [unDraw](https://undraw.co/) - [:copyright:](https://undraw.co/license) Open-source illustrations for every project you can imagine and create.
+* [iconscout.com](https://iconscout.com/illustrations) - [:copyright:](https://iconscout.com/licenses) Discover Commercial and Editorial illustrations from 5k+ illustrators
 
 ## Vector Graphics
 
@@ -250,6 +252,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
+* [iconscout.com](https://iconscout.com/icons) - [:copyright:](https://iconscout.com/licenses) Discover Commercial and Editorial icons from 2M+ icons
 
 ## Colors
 
@@ -314,6 +317,7 @@ And last, but not least, a selection of the best paid resources.
 * [Shutterstock](https://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 * [Stocksy](https://www.stocksy.com/) - "Cliché-free" Photos.
 * [Graphic River](https://graphicriver.net/) - Hand-reviewed graphic assets from a community of designers.
+* [iconscout.com](https://iconscout.com) - [:copyright:](https://iconscout.com/licenses) Get high-quality Icons, Illustrations and Stock photos at one place
 .
 
 
