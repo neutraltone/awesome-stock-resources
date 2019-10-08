@@ -283,6 +283,8 @@ A liberal mixture of content aggregated from other free resources and made avail
 
 Various different websites offering free HTML templates and themes.
 
+* [HTML5 Rocket](https://html5rocket.github.io/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) Free HTML5 site templates.
+* [Start Bootstrap](https://startbootstrap.com/) - [:copyright:](https://opensource.org/licenses/MIT) Free Bootstrap templates and themes.
 * [Bootswatch](https://bootswatch.com/) - [:copyright:](https://raw.githubusercontent.com/thomaspark/bootswatch/master/LICENSE) Free themes for Bootstrap.
 * [HTML5 Up](https://html5up.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
 * [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
