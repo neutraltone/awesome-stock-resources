@@ -43,7 +43,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Altphotos](https://altphotos.com) - Handpicked free high-resolution photos added daily.
 * [Barn Images](https://barnimages.com/) - Barn Images offers you a collection of free high-resolution non-stock photography.
 * [CC0 Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
-* [Creative Commons Search](http://search.creativecommons.org/) - A meta search across several libaries to find adaptable / editable images
+* [Creative Commons Search](http://search.creativecommons.org/) - A meta search across several libraries to find adaptable / editable images
 * [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
 * [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
 * [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
@@ -227,7 +227,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](https://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
 * [IcoMoon](https://icomoon.io/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
 * [Ionicons](http://ionicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) The premium icon font for Ionic Framework. 100% free and open source.
-* [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) Really clean icon set inlcuding all major topics.
+* [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) Really clean icon set including all major topics.
 * [Linea](https://github.com/linea-io/Linea-Iconset) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) A free outline iconset featuring 730+ Icons.
 * [Material Design Icons](https://material.io/icons/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Google's Material Icons.
 * [Octicons](https://octicons.github.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) GitHub's Icons.
