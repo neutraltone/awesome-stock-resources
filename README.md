@@ -149,7 +149,7 @@ These resources haven't specified any formal terms of use or licenses.
 
 A collection of illustration resources which contain a mixture of historical archive, contemporary and public domain assets.
 
-* [Biodiversity Heritage Library](https://www.flickr.com/people/biodivlibrary/) [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) [:copyright:](https://creativecommons.org/licenses/by/2.0/) A mix of Public Domain and Attribution (CC BY 2.0) licenses. Nearly 150,000 exquisite, historical illustrations of life on Earth. 
+* [Biodiversity Heritage Library](https://www.flickr.com/people/biodivlibrary/) [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) [:copyright:](https://creativecommons.org/licenses/by/2.0/) A mix of Public Domain and Attribution (CC BY 2.0) licenses. Nearly 150,000 exquisite, historical illustrations of life on Earth.
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - [:copyright:](http://www.bl.uk/aboutus/terms/copyright/index.html) The British Library’s collections on Flickr Commons offer access to millions of public domain images.
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) - [:copyright:](https://www.oldbookillustrations.com/terms-of-use/) A massive collection of illustrations from old books.
 * [unDraw](https://undraw.co/) - [:copyright:](https://undraw.co/license) Open-source illustrations for every project you can imagine and create.
@@ -163,7 +163,7 @@ A collection of resources which contain stock graphical elements which don't fit
 * [Freepik](https://www.freepik.com/) - [:copyright:](https://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
 * [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
 * [Logo Dust](http://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
-* [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on. 
+* [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 * [Sketch Repo](https://sketchrepo.com/) - [:copyright:](https://sketchrepo.com/about/) Sketch Repo is a great place to discover Sketch App resources for your next design project.
 * [Vecteezy](https://www.vecteezy.com/) - [:copyright:](https://www.vecteezy.com/terms) Discover & download free vector art from a community of Illustrators.
 
@@ -171,6 +171,7 @@ A collection of resources which contain stock graphical elements which don't fit
 
 A selection of websites offering high quality video stock.
 
+* [Mixkit](https://mixkit.co/free-stock-video/) - High-quality stock videos that are completely free.
 * [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
 * [Life of Vids](http://www.lifeofvids.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
 * [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
