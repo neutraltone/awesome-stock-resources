@@ -8,30 +8,32 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 ## Table of Contents
 
-* [Photography](#photography)
-  * [CC0-license](#cc0-license)
-  * [Custom License / Usage](#custom-license--usage)
-  * [Public Domain](#public-domain)
-  * [Attribution required licenses](#attribution-required-licenses)
-  * [Unspecified License](#unspecified-license)
-* [Illustration](#illustration)
-* [Vector Graphics](#vector-graphics)
-* [Videos](#videos)
-* [Patterns](#patterns)
-* [Textures](#textures)
-* [Fonts](#fonts)
-* [Icons](#icons)
-  * [Icon Fonts](#icon-fonts)
-  * [Icons Packages and Collections](#icons-packages-and-collections)
-* [Colors](#colors)
-* [Aggregated Content](#aggregated-content)
-* [HTML Templates](#html-templates)
-* [Sounds & Music](#sounds--music)
-* [Paid Resources](#paid-resources)
-* [How to Contribute](#how-to-contribute)
-* [How to Share](#how-to-share)
-* [Donate](#donate-heart)
-* [License](#license)
+- [Awesome Stock Resources ![Awesome](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)](#awesome-stock-resources-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22-img-src%22httpsapitravis-ciorgneutraltoneawesome-stock-resourcessvgbranchmaster%22-alt%22build-status%22-img-src%22httpsimgshieldsiobadgedonate-paypal-greensvg%22-alt%22support%22)
+  - [Table of Contents](#table-of-contents)
+  - [Photography](#photography)
+    - [CC0-license](#cc0-license)
+    - [Custom License / Usage](#custom-license--usage)
+    - [Public Domain](#public-domain)
+    - [Attribution Required licenses](#attribution-required-licenses)
+    - [Unspecified License](#unspecified-license)
+  - [Illustration](#illustration)
+  - [Vector Graphics](#vector-graphics)
+  - [Videos](#videos)
+  - [Patterns](#patterns)
+  - [Textures](#textures)
+  - [Fonts](#fonts)
+  - [Icons](#icons)
+    - [Icon Fonts](#icon-fonts)
+    - [Icons Packages and Collections](#icons-packages-and-collections)
+  - [Colors](#colors)
+  - [Aggregated Content](#aggregated-content)
+  - [HTML Templates](#html-templates)
+  - [Sounds & Music](#sounds--music)
+  - [Paid Resources](#paid-resources)
+  - [How to Contribute](#how-to-contribute)
+  - [How to Share](#how-to-share)
+  - [Donate :heart:](#donate-heart)
+  - [License](#license)
 
 ## Photography
 
@@ -306,7 +308,7 @@ Free resources for stock sound and music to be used on creative projects
 * [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
 * [Sound Image](http://soundimage.org/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
 * [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
-* [WOWA](https://www.wowa.me) - [:copyright:](https://www.wowa.me/cc0) Download Royalty Free Music for YouTube Videos, Podcasts and Apps. No Copyright CC0 Music inspired by Unsplash.
+* [Unminus](https://www.unminus.com/) - [:copyright:](https://www.unminus.com/license) Download Royalty Free Music for YouTube Videos, Podcasts and Apps. No Copyright CC0 Music inspired by Unsplash.
 
 ## Paid Resources
 
