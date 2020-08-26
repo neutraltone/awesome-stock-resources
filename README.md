@@ -246,6 +246,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 
 * [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
+* [Heroicons](https://heroicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) Beautiful, free SVG icons from the makers of Tailwind CSS.
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
