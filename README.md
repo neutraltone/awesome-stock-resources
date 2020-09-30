@@ -1,4 +1,4 @@
-# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
+# Super Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
 ![Introductory images](/img/splash.jpg)
 
@@ -309,7 +309,7 @@ Free resources for stock sound and music to be used on creative projects
 * [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
 * [WOWA](https://www.wowa.me) - [:copyright:](https://www.wowa.me/cc0) Download Royalty Free Music for YouTube Videos, Podcasts and Apps. No Copyright CC0 Music inspired by Unsplash.
 
-## Paid Resources
+## About Paid Resources
 
 And last, but not least, a selection of the best paid resources.
 
@@ -323,11 +323,11 @@ And last, but not least, a selection of the best paid resources.
 
 
 
-## How to Contribute
+## Easy to Contribute
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
-## How to Share
+## Easy to Share
 
 * [Share on Twitter](https://twitter.com/home?status=Checkout%20this%20Awesome%20Stock%20Resources%20list%20from%20%40neutraltone.%20https%3A%2F%2Fgithub.com%2Fneutraltone%2Fawesome-stock-resources%20%23design)
 * [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
