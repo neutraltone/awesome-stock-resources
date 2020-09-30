@@ -1,4 +1,4 @@
-# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
+# Awesome Stock Resources. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
 ![Introductory images](/img/splash.jpg)
 
@@ -6,7 +6,7 @@
 
 I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
 
-## Table of Contents
+## Table of Contents.
 
 * [Photography](#photography)
   * [CC0-license](#cc0-license)
@@ -35,7 +35,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 
 ## Photography
 
-### CC0-license
+### CC0-license.
 
 All the resources below have specifically specified that their content is [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -85,7 +85,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
 * [Wesaturate](https://www.wesaturate.com/) - A collection of completely free CC0 images in RAW and JPG formats.
 
-### Custom License / Usage
+### Custom License / Usage.
 
 These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the *(license)* link next to the resource.
 
@@ -108,7 +108,7 @@ These following photography resources are those who have declared their own usag
 * [Split Shire](https://www.splitshire.com/) - [:copyright:](https://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 * [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
 
-### Public Domain
+### Public Domain.
 
 A collection of links to public domain photography resources.
 
@@ -119,7 +119,7 @@ A collection of links to public domain photography resources.
 * [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [:copyright](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
 * [Public Domain Archive](http://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) New stock photos every single week.
 
-### Attribution Required licenses
+### Attribution Required licenses.
 
 The photographs on the following resources require Attribution unless otherwise stated on the website itself. These use a mixture of license, all of which have been linked to next to them.
 
@@ -132,7 +132,7 @@ The photographs on the following resources require Attribution unless otherwise 
 * [UKBlackTech](http://ukblacktech.com/stockphotos/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Photographers of British based BAME (Black, Asian, and minority ethnic) people in tech.
 * [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - [:copyright:](https://creativecommons.org/licenses/by/2.0/) Licensed picture from Women of Color in Tech.
 
-### Unspecified License
+### Unspecified License.
 
 These resources haven't specified any formal terms of use or licenses.
 
@@ -145,7 +145,7 @@ These resources haven't specified any formal terms of use or licenses.
 * [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
 * [Mockup World](https://www.mockupworld.co) - A mixture of free and premium mockup in-situation templates.
 
-## Illustration
+## Illustration.
 
 A collection of illustration resources which contain a mixture of historical archive, contemporary and public domain assets.
 
@@ -154,7 +154,7 @@ A collection of illustration resources which contain a mixture of historical arc
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) - [:copyright:](https://www.oldbookillustrations.com/terms-of-use/) A massive collection of illustrations from old books.
 * [unDraw](https://undraw.co/) - [:copyright:](https://undraw.co/license) Open-source illustrations for every project you can imagine and create.
 
-## Vector Graphics
+## Vector Graphics.
 
 A collection of resources which contain stock graphical elements which don't fit in the other sections.
 
@@ -167,7 +167,7 @@ A collection of resources which contain stock graphical elements which don't fit
 * [Sketch Repo](https://sketchrepo.com/) - [:copyright:](https://sketchrepo.com/about/) Sketch Repo is a great place to discover Sketch App resources for your next design project.
 * [Vecteezy](https://www.vecteezy.com/) - [:copyright:](https://www.vecteezy.com/terms) Discover & download free vector art from a community of Illustrators.
 
-## Videos
+## Videos.
 
 A selection of websites offering high quality video stock.
 
@@ -181,7 +181,7 @@ completely free.
 * [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 * [VYOO](http://www.veed.io/vyoo) - [:copyright:](http://www.veed.io/vyoo/terms) Beautiful, Free Vertical Videos.
 
-## Patterns
+## Patterns.
 
 A mixture of CSS and image based pattern resources.
 
@@ -192,13 +192,13 @@ A mixture of CSS and image based pattern resources.
 * [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
 * [UI Gradients](https://uigradients.com/) - Nice, subtle linear gradients to use in your designs.
 
-## Textures
+## Textures.
 
 Websites offering images suitable for texturing objects for 3D graphics.
 
 * [TextureHaven](https://texturehaven.com) - [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/) High quality set of textures with CC0 license.
 
-## Fonts
+## Fonts.
 
 A mixture of free and open source font resources.
 
@@ -214,7 +214,7 @@ A mixture of free and open source font resources.
 
 ## Icons
 
-### Icon Fonts
+### Icon Fonts.
 
 A collection for icon font resources, most of which also include SVGs, which can be used in your interface and website designs.
 
@@ -240,7 +240,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons.
 * [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
 
-### Icons Packages and Collections
+### Icons Packages and Collections.
 
 A collection for SVG icon resources which can be used in your interface and website designs.
 
@@ -253,7 +253,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 
-## Colors
+## Colors.
 
 A selection of websites offering color schemes.
 
@@ -272,7 +272,7 @@ A selection of websites offering color schemes.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
-## Aggregated Content
+## Aggregated Content.
 
 A liberal mixture of content aggregated from other free resources and made available at one central point.
 
@@ -282,7 +282,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 * [Stock Up](https://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
 * [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
 
-## HTML Templates
+## HTML Templates.
 
 Various different websites offering free HTML templates and themes.
 
@@ -293,7 +293,7 @@ Various different websites offering free HTML templates and themes.
 * [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
 * [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.
 
-## Sounds & Music
+## Sounds & Music.
 
 Free resources for stock sound and music to be used on creative projects
 
@@ -309,7 +309,7 @@ Free resources for stock sound and music to be used on creative projects
 * [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
 * [WOWA](https://www.wowa.me) - [:copyright:](https://www.wowa.me/cc0) Download Royalty Free Music for YouTube Videos, Podcasts and Apps. No Copyright CC0 Music inspired by Unsplash.
 
-## Paid Resources
+## Paid Resources.
 
 And last, but not least, a selection of the best paid resources.
 
@@ -323,11 +323,11 @@ And last, but not least, a selection of the best paid resources.
 
 
 
-## How to Contribute
+## How to Contribute.
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
-## How to Share
+## How to Share.
 
 * [Share on Twitter](https://twitter.com/home?status=Checkout%20this%20Awesome%20Stock%20Resources%20list%20from%20%40neutraltone.%20https%3A%2F%2Fgithub.com%2Fneutraltone%2Fawesome-stock-resources%20%23design)
 * [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/neutraltone/awesome-stock-resources&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
@@ -341,7 +341,7 @@ And finally, if you appreciate this list and find it useful, please consider hel
 
 [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
-## License
+## License.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
