@@ -74,12 +74,12 @@ All the resources below have specifically specified that their content is [:copy
 * [Snappy Goat](https://snappygoat.com/) - Over 12 million public domain & CC0 licensed images.
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 * [SpaceX Photos](https://www.flickr.com/photos/spacex/) - Promotional SpaceX stock photography.
-* [Splashbase](http://www.splashbase.co/) - Search & discover free, hi res photos & videos.
+* [Splashbase](http://www.splashbase.co/) - Search & discover free, hi-resolution photos & videos.
 * [Stock Image Point](http://www.stock-image-point.com/) - Free stock photos. 20 pictures added every month.
 * [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](http://ab-dz.com/).
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 * [Stokpic](http://stokpic.com/) - Free Stock Photos For Commercial Use.
-* [Streetwill](http://streetwill.co/) - Free hi-res vintage photos to use any way you want.
+* [Streetwill](http://streetwill.co/) - Free hi-resolution vintage photos to use any way you want.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
@@ -337,7 +337,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## Donate :heart:
 
-And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintance by donating:
+And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintenance by donating:
 
 [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
