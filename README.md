@@ -2,7 +2,7 @@
 
 ![Introductory images](/img/splash.jpg)
 
-> A curated list of awesome  stock photography, video and illustration websites.
+> A curated list of stunning  stock photography, video and illustration websites.
 
 I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
 
