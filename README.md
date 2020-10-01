@@ -33,7 +33,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 * [Donate](#donate-heart)
 * [License](#license)
 
-## Photography
+## Photography and Images
 
 ### CC0-license
 
@@ -145,7 +145,7 @@ These resources haven't specified any formal terms of use or licenses.
 * [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
 * [Mockup World](https://www.mockupworld.co) - A mixture of free and premium mockup in-situation templates.
 
-## Illustration
+## Illustrations
 
 A collection of illustration resources which contain a mixture of historical archive, contemporary and public domain assets.
 
