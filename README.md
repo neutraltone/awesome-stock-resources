@@ -253,7 +253,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 
-## Colors
+## Colours
 
 A selection of websites offering color schemes.
 
