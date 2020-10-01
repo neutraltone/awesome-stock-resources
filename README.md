@@ -6,7 +6,7 @@
 
 I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
 
-## Table of Contents
+## Table of Contents :-
 
 * [Photography](#photography)
   * [CC0-license](#cc0-license)
@@ -87,7 +87,7 @@ All the resources below have specifically specified that their content is [:copy
 
 ### Custom License / Usage
 
-These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the *(license)* link next to the resource.
+( These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the *(license)* link next to the resource.)
 
 * [Bara Art](http://www.bara-art.com/) - [:copyright:](http://www.bara-art.com/about/) The world always needs high quality photography! Here they are for you, so make something awesome out of them.
 * [Compfight.com](http://compfight.com/) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
