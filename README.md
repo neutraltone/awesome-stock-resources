@@ -108,7 +108,7 @@ These following photography resources are those who have declared their own usag
 * [Split Shire](https://www.splitshire.com/) - [:copyright:](https://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 * [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
 
-### Public Domain
+#### Public Domain
 
 A collection of links to public domain photography resources.
 
