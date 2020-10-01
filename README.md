@@ -2,9 +2,9 @@
 
 ![Introductory images](/img/splash.jpg)
 
-> A curated list of awesome  stock photography, video and illustration websites.
+> A curated list of awesome stock Photography, Videos and Illustration websites.
 
-I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
+I have tried my best to maintain this repository and keeping it up-to-date but if you spot a broken link or a resource which isn't listed, Please feel free to make a pull request.
 
 ## Table of Contents
 
@@ -240,7 +240,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons.
 * [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
 
-### Icons Packages and Collections
+### Icons Packages and Collections 
 
 A collection for SVG icon resources which can be used in your interface and website designs.
 
@@ -255,7 +255,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 
 ## Colors
 
-A selection of websites offering color schemes.
+A selection of websites offering color schemes :- 
 
 * [0to255](http://www.0to255.com/) - A simple tool that helps web designers find variations of any color.
 * [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
@@ -337,7 +337,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## Donate :heart:
 
-And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintance by donating:
+If you find this list helpful and want to appreciate our work.
+Please consider helping us for the maintainance of ongoing updates by donating:
 
 [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
