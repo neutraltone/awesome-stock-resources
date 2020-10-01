@@ -2,6 +2,7 @@
 
 ![Introductory images](/img/splash.jpg)
 
+Following is a handpicked list of Top Stock  photography, video and illustration websites, with their popular features and website links. A great resource to get high-quality HD photos and image which can be used in your various designs .
 > A curated list of awesome  stock photography, video and illustration websites.
 
 I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
