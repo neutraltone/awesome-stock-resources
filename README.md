@@ -66,6 +66,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Photo Crops](https://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
 * [Pickle Jar](http://www.picklejar.in/) - High-resolution images of everyday india. One new image every day.
 * [Pickupimage](http://pickupimage.com/) - Free download high quality premium free stock images, public domain photos.
+* [Pinterest](http://www.pinterest.com/) - Social media service designed for images and, on a smaller scale, animated GIFs and videos, in the form of pinboards
 * [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
 * [Realgraphy](https://realgraphy.org/) - Authentic Non-Stock Photos for Free. Forever.
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
