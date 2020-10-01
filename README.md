@@ -4,7 +4,7 @@
 
 > A curated list of awesome  stock photography, video and illustration websites.
 
-I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
+I tried my best to maintain this repository and keep it upto-date but if you spot a broken link or a resource which is not listed, please, feel free to Create a pull request.
 
 ## Table of Contents
 
