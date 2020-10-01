@@ -214,7 +214,7 @@ A mixture of free and open source font resources.
 
 ## Icons
 
-### Icon Fonts
+### Icon and Fonts
 
 A collection for icon font resources, most of which also include SVGs, which can be used in your interface and website designs.
 
