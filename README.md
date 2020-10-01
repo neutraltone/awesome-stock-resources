@@ -337,7 +337,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## Donate :heart:
 
-And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintance by donating:
+And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintenance by donating:
 
 [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
