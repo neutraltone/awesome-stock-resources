@@ -9,6 +9,7 @@ I try my best to maintain this repository and keep it up-to-date but if you spot
 ## Table of Contents
 
 * [Photography](#photography)
+*[animation and graphics using ux/ui]
   * [CC0-license](#cc0-license)
   * [Custom License / Usage](#custom-license--usage)
   * [Public Domain](#public-domain)
