@@ -1,7 +1,7 @@
 language: ruby
 rvm:
-  - 2.2
+   - 2.2
 before_script:
-  - gem install awesome_bot
+   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-ssl --allow-redirect --allow 503 --allow-timeout --white-list twitter.com,facebook.com,google.com,linkedin.com,shields.io,paypal.me,creativecommons.org,sil.org,choosealicense.com
+   - awesome_bot README.md --allow-ssl --allow-redirect --allow 503 --allow-timeout --white-list twitter.com,facebook.com,google.com,linkedin.com,shields.io,paypal.me,creativecommons.org,sil.org,choosealicense.com
