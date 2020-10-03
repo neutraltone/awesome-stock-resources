@@ -69,6 +69,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
 * [Realgraphy](https://realgraphy.org/) - Authentic Non-Stock Photos for Free. Forever.
 * [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
+*.[Shutterstock](https://www.shutterstock.com/) - Free Image, Stock Photos and Vectors.
 * [Skitter Photo](https://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
 * [Skuawk](http://skuawk.com/) - Skuawk public domain photos, free, beautiful and artistically loud.
 * [Snappy Goat](https://snappygoat.com/) - Over 12 million public domain & CC0 licensed images.
@@ -84,6 +85,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
 * [Wesaturate](https://www.wesaturate.com/) - A collection of completely free CC0 images in RAW and JPG formats.
+
 
 ### Custom License / Usage
 
