@@ -252,6 +252,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
+* [icons-font-customization](https://github.com/uuware/icons-font-customization) - [:copyright:](https://github.com/uuware/icons-font-customization/blob/main/LICENSE) &#x1F536;A collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or business requirements. Open [All icons](https://uuware.github.io/icons-font-customization/dist/), to view all of them.
 
 ## Colors
 
