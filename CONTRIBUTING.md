@@ -16,4 +16,5 @@ duplicate.
 * All resources which require attribution should be correctly labeled with the
 (Requires attribution) note next to the link.
 * New categories or improvements to the existing categorization are welcome.
+* Please refrain from opening Pull Requests that update copy!
 * Thank you for your suggestions!
