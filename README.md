@@ -139,7 +139,6 @@ These resources haven't specified any formal terms of use or licenses.
 
 * [Freejpg](http://en.freejpg.com.ar/) - Free image bank for commercial and editorial use.
 * [Function](http://wefunction.com/category/free-photos/) - High-resolution photos by Liam McKay.
-* [Nobl Web](https://noblweb.com/) - do as you please, high-resolution photos and textures.
 * [Re:splashed](http://www.resplashed.com/) - 670 (and counting) free HD images for your web and design projects.
 * [Refe Real Life Photos](http://getrefe.tumblr.com) - Free real life photos from [REFE](http://getrefe.com/).
 * [titania foto](http://www.titania-foto.com) - The free image database
