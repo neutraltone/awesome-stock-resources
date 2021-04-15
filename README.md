@@ -82,7 +82,6 @@ All the resources below have specifically specified that their content is [:copy
 * [Streetwill](http://streetwill.co/) - Free hi-resolution vintage photos to use any way you want.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
-* [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
 * [Wesaturate](https://www.wesaturate.com/) - A collection of completely free CC0 images in RAW and JPG formats.
 
 ### Custom License / Usage
@@ -108,6 +107,7 @@ These following photography resources are those who have declared their own usag
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
 * [Split Shire](https://www.splitshire.com/) - [:copyright:](https://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 * [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
+* [Unsplash](https://unsplash.com/) - [:copyright:](https://unsplash.com/license) User submitted, free high-resolution photos.
 
 ### Public Domain
 
