@@ -2,7 +2,7 @@
 
 ![Introductory images](/img/splash.jpg)
 
-> A curated list of awesome  stock photography, video and illustration websites.
+> A curated list of awesome stock photography, video and illustration websites.
 
 I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
 
@@ -42,8 +42,8 @@ All the resources below have specifically specified that their content is [:copy
 * [ABSFreePic](http://absfreepic.com/) - A high-resolution and absolutely free photos stock site.
 * [Altphotos](https://altphotos.com) - Handpicked free high-resolution photos added daily.
 * [Barn Images](https://barnimages.com/) - Barn Images offers you a collection of free high-resolution non-stock photography.
-* [CC0 Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
-* [Creative Commons Search](http://search.creativecommons.org/) - A meta search across several libaries to find adaptable / editable images
+* [CC0.Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
+* [Creative Commons Search](http://search.creativecommons.org/) - A meta search across several libraries to find adaptable / editable images.
 * [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
 * [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
 * [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
@@ -74,12 +74,12 @@ All the resources below have specifically specified that their content is [:copy
 * [Snappy Goat](https://snappygoat.com/) - Over 12 million public domain & CC0 licensed images.
 * [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 * [SpaceX Photos](https://www.flickr.com/photos/spacex/) - Promotional SpaceX stock photography.
-* [Splashbase](http://www.splashbase.co/) - Search & discover free, hi res photos & videos.
+* [Splashbase](http://www.splashbase.co/) - Search & discover free, hi-resolution photos & videos.
 * [Stock Image Point](http://www.stock-image-point.com/) - Free stock photos. 20 pictures added every month.
 * [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](http://ab-dz.com/).
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 * [Stokpic](http://stokpic.com/) - Free Stock Photos For Commercial Use.
-* [Streetwill](http://streetwill.co/) - Free hi-res vintage photos to use any way you want.
+* [Streetwill](http://streetwill.co/) - Free hi-resolution vintage photos to use any way you want.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
@@ -103,6 +103,7 @@ These following photography resources are those who have declared their own usag
 * [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
 * [Pic Jumbo](https://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
 * [Picography](https://picography.co/) - [:copyright:](https://picography.co/terms/) Free hi-resolution photos. Use them however you like.
+* [Reshot](https://www.reshot.com/) - [:copyright:](https://www.reshot.com/license) Handpicked, non-stocky images. Yours to use as you wish.
 * [Rawpixel](https://www.rawpixel.com/) - [:copyright:](https://www.rawpixel.com/free-image-license) Redefining stock imagery with authentically styled and unique stock photos (Subscribe required).
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
 * [Split Shire](https://www.splitshire.com/) - [:copyright:](https://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
@@ -179,6 +180,7 @@ A selection of websites offering high quality video stock.
 completely free.
 * [Videezy](https://www.videezy.com) - [:copyright:](https://www.videezy.com/terms) Free stock videos, 4k footage, and free HD video clips.
 * [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
+* [VYOO](http://www.veed.io/vyoo) - [:copyright:](http://www.veed.io/vyoo/terms) Beautiful, Free Vertical Videos.
 
 ## Patterns
 
@@ -233,8 +235,10 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Octicons](https://octicons.github.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) GitHub's Icons.
 * [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 * [Pathlove Icons](https://pathlove.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by-nc-nd/4.0/) 100+ cute and vibrant icons. Free for personal and commercial use; attribution required.
+* [Simple Icons](https://simpleicons.org/) -[:copyright:](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
 * [Social Stackicons](http://stackicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
 * [Standart](https://standart.io/) - Standart: free SVG icons for use in your project.
+* [To icon](https://www.toicon.com/) - [:copyright:](https://www.toicon.com/license) Collection of SVG icons for your project.
 * [Topcoat Icons](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
 * [Typicons](http://s-ings.com/typicons/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
 * [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons.
@@ -246,6 +250,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 
 * [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
+* [Heroicons](https://heroicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) Beautiful, free SVG icons from the makers of Tailwind CSS.
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
@@ -262,8 +267,10 @@ A selection of websites offering color schemes.
 * [Brand Colors](https://brandcolors.net/) - Official color codes for the world's biggest brands.
 * [Coleure](https://www.coleure.com/) - Simple app for grabbing & tweaking colors you see on screen.
 * [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
-* [Colorful Gradients](https//colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
+* [Colorful Gradients](https://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
+* [CoolHue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
+* [Coolhue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch for your next super amazing stuff.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
 * [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) - A nice curated color palette inspiration resource.
@@ -285,7 +292,9 @@ A liberal mixture of content aggregated from other free resources and made avail
 Various different websites offering free HTML templates and themes.
 
 * [Bootswatch](https://bootswatch.com/) - [:copyright:](https://raw.githubusercontent.com/thomaspark/bootswatch/master/LICENSE) Free themes for Bootstrap.
+* [HTML5 Rocket](https://html5rocket.github.io/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) Free HTML5 site templates.
 * [HTML5 Up](https://html5up.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
+* [Start Bootstrap](https://startbootstrap.com/) - [:copyright:](https://opensource.org/licenses/MIT) Free Bootstrap templates and themes.
 * [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
 * [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.
 
@@ -333,7 +342,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 ## Donate :heart:
 
-And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintance by donating:
+And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintenance by donating:
 
 [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
