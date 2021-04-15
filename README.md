@@ -232,7 +232,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Octicons](https://octicons.github.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) GitHub's Icons.
 * [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 * [Pathlove Icons](https://pathlove.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by-nc-nd/4.0/) 100+ cute and vibrant icons. Free for personal and commercial use; attribution required.
-* [Simple Icons](https://simpleicons.org/) - Free SVG icons for popular brands.
+* [Simple Icons](https://simpleicons.org/) -[:copyright:](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
 * [Social Stackicons](http://stackicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
 * [Standart](https://standart.io/) - Standart: free SVG icons for use in your project.
 * [Topcoat Icons](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
