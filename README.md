@@ -266,7 +266,6 @@ A selection of websites offering color schemes.
 * [Brand Colors](https://brandcolors.net/) - Official color codes for the world's biggest brands.
 * [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
 * [Colorful Gradients](https://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
-* [CoolHue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 * [Coolhue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch for your next super amazing stuff.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
