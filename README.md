@@ -209,10 +209,8 @@ A mixture of free and open source font resources.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://fonts.google.com/) - Interactive directory of free hosted application programming interfaces for web fonts.
-* [Impallari](http://www.impallari.com/) - Libre typeface projects by [Pablo Impallari](https://github.com/impallari).
 * [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
-* [Canva Font Combinations (Type Genius)](https://www.canva.com/font-combinations/) - Fantastic type pairing tool.
 
 ## Icons
 
@@ -249,6 +247,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 A collection for SVG icon resources which can be used in your interface and website designs.
 
 * [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
+* [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 * [Free Icons](https://www.iconshock.com/freeicons/) - A collection from all the open source icon collections available.
 * [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
 * [Heroicons](https://heroicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) Beautiful, free SVG icons from the makers of Tailwind CSS.
@@ -267,15 +266,12 @@ A selection of websites offering color schemes.
 * [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
 * [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 * [Brand Colors](https://brandcolors.net/) - Official color codes for the world's biggest brands.
-* [Coleure](https://www.coleure.com/) - Simple app for grabbing & tweaking colors you see on screen.
 * [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
 * [Colorful Gradients](https://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
-* [CoolHue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 * [Coolhue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch for your next super amazing stuff.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
-* [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) - A nice curated color palette inspiration resource.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
