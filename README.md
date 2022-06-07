@@ -152,6 +152,7 @@ A collection of illustration resources which contain a mixture of historical arc
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) - [:copyright:](https://www.oldbookillustrations.com/terms-of-use/) A massive collection of illustrations from old books.
 * [unDraw](https://undraw.co/) - [:copyright:](https://undraw.co/license) Open-source illustrations for every project you can imagine and create.
 * [WooBro.design](https://woobro.design/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) CC-BY licensed vector image illustrations with sources.
+* [Illustrations Figma](https://www.artify.co/illustrations-figma) - [:copyright:](https://www.bypeople.com/licenses) More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.
 
 ## Vector Graphics
 
