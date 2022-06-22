@@ -153,6 +153,7 @@ A collection of illustration resources which contain a mixture of historical arc
 * [unDraw](https://undraw.co/) - [:copyright:](https://undraw.co/license) Open-source illustrations for every project you can imagine and create.
 * [WooBro.design](https://woobro.design/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) CC-BY licensed vector image illustrations with sources.
 * [Illustrations Figma](https://www.artify.co/illustrations-figma) - [:copyright:](https://www.bypeople.com/licenses) More than 5000 vector illustrations you can use inside Figma. All the figma illustrations are in SVG & PNG formats and includes styles like flat, lined, abstract and more.
+* [Vector Illustrations](https://www.artify.co/vector-illustrations) - [:copyright:](https://www.bypeople.com/licenses) Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.
 
 ## Vector Graphics
 
@@ -243,6 +244,9 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Typicons](http://s-ings.com/typicons/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
 * [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons.
 * [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
+* [3dicons](https://www.3dicons.com/) – A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views.
+* [Iconshock](https://www.iconshock.com/) – The biggest icon pack with over 2 million professional icons in +400 icon sets with more than 30 design styles: material, flat, 3d, realistic, iOS, and more.
+
 
 ### Icons Packages and Collections
 
