@@ -183,6 +183,8 @@ A selection of websites offering high quality video stock.
 * [Videezy](https://www.videezy.com) - [:copyright:](https://www.videezy.com/terms) Free stock videos, 4k footage, and free HD video clips.
 * [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 * [VYOO](http://www.veed.io/vyoo) - [:copyright:](http://www.veed.io/vyoo/terms) Beautiful, Free Vertical Videos.
+* [Ssemble Stock Video](http://www.ssemble.com/videos) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Well-categorized free, CC0 licensed stock videos.
+
 
 ## Patterns
 
