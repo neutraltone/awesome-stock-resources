@@ -271,6 +271,7 @@ A selection of websites offering color schemes.
 * [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
 * [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 * [Brand Colors](https://brandcolors.net/) - Official color codes for the world's biggest brands.
+* [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 * [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
 * [Colorful Gradients](https://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
