@@ -248,6 +248,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 
 A collection for SVG icon resources which can be used in your interface and website designs.
 
+* [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright:](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons. 
 * [Doodle Icons](https://khushmeen.com/icons.html) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 400+ handcrafted icons free for your next project.
 * [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
