@@ -259,6 +259,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Humbleicons](https://humbleicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) A pack of 227 simple, neutral, carefully crafted icons that you can use in your personal and commercial projects for free.
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Iconoir](https://iconoir.com/) - [:copyright:](https://opensource.org/licenses/MIT) A Simple and Definitive Open-Source Icons Library.
+* [Lucide](https://lucide.dev/) - [:copyright:](https://lucide.dev/license) Beautiful & consistent icon toolkit made by the community.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
