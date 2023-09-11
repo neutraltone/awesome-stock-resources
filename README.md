@@ -168,6 +168,7 @@ A collection of resources which contain stock graphical elements which don't fit
 * [Open Doodles](https://www.opendoodles.com) - [:copyright:](http://creativecommons.org/publicdomain/zero/1.0/) CC-0-licensed vector sketches/cliparts with generator and compositions.
 * [Sketch Repo](https://sketchrepo.com/) - [:copyright:](https://sketchrepo.com/about/) Sketch Repo is a great place to discover Sketch App resources for your next design project.
 * [Vecteezy](https://www.vecteezy.com/) - [:copyright:](https://www.vecteezy.com/terms) Discover & download free vector art from a community of Illustrators.
+* [VectorPortal](https://vectorportal.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Download 30,000+ free vector images, illustrations, and clipart.
 
 ## Videos
 
