@@ -42,7 +42,6 @@ All the resources below have specifically specified that their content is [:copy
 * [Altphotos](https://altphotos.com) - Handpicked free high-resolution photos added daily.
 * [Barn Images](https://barnimages.com/) - Barn Images offers you a collection of free high-resolution non-stock photography.
 * [CC0.Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
-* [Creative Commons Search](http://search.creativecommons.org/) - A meta search across several libraries to find adaptable / editable images.
 * [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
 * [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
 * [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
@@ -58,6 +57,7 @@ All the resources below have specifically specified that their content is [:copy
 * [MMT](https://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](https://negativespace.co/) - Stock photos added every week.
+* [Openverse](https://openverse.org) - A meta search across several libraries to find adaptable / editable images and audio files.
 * [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
 * [Photo Crops](https://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
 * [Pickle Jar](http://www.picklejar.in/) - High-resolution images of everyday india. One new image every day.
