@@ -310,6 +310,7 @@ Various different websites offering free HTML templates and themes.
 
 Free resources for stock sound and music to be used on creative projects
 
+* [Free To Use](https://freetouse.com/music) - [:copyright:](https://freetouse.com/music/usage-policy) Download unlimited background music 100% for free – no registration required. With no copyright claims, all our music is safe and free to use in your videos..
 * [Bensound](https://www.bensound.com) - [:copyright:](https://www.bensound.com/licensing) Royalty free music by Bensound.
 * [ccMixter](http://ccmixter.org/) - [:copyright:](http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
