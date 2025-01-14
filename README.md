@@ -97,6 +97,7 @@ These following photography resources are those who have declared their own usag
 * [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
 * [Pic Jumbo](https://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
 * [Picography](https://picography.co/) - [:copyright:](https://picography.co/terms/) Free hi-resolution photos. Use them however you like.
+* [Pngfree.ai](https://pngfree.ai/) - [:copyright:](https://pngfree.ai/legal/license/) PNGFree.ai offers millions of high-quality free PNG images for non-commercial use.
 * [Reshot](https://www.reshot.com/) - [:copyright:](https://www.reshot.com/license) Handpicked, non-stocky images. Yours to use as you wish.
 * [Rawpixel](https://www.rawpixel.com/) - [:copyright:](https://www.rawpixel.com/free-image-license) Redefining stock imagery with authentically styled and unique stock photos (Subscribe required).
 * [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
