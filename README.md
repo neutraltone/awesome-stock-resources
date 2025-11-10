@@ -264,6 +264,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Lucide](https://lucide.dev/) - [:copyright:](https://lucide.dev/license) Beautiful & consistent icon toolkit made by the community.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
+* [Obra Icons](https://icons.obra.studio/) - [:copyright:](https://icons.obra.studio/licensing-agreement) A simple, consistent set of icons, perfect for user interfaces.
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 * [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
