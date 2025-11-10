@@ -8,9 +8,7 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v4
     - name: Set up Ruby 2.6
@@ -21,3 +19,31 @@ jobs:
       run: |
         gem install awesome_bot
         awesome_bot README.md --allow-ssl --allow-redirect --allow 503 --allow-timeout --white-list twitter.com,facebook.com,google.com,linkedin.com,shields.io,paypal.me,creativecommons.org,sil.org,choosealicense.com
+
+  danger:
+    runs-on: ubuntu-latest
+    if: github.event_name  == 'pull_request'
+    steps:
+    - uses: actions/checkout@v4
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    - uses: actions/cache@v4
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('Gemfile') }} # change your gemfile path
+        restore-keys: |
+          ${{ runner.os }}-gems-
+    - name: Install bundle
+      run: bundle install --path vendor/bundle
+    - name: Generate awesome_bot report
+      run: |
+        bundle exec awesome_bot README.md --allow-ssl --allow-redirect --allow 503 --allow-timeout --white-list twitter.com,facebook.com,google.com,linkedin.com,shields.io,paypal.me,creativecommons.org,sil.org,choosealicense.com || true
+    - uses: MeilCli/danger-action@v6
+      with:
+        plugins_file: 'Gemfile'
+        install_path: 'vendor/bundle'
+        danger_file: 'Dangerfile'
+        danger_id: 'danger-pr'
+      env:
+        DANGER_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
