@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+    branches: [ '*' ]
+  pull_request:
+    branches: [ '*' ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Ruby 2.6
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '2.6'
+    - name: Checks
+      run: |
+        ruby .github/osia_convert.rb
+        gem install awesome_bot
+        ruby .github/osia_get_links.rb
+        awesome_bot README.md --allow-ssl --allow-redirect --allow 503 --allow-timeout --white-list twitter.com,facebook.com,google.com,linkedin.com,shields.io,paypal.me,creativecommons.org,sil.org,choosealicense.com
