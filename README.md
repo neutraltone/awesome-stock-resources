@@ -78,6 +78,7 @@ All the resources below have specifically specified that their content is [:copy
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
 * [Wesaturate](https://www.wesaturate.com/) - A collection of completely free CC0 images in RAW and JPG formats.
+* [WordPress Photo Directory](https://wordpress.org/photos/) - Free, high-quality, community-submitted photographs suitable for use within WordPress sites and elsewhere.
 
 ### Custom License / Usage
 
