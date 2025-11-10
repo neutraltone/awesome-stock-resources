@@ -254,6 +254,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Free Icons](https://www.iconshock.com/freeicons/) - A collection from all the open source icon collections available.
 * [Free Icons](https://icons.download/) - [:copyright:](https://icons.download/license) Open-source vector icons in 16 styles for any project.
 * [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
+* [Glow Icons](https://www.glowui.com/icons) - [:copyright:](https://opensource.org/licenses/MIT) 442 open source icons in 2 styles, made for interfaces.
 * [Heroicons](https://heroicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) Beautiful, free SVG icons from the makers of Tailwind CSS.
 * [Humbleicons](https://humbleicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) A pack of 227 simple, neutral, carefully crafted icons that you can use in your personal and commercial projects for free.
 * [Iconhunt](https://www.iconhunt.site/) - A search engine with 150.000+ free, open sources icons.
