@@ -312,6 +312,7 @@ Free resources for stock sound and music to be used on creative projects
 * [ccMixter](http://ccmixter.org/) - [:copyright:](http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
 * [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
+* [Free To Use](https://freetouse.com/music) - [:copyright:](https://freetouse.com/music/usage-policy) Download unlimited background music 100% for free – no registration required. With no copyright claims, all our music is safe and free to use in your videos.
 * [Freesound](https://freesound.org/) - [:copyright:](https://freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [FreeSoundEffects](https://free-sound-effects.net/) - [:copyright:](https://creativecommons.org/) For YouTube, filmmakers, games, podcasts and to use in your next video project, for free!
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
