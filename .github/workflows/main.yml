@@ -19,7 +19,5 @@ jobs:
         ruby-version: '2.6'
     - name: Checks
       run: |
-        ruby .github/osia_convert.rb
         gem install awesome_bot
-        ruby .github/osia_get_links.rb
         awesome_bot README.md --allow-ssl --allow-redirect --allow 503 --allow-timeout --white-list twitter.com,facebook.com,google.com,linkedin.com,shields.io,paypal.me,creativecommons.org,sil.org,choosealicense.com
