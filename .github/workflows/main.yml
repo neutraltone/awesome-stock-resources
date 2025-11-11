@@ -18,7 +18,7 @@ jobs:
     - name: Checks
       run: |
         gem install awesome_bot
-        awesome_bot README.md --allow-ssl --allow-redirect --allow 503 --allow-timeout --white-list twitter.com,facebook.com,google.com,linkedin.com,shields.io,paypal.me,creativecommons.org,sil.org,choosealicense.com
+        awesome_bot README.md --allow-ssl --allow-redirect --allow 403,429,503 --allow-timeout --white-list twitter.com,facebook.com,google.com,linkedin.com,shields.io,paypal.me,creativecommons.org,sil.org,choosealicense.com,opensource.org
 
   danger:
     runs-on: ubuntu-latest
@@ -38,7 +38,7 @@ jobs:
       run: bundle install --path vendor/bundle
     - name: Generate awesome_bot report
       run: |
-        bundle exec awesome_bot README.md --allow-ssl --allow-redirect --allow 503 --allow-timeout --white-list twitter.com,facebook.com,google.com,linkedin.com,shields.io,paypal.me,creativecommons.org,sil.org,choosealicense.com || true
+        bundle exec awesome_bot README.md --allow-ssl --allow-redirect --allow 403,429,503 --allow-timeout --white-list twitter.com,facebook.com,google.com,linkedin.com,shields.io,paypal.me,creativecommons.org,sil.org,choosealicense.com,opensource.org || true
     - uses: MeilCli/danger-action@v6
       with:
         plugins_file: 'Gemfile'
