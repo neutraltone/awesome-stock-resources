@@ -113,4 +113,4 @@ Affirmer's express Statement of Purpose.
   CC0 or use of the Work.
 
 For more information, please see
-<http://creativecommons.org/publicdomain/zero/1.0/>
+<https://creativecommons.org/publicdomain/zero/1.0/>
