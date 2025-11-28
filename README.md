@@ -67,7 +67,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Snappy Goat](https://snappygoat.com/) - Over 12 million public domain & CC0 licensed images.
 * [SpaceX Photos](https://www.flickr.com/photos/spacex/) - Promotional SpaceX stock photography.
 * [Splashbase](https://www.splashbase.co/) - Search & discover free, hi-resolution photos & videos.
-* [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](https://ab-dz.com/).
+* [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and Aditya G Bharadwaj
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 * [Streetwill](https://streetwill.co/) - Free hi-resolution vintage photos to use any way you want.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
