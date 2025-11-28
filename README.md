@@ -255,6 +255,7 @@ A selection of websites offering color schemes.
 
 * [Bootflat](https://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 * [Brand Colors](https://brandcolors.net/) - Official color codes for the world's biggest brands.
+* [Coloried](https://www.coloried.com/generator) - Color palette generator with different harmony like analogous, complementary, monochromatic, etc.
 * [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 * [Color Hunt](https://colorhunt.co/) - A place to discover, create, and share color palettes.
 * [Colorful Gradients](https://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
