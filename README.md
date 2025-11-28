@@ -56,6 +56,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Magdeleine](https://magdeleine.co/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
 * [Moveast](https://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](https://negativespace.co/) - Stock photos added every week.
+* [NSPolygon](https://nspolygon.com/) – Free Stock Photos, Icons & Illustrations updated regularly.
 * [Openverse](https://openverse.org) - A meta search across several libraries to find adaptable / editable images and audio files.
 * [Pexels](https://pexels.com/) - 20 new high-quality photos daily.
 * [Photo Crops](https://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
