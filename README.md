@@ -49,7 +49,6 @@ All the resources below have specifically specified that their content is [:copy
 * [Freely Photos](https://freelyphotos.com/) - Totally free high quality Christian stock photography.
 * [Gratisography](https://gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
 * [Jay Mantri](https://jaymantri.com/) - Free pics. Do anything. Make magic.
-* [Jéshoots](https://jeshoots.com/) - Photos for business or personal use in high resolution for free.
 * [LibreShot](https://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
 * [Life of Pix](https://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
 * [Little Visuals](https://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
