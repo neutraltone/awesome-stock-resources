@@ -332,7 +332,8 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintenance by donating:
 
-[![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
+[!["Support Me via PayPal"](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/neutraltone)
 
 ## License
 
