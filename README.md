@@ -81,6 +81,7 @@ These following photography resources are those who have declared their own usag
 * [Compfight.com](https://compfight.com/) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
 * [Death to the Stock Photo](https://join.deathtothestockphoto.com/) - [:copyright:](https://www.mediafire.com/file/2ifplcw682487nz/Death+to+the+Stock+Photo+-+Photograph+End+User+License+%281-2014%29+%281%29.pdf) Free monthly photos for all your creative needs.
 * [Designer Pics](https://www.designerspics.com) - [:copyright:](https://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
+* [Fleet Images](https://fleetimages.mobilityplaces.com/) - [:copyright:](https://fleetimages.mobilityplaces.com/license-summary) Free high quality car and truck images searchable by make, model and year.
 * [Freerange](https://freerangestock.com/) - [:copyright:](https://freerangestock.com/licensing.php) Quality stock photos for commercial and non-commercial use. For free.
 * [ISO Republic](https://isorepublic.com/) - [:copyright:](https://isorepublic.com/terms/) ISO Republic provides exclusive free stock photos for creatives.
 * [Kaboom Pics](https://kaboompics.com/) - [:copyright:](https://kaboompics.com/page/license-and-faq) Great place to get breathtaking Free Pictures for business or personal projects.
