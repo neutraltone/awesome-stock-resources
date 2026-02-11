@@ -58,9 +58,7 @@ All the resources below have specifically specified that their content is [:copy
 * [Openverse](https://openverse.org) - A meta search across several libraries to find adaptable / editable images and audio files.
 * [Pexels](https://pexels.com/) - 20 new high-quality photos daily.
 * [Photo Crops](https://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
-* [Pickle Jar](https://www.picklejar.in/) - High-resolution images of everyday india. One new image every day.
 * [Pickupimage](https://pickupimage.com/) - Free download high quality premium free stock images, public domain photos.
-* [Realgraphy](https://realgraphy.org/) - Authentic Non-Stock Photos for Free. Forever.
 * [Realistic Shots](https://realisticshots.com/) - 7 new photos added every week.
 * [Skitter Photo](https://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
 * [Snappy Goat](https://snappygoat.com/) - Over 12 million public domain & CC0 licensed images.
@@ -68,7 +66,6 @@ All the resources below have specifically specified that their content is [:copy
 * [Splashbase](https://www.splashbase.co/) - Search & discover free, hi-resolution photos & videos.
 * [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and Aditya G Bharadwaj
 * [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
-* [Streetwill](https://streetwill.co/) - Free hi-resolution vintage photos to use any way you want.
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](https://travelcoffeebook.com/) - Travel photography.
 * [WordPress Photo Directory](https://wordpress.org/photos/) - Free, high-quality, community-submitted photographs suitable for use within WordPress sites and elsewhere.
@@ -77,8 +74,6 @@ All the resources below have specifically specified that their content is [:copy
 
 These following photography resources are those who have declared their own usage and restriction terms. These can be found by clicking the *(license)* link next to the resource.
 
-* [Bara Art](https://www.bara-art.com/) - [:copyright:](https://www.bara-art.com/about/) The world always needs high quality photography! Here they are for you, so make something awesome out of them.
-* [Compfight.com](https://compfight.com/) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
 * [Death to the Stock Photo](https://join.deathtothestockphoto.com/) - [:copyright:](https://www.mediafire.com/file/2ifplcw682487nz/Death+to+the+Stock+Photo+-+Photograph+End+User+License+%281-2014%29+%281%29.pdf) Free monthly photos for all your creative needs.
 * [Designer Pics](https://www.designerspics.com) - [:copyright:](https://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
 * [Fleet Images](https://fleetimages.mobilityplaces.com/) - [:copyright:](https://fleetimages.mobilityplaces.com/license-summary) Free high quality car and truck images searchable by make, model and year.
@@ -124,7 +119,6 @@ These resources haven't specified any formal terms of use or licenses.
 * [Refe Real Life Photos](https://getrefe.tumblr.com) - Free real life photos from [REFE](https://getrefe.com/).
 * [titania foto](https://www.titania-foto.com) - The free image database
 * [Mockup World](https://www.mockupworld.co) - A mixture of free and premium mockup in-situation templates.
-* [Wunderstock](https://www.Wunderstock.com/) - 670 (and counting) free HD images for your web and design projects.
 
 ## Illustration
 
@@ -142,7 +136,6 @@ A collection of resources which contain stock graphical elements which don't fit
 
 * [AMCharts - Free SVG Maps](https://www.amcharts.com/svg-maps/) - [:copyright:](https://creativecommons.org/licenses/by-nc/4.0/) A directory of free non-commercial, attribution licensed SVG maps in two level of details: High and low.
 * [Bioicons](https://bioicons.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) High quality science illustrations.
-* [Facebook Design Resource](https://facebook.design/) - [:copyright:](https://facebook.design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
 * [FreeVectors.net](https://www.freeVectors.net) - [:copyright:](https://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
 * [Humaans](https://www.humaaans.com/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) CC0 licensed clipart images of humans.
 * [Logo Dust](https://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
@@ -157,7 +150,6 @@ A selection of websites offering high quality video stock.
 
 * [Coverr](https://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
 * [FreeStockVideo](https://free-stock.video/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free Beautiful Video & Footage Clips.
-* [Life of Vids](https://www.lifeofvids.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
 * [Mazwai](https://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 * [Mixkit](https://mixkit.co/free-stock-video/) - [:copyright:](https://mixkit.co/license/#videoFree) High-quality stock videos that are completely free.
 * [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
@@ -172,7 +164,6 @@ A mixture of CSS and image based pattern resources.
 * [CSS3 Patterns Gallery](https://lea.verou.me/css3patterns/) - CSS3 based repeatable patterns.
 * [Hero Patterns](https://www.heropatterns.com/) - A collection of free CC Attribution 4.0 repeatable SVG background patterns.
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Image based background textures and patterns.
-* [The Pattern Library](https://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
 * [UI Gradients](https://uigradients.com/) - Nice, subtle linear gradients to use in your designs.
 
 ## Textures
