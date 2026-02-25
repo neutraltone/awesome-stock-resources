@@ -94,6 +94,7 @@ These following photography resources are those who have declared their own usag
 * [Reshot](https://www.reshot.com/) - [:copyright:](https://www.reshot.com/license) Handpicked, non-stocky images. Yours to use as you wish.
 * [Startup Stock Photos](https://startupstockphotos.com/) - [:copyright:](https://startupstockphotos.com/terms-of-use) Startup based photography.
 * [Unsplash](https://unsplash.com/) - [:copyright:](https://unsplash.com/license) User submitted, free high-resolution photos.
+* [We Animals Media](https://stock.weanimals.org/) - [:copyright:](https://stock.weanimals.org/licensing/) Professional photojournalism-quality stock photography of animals in diverse contexts including wildlife, sanctuaries, and urban environments. 40,000+ images free for non-commercial use with attribution.
 
 ### Public Domain
 
