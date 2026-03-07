@@ -248,6 +248,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](https://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 * [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
+* [Woopicx](https://woopicx.com/collection/basic3d) - 12,000+ AI-generated 3D icons across 80+ categories with transparent PNG backgrounds. Free tier with commercial license.
 
 ## Colors
 
