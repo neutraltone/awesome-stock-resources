@@ -225,6 +225,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 
 A collection for SVG icon resources which can be used in your interface and website designs.
 
+* [All SVG Icons](https://allsvgicons.com/) - 250,000+ free SVG icons from 220 carefully curated icon libraries.
 * [Atlas Icons](https://atlasicons.vectoricons.net/) - [:copyright:](https://opensource.org/licenses/MIT) 2,701 free consistent icons.
 * [BlendIcons](https://blendicons.com/) - [:copyright:](https://blendicons.com/page/licence) Free, world top icons.
 * [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright:](https://github.com/twbs/icons/blob/main/LICENSE) Free, high quality, open source icon library with over 1,800 icons.
