@@ -6,6 +6,7 @@
 
 I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for creative workflow orchestration, automated content management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 * [Photography](#photography)
