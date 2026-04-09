@@ -6,6 +6,7 @@
 
 I try my best to maintain this repository and keep it up-to-date but if you spot a broken link or a resource which isn't listed, please, feel free to make a pull request.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=neutraltone_awesome-stock-resources) - Follow developers on GitHub and get a feed of what they star and build.
 ## Table of Contents
 
 * [Photography](#photography)
