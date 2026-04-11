@@ -135,6 +135,7 @@ A collection of illustration resources which contain a mixture of historical arc
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) - [:copyright:](https://www.oldbookillustrations.com/terms-of-use/) A massive collection of illustrations from old books.
 * [unDraw](https://undraw.co/) - [:copyright:](https://undraw.co/license) Open-source illustrations for every project you can imagine and create.
 * [WooBro.design](https://woobro.design/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) CC-BY licensed vector image illustrations with sources.
+* [DrawKit](https://www.drawkit.com/) - [:copyright:](https://www.drawkit.com/license) a library of free and paid assets including 2D and 3D illustrations, icons, animations, and mockups. Doesn't require attributions.
 
 ## Vector Graphics
 
