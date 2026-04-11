@@ -72,6 +72,7 @@ All the resources below have specifically specified that their content is [:copy
 * [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
 * [Travel Coffee Book](https://travelcoffeebook.com/) - Travel photography.
 * [WordPress Photo Directory](https://wordpress.org/photos/) - Free, high-quality, community-submitted photographs suitable for use within WordPress sites and elsewhere.
+* [Smithsonian Open Access](https://www.si.edu/openaccess) - A search tool to find images and 3D models in the public domain across the Smithsonian’s collections.
 
 ### Custom License / Usage
 
