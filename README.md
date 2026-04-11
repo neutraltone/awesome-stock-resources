@@ -275,6 +275,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 * [Libre Stock](https://librestock.com/) - Search engine for stock photo websites.
 * [Stock Up](https://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
 * [The Stocks](https://thestocks.im/) - The best royalty free stock photos in one place.
+* [Icons8](https://icons8.com/) - [:copyright:](https://icons8.com/license) A library of free and paid assets including icons, illustrations, AI, photos, and music. The free tier requires attributions and may have a lower resolution and watermarks.
 
 ## HTML Templates
 
