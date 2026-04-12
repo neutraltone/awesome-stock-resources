@@ -303,6 +303,7 @@ Free resources for stock sound and music to be used on creative projects
 * [SoundBible](https://soundbible.com) - [:copyright:](https://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
 * [Tunetank](https://tunetank.com/) - [:copyright:](https://tunetank.com/license/) Exclusive royalty free music for YouTube videos without copyright claims.
 * [Unminus](https://www.unminus.com/) - [:copyright:](https://www.unminus.com/license) Download Royalty Free Music for YouTube Videos, Podcasts and Apps. No Copyright CC0 Music inspired by Unsplash.
+* [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/) - [:copyright:](https://sound-effects.bbcrewind.co.uk/licensing) A library of sound effects originally designed for specific programs that covers diverse categories. Free for non-commercial use but a license is required for commercial use.
 
 ## Paid Resources
 
