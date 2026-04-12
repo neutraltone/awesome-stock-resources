@@ -94,6 +94,7 @@ These following photography resources are those who have declared their own usag
 * [Reshot](https://www.reshot.com/) - [:copyright:](https://www.reshot.com/license) Handpicked, non-stocky images. Yours to use as you wish.
 * [Startup Stock Photos](https://startupstockphotos.com/) - [:copyright:](https://startupstockphotos.com/terms-of-use) Startup based photography.
 * [Unsplash](https://unsplash.com/) - [:copyright:](https://unsplash.com/license) User submitted, free high-resolution photos.
+* [Pixexid](https://pixexid.com/) - [:copyright:](https://pixexid.com/pages/terms) A community-driven AI image generation platform. No free credits. Follow the license on each individual image.
 
 ### Public Domain
 
