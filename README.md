@@ -135,6 +135,7 @@ A collection of illustration resources which contain a mixture of historical arc
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) - [:copyright:](https://www.oldbookillustrations.com/terms-of-use/) A massive collection of illustrations from old books.
 * [unDraw](https://undraw.co/) - [:copyright:](https://undraw.co/license) Open-source illustrations for every project you can imagine and create.
 * [WooBro.design](https://woobro.design/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) CC-BY licensed vector image illustrations with sources.
+* [Many Pixels](https://www.manypixels.co/gallery) - [:copyright:](The license is featured on all gallery images) A library of free vector illustrations available in the PNG format. SVGs must be purchased. Doesn't require attributions.
 
 ## Vector Graphics
 
