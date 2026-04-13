@@ -248,6 +248,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](https://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 * [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
+* [Game-icons.net](https://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A library of free customizable videogame themed icons available in PNG and SVG formats. Requires attributions.
 
 ## Colors
 
