@@ -275,6 +275,7 @@ A liberal mixture of content aggregated from other free resources and made avail
 * [Libre Stock](https://librestock.com/) - Search engine for stock photo websites.
 * [Stock Up](https://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
 * [The Stocks](https://thestocks.im/) - The best royalty free stock photos in one place.
+* [Wikimedia Commons](https://commons.wikimedia.org) - [:copyright:](https://commons.wikimedia.org/wiki/Commons:Licensing) The world's largest volunteer-run repository of public domain and freely-licensed assets including images, videos, sounds, and 3D models. Quality and licenses vary for each file.
 
 ## HTML Templates
 
