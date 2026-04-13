@@ -248,6 +248,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](https://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 * [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
+* [Flaticon](https://www.flaticon.com/) - [:copyright:](https://www.flaticon.com/legal) A sister project of Freepik that provides a dedicated library of free and paid general icons, animated icons, interface icons, and stickers. Each asset is either part of a pack or standalone and may offer predefined variants. SVGs are usually reserved for the paid tier. The free tier requires attributions.
 
 ## Colors
 
