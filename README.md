@@ -286,6 +286,7 @@ Various different websites offering free HTML templates and themes.
 * [Start Bootstrap](https://startbootstrap.com/) - [:copyright:](https://opensource.org/licenses/MIT) Free Bootstrap templates and themes.
 * [Templated](https://templated.live/) - [:copyright:](https://templated.live/license) A collection of 867 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
 * [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.
+- [Uiverse](https://uiverse.io/) - [:copyright:](https://opensource.org/license/mit) A community-built library of open-Source UI elements that can be copied as HTML/CSS, Tailwind, React, and Figma.
 
 ## Sounds & Music
 
