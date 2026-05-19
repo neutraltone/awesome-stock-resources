@@ -161,6 +161,7 @@ A selection of websites offering high quality video stock.
 * [Mazwai](https://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 * [Mixkit](https://mixkit.co/free-stock-video/) - [:copyright:](https://mixkit.co/license/#videoFree) High-quality stock videos that are completely free.
 * [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
+* [BeatSync PRO Free Clips](https://beatsyncpro.ai/free-packs) - [:copyright:](https://beatsyncpro.ai/free-packs) 500 free royalty-free music video clips in 10 themed packs (lo-fi, phonk, dark ambient, trap, cyberpunk + more). No attribution required.
 * [Videezy](https://www.videezy.com) - [:copyright:](https://www.videezy.com/terms) Free stock videos, 4k footage, and free HD video clips.
 * [Vidsplay](https://www.vidsplay.com/) - [:copyright:](https://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 * [VYOO](https://www.veed.io/vyoo) - [:copyright:](https://www.veed.io/vyoo/terms) Beautiful, Free Vertical Videos.
