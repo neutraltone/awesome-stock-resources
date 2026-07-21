@@ -264,7 +264,9 @@ A selection of websites offering color schemes.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
+* [Sez](https://sez.c-sharptutorial.com/) - Instantly apply and generate color palettes for HTML website themes without opening an editor or IDE.
 * [Volume](https://volumecolor.io/) - Generate and export perceptually uniform color systems in OKLCH.
+
 
 ## Aggregated Content
 
