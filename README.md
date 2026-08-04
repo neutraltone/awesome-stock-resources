@@ -246,6 +246,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Obra Icons](https://icons.obra.studio/) - [:copyright:](https://icons.obra.studio/licensing-agreement) A simple, consistent set of icons, perfect for user interfaces.
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](https://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+* [SVGicons.com](https://svgicons.com/) - Search 312K+ open-source SVG icons and copy ready-to-use SVG, React, Vue, HTML, or CSS code.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 * [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
 
