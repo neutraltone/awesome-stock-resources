@@ -158,6 +158,7 @@ A selection of websites offering high quality video stock.
 * [Coverr](https://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
 * [FreeStockVideo](https://free-stock.video/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free Beautiful Video & Footage Clips.
 * [Life of Vids](https://www.lifeofvids.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
+* [LoveYouMotion](https://loveyoumotion.com/) - [:copyright:](https://loveyoumotion.com/license) Free stock video, video templates, music and SFX. No sign-up, no watermark, free for commercial use.
 * [Mazwai](https://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 * [Mixkit](https://mixkit.co/free-stock-video/) - [:copyright:](https://mixkit.co/license/#videoFree) High-quality stock videos that are completely free.
 * [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
