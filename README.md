@@ -247,6 +247,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Obra Icons](https://icons.obra.studio/) - [:copyright:](https://icons.obra.studio/licensing-agreement) A simple, consistent set of icons, perfect for user interfaces.
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](https://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
+* [Thridy](https://thridy.com/) - [:copyright:](https://thridy.com/license) 13,000+ free 3D icons in one consistent style, free for personal and commercial use with no attribution required.
 * [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
 
 ## Colors
