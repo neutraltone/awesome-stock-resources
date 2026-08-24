@@ -100,6 +100,7 @@ These following photography resources are those who have declared their own usag
 A collection of links to public domain photography resources.
 
 * [Good Free Photos](https://www.goodfreephotos.com) - [:copyright:](https://www.goodfreephotos.com/pages/creative-commons-license-terms) A large free stock photo site with thousands of public domain photos including landscapes, objects, animals, plants, textures, and many other free photos. All photos taken by [the website owner](https://www.goodfreephotos.com/pages/about-me).
+* [Fine Art Free](https://fineartfree.com/) - [:copyright:](https://fineartfree.com/public-domain-images-for-commercial-use) 500,000+ public domain paintings, prints and illustrations from the world's great museums, free to download in high resolution.
 * [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr's catalogue of the worlds public photo archives.
 * [New Old Stock](https://nos.twnsnd.co/) - [:copyright:](https://nos.twnsnd.co/rights-and-usage) Vintage photos from the public archive. of known copyright restrictions.
 * [NYPL Digital Collections](https://digitalcollections.nypl.org/) - [:copyright:](https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
