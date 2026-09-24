@@ -111,6 +111,7 @@ A collection of links to public domain photography resources.
 The photographs on the following resources require Attribution unless otherwise stated on the website itself. These use a mixture of license, all of which have been linked to next to them.
 
 * [BucketListly](https://photos.bucketlistly.com/) - A free creative common collection of travel photos anyone can use.
+* [BudgetPixel Free Images](https://budgetpixel.com/images) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Over 9,000 AI-generated photos and illustrations, each reviewed before listing, with no sign-up.
 * [IM Creator](https://imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
 * [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/spaceimages/) - [:copyright:](https://www.jpl.nasa.gov/imagepolicy/) Graphics and photos of space and spaceflight.
 * [UKBlackTech](https://ukblacktech.com/stockphotos/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Photographers of British based BAME (Black, Asian, and minority ethnic) people in tech.
