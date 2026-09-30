@@ -142,6 +142,7 @@ A collection of resources which contain stock graphical elements which don't fit
 
 * [AMCharts - Free SVG Maps](https://www.amcharts.com/svg-maps/) - [:copyright:](https://creativecommons.org/licenses/by-nc/4.0/) A directory of free non-commercial, attribution licensed SVG maps in two level of details: High and low.
 * [Bioicons](https://bioicons.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) High quality science illustrations.
+* [ClikPNG](https://www.clikpng.com/) - [:copyright:](https://www.clikpng.com/page/terms-of-use) Over 25,000 free transparent PNG images, cliparts and icons with no sign-up required.
 * [Facebook Design Resource](https://facebook.design/) - [:copyright:](https://facebook.design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
 * [FreeVectors.net](https://www.freeVectors.net) - [:copyright:](https://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
 * [Humaans](https://www.humaaans.com/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) CC0 licensed clipart images of humans.
