@@ -156,6 +156,7 @@ A collection of resources which contain stock graphical elements which don't fit
 A selection of websites offering high quality video stock.
 
 * [Coverr](https://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
+* [CreatorStock](https://creatorstock.io/) - Curated vertical UGC and aesthetic stock footage library designed for Reels, TikTok, and social video creators.
 * [FreeStockVideo](https://free-stock.video/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free Beautiful Video & Footage Clips.
 * [Life of Vids](https://www.lifeofvids.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
 * [Mazwai](https://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
