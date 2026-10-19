@@ -297,6 +297,7 @@ Free resources for stock sound and music to be used on creative projects
 * [Free To Use](https://freetouse.com/music) - [:copyright:](https://freetouse.com/music/usage-policy) Download unlimited background music 100% for free – no registration required. With no copyright claims, all our music is safe and free to use in your videos.
 * [Freesound](https://freesound.org/) - [:copyright:](https://freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
 * [FreeSoundEffects](https://free-sound-effects.net/) - [:copyright:](https://creativecommons.org/) For YouTube, filmmakers, games, podcasts and to use in your next video project, for free!
+* [Hidden Track](https://hiddentrack.fm/) - [:copyright:](https://hiddentrack.fm/license) Free songs for videos, streams, podcasts and games, including commercial use, with no credit needed.
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 * [Sound Image](https://soundimage.org/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
