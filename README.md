@@ -115,6 +115,8 @@ The photographs on the following resources require Attribution unless otherwise 
 * [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/spaceimages/) - [:copyright:](https://www.jpl.nasa.gov/imagepolicy/) Graphics and photos of space and spaceflight.
 * [UKBlackTech](https://ukblacktech.com/stockphotos/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Photographers of British based BAME (Black, Asian, and minority ethnic) people in tech.
 * [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - [:copyright:](https://creativecommons.org/licenses/by/2.0/) Licensed picture from Women of Color in Tech.
+* [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+* [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 ### Unspecified License
 
