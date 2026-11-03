@@ -293,6 +293,7 @@ Free resources for stock sound and music to be used on creative projects
 
 * [Bensound](https://www.bensound.com) - [:copyright:](https://www.bensound.com/licensing) Royalty free music by Bensound.
 * [ccMixter](https://ccmixter.org/) - [:copyright:](https://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
+* [DailySounds](https://dailysounds.org/?ref=stockres) - [:copyright:](https://dailysounds.org/license) Free sound effects to play in the browser and download as MP3, WAV or OGG, free for commercial use with no account.
 * [Free Music Archive](https://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
 * [Free To Use](https://freetouse.com/music) - [:copyright:](https://freetouse.com/music/usage-policy) Download unlimited background music 100% for free – no registration required. With no copyright claims, all our music is safe and free to use in your videos.
 * [Freesound](https://freesound.org/) - [:copyright:](https://freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
