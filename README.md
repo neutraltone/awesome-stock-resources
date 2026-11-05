@@ -164,6 +164,7 @@ A selection of websites offering high quality video stock.
 * [Videezy](https://www.videezy.com) - [:copyright:](https://www.videezy.com/terms) Free stock videos, 4k footage, and free HD video clips.
 * [Vidsplay](https://www.vidsplay.com/) - [:copyright:](https://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 * [VYOO](https://www.veed.io/vyoo) - [:copyright:](https://www.veed.io/vyoo/terms) Beautiful, Free Vertical Videos.
+* [Your Move Free Exercise Videos](https://ymove.app/free-exercise-videos) - [:copyright:](https://ymove.app/free-exercise-videos#licence) Free HD exercise demonstration videos (squats, rows, presses, cable and machine work), free for commercial use.
 
 ## Patterns
 
