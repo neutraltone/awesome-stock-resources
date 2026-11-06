@@ -239,6 +239,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Heroicons](https://heroicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) Beautiful, free SVG icons from the makers of Tailwind CSS.
 * [Humbleicons](https://humbleicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) A pack of 227 simple, neutral, carefully crafted icons that you can use in your personal and commercial projects for free.
 * [Iconhunt](https://www.iconhunt.site/) - A search engine with 150.000+ free, open sources icons.
+* [Iconito Free Food](https://iconi.to/free-food-icons) - [:copyright:](https://opensource.org/licenses/MIT) 120 colour food icons in SVG, drawn to read at 24px.
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Iconoir](https://iconoir.com/) - [:copyright:](https://opensource.org/licenses/MIT) A Simple and Definitive Open-Source Icons Library.
 * [Lucide](https://lucide.dev/) - [:copyright:](https://lucide.dev/license) Beautiful & consistent icon toolkit made by the community.
