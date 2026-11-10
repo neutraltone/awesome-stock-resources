@@ -299,6 +299,7 @@ Free resources for stock sound and music to be used on creative projects
 * [FreeSoundEffects](https://free-sound-effects.net/) - [:copyright:](https://creativecommons.org/) For YouTube, filmmakers, games, podcasts and to use in your next video project, for free!
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
+* [Mikael Hellman](https://mikaelhellman.com/) (Requires attribution) - [:copyright:](https://mikaelhellman.com/license/) Free cinematic and orchestral instrumentals, every track checked by hand against YouTube Content ID.
 * [Sound Image](https://soundimage.org/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
 * [SoundBible](https://soundbible.com) - [:copyright:](https://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
 * [Tunetank](https://tunetank.com/) - [:copyright:](https://tunetank.com/license/) Exclusive royalty free music for YouTube videos without copyright claims.
