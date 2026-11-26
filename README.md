@@ -131,6 +131,7 @@ These resources haven't specified any formal terms of use or licenses.
 A collection of illustration resources which contain a mixture of historical archive, contemporary and public domain assets.
 
 * [Biodiversity Heritage Library](https://www.flickr.com/people/biodivlibrary/) [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) [:copyright:](https://creativecommons.org/licenses/by/2.0/) A mix of Public Domain and Attribution (CC BY 2.0) licenses. Nearly 150,000 exquisite, historical illustrations of life on Earth.
+* [Bird Illustrations](https://birdillustrations.com/) - [:copyright:](https://birdillustrations.com/license) Free transparent PNG and WebP bird clipart covering all 11,011 living bird species (CC BY 4.0).
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/albums/72157640831988343/) - [:copyright:](https://www.bl.uk/terms) The British Library’s collections on Flickr Commons offer access to millions of public domain images.
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) - [:copyright:](https://www.oldbookillustrations.com/terms-of-use/) A massive collection of illustrations from old books.
 * [unDraw](https://undraw.co/) - [:copyright:](https://undraw.co/license) Open-source illustrations for every project you can imagine and create.
